@@ -16,7 +16,7 @@ public:
         auto calculateAngle = [=](std::vector<int>& x) {
             int ax = x[0] - location[0];
             int ay = x[1] - location[1];
-            double a1 = atan2(ay, ax) * 180 / M_PI;
+            double a1 = atan2(ay, ax) * 180 / 3.1415926;
             if (a1 < 0) a1 += 360.0;
             return a1;
             };

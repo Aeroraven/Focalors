@@ -3,8 +3,8 @@ project(Anthem)
 
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
-set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS}")
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS}")
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} /fsanitize=address")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /fsanitize=address")
 
 
 file(GLOB SOURCE_STAGES "problems-cpp/*.cpp")
