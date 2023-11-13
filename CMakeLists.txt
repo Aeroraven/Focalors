@@ -17,3 +17,5 @@ foreach( SRC_FILE_NAME ${SOURCE_STAGES} )
     get_filename_component( SRC_FILE_NAME_SHORT ${SRC_FILE_NAME} NAME_WE )
     add_executable( ${SRC_FILE_NAME_SHORT} ${SRC_FILE_NAME})
 endforeach( SRC_FILE_NAME ${SOURCE_STAGES} )
+
+add_executable(rdgen "misc/rdgen.cpp")

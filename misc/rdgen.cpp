@@ -12,9 +12,9 @@ int main() {
 		vector<int> a;
 		srand(time(NULL));
 		for (int i = 0; i < n; i++) {
-			a.push_back(rand() % 20000);
+			a.push_back(rand() % 25);
 		}
-		std::sort(a.begin(), a.end());
+		//std::sort(a.begin(), a.end());
 		for (int i = 0; i < n; i++) {
 			cout << a[i];
 			if (i != n - 1) {
