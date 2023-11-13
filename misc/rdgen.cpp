@@ -6,6 +6,7 @@
 using namespace std;
 
 int main() {
+	cout << (~0x7fffffff) << endl;
 	int p = 0;
 	cin >> p;
 	while (p) {
