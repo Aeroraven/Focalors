@@ -12,12 +12,23 @@ int main() {
 		vector<int> a;
 		srand(time(NULL));
 		for (int i = 0; i < n; i++) {
-			a.push_back(rand() % 25);
+			a.push_back(rand() % 2);
 		}
 		//std::sort(a.begin(), a.end());
-		for (int i = 0; i < n; i++) {
-			cout << a[i];
-			if (i != n - 1) {
+		for (int k = 0; k < n; k++) {
+			cout << "[";
+			for (int i = 0; i < n; i++) {
+				int w = rand() % 2;
+				if (w == 0) {
+					w = rand() % 2;
+				}
+				cout << "\"" << w << "\"";
+				if (i != n - 1) {
+					cout << ",";
+				}
+			}
+			cout << "]";
+			if (k != n - 1) {
 				cout << ",";
 			}
 		}
