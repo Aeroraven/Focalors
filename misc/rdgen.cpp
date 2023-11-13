@@ -6,6 +6,14 @@
 using namespace std;
 
 int main() {
+	int p = 0;
+	cin >> p;
+	while (p) {
+		cout << (p & (p - 1)) << endl;
+		p = (p & (p - 1));
+	}
+	return 0;
+
 	int n = 1000;
 	while (true) {
 		cin >> n;
