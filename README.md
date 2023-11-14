@@ -22,6 +22,9 @@ Following codes contain (logically) unused variables.
 - `37` Sudoku Solver
 
 
+## Algorithm Forgotten
+
+- `214`: Shortest Palindrome -> Manacher/KMP
 
 ## Priority
 
