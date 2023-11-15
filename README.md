@@ -64,4 +64,4 @@ So use it as free as you can.
 | 87 | Scramble String | |  | Hard |
 
 ## Annotations
-- `T`: An accepted but time-consuming algogrithm
+- `T`: An accepted but time-consuming algorithm
