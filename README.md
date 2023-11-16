@@ -22,11 +22,13 @@ So use it as free as you can.
 | 41 | First Missing Positive | Simulation (Inplace) | Hard (8) | Hard |
 | 42 | Trapping Rain Water | Simulation | Easy (4) | Hard |
 | 44 | Wildcard Matching | Dynamic Programming |  | Hard | T |
+| 50 | Pow(x,n) | Fast Power Algorithm | Easy (3) | Med |
 | 51 | N-Queens | Simulation | Easy (1) | Hard |
 | 52 | N-Queens II | Simulation | Easy (1) | Hard |
 | 60 | Permutation Sequence | Combinatorics | Med (5) | Hard |
 | 65 | Valid Number | Simulation | Easy (2) | Hard |
 | 68 | Text Justification | Simulation | Easy (2) | Hard |
+| 70 | Climbing Stairs | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | Easy (0) | Easy |
 | 76 | Minimum Window Substring | Sliding Window | Med (6) | Hard |
 | 84 | Largest Rectangle in Histogram | Stack | Med (6) | Hard |
 | 85 | Maximal Rectangle | Prefix Sum | Med (5) | Hard |
@@ -40,6 +42,7 @@ So use it as free as you can.
 | 214 | Shortest Palindrome | Rabin-Karp |  | Hard |
 | 218 | The Skyline Problem | Heap + Sort | Med (5) | Hard |
 | 233 | Number of Digit One | Combinatorics + Dynamic Programming | Med (6) | Hard |
+| 292 | Nim Game | Gaming Theory + Dynamic Programming | Easy (3) | Easy |
 | 295 | Find Median from Data Stream | Heap | Med (5) | Hard |
 | 312 | Burst Balloons | Dynamic Programming | Med (6) | Hard |
 | 315 | Count of Smaller Numbers After Self | Binary Index Tree | Easy (3) | Hard |
@@ -59,9 +62,21 @@ So use it as free as you can.
 
 ## List of Unsolved Problems
 
-| ID | Problem | Solution Adopted | Perceived Difficulty | Annotated Difficulty | Status |
+| ID | Problem | Annotated Difficulty | Status |
 | -- | -- | -- | -- | -- | -- |
-| 87 | Scramble String | |  | Hard |
+| 87 | Scramble String  | Hard |
+
+
+## List of Problems Solved in Suboptimal Method
+
+| ID | Problem | Solution Adopted | Time Complexity | Optimal Solution | Time Complexity |  
+| -- | -- | -- | -- | -- | -- |
+| 70 | Climbing Stairs |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
+| 214 | Shortest Palindrome | Rabin-Karp | O(n^2)* | Manacher | O(n)
+| LCR126 | Fibonacci Number |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
+
+*. Worst case of hash function
+
 
 ## Annotations
 - `T`: An accepted but time-consuming algorithm
