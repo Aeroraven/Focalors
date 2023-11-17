@@ -17,6 +17,7 @@ So use it as free as you can.
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | CSharp |
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ |
 | 11 | Container with Most Water | Dual Pointer | 7 | Med | O(n) | CSharp |
+| 15 | 3 Sum | Hashing | 5 | Med | O(n^3) | CSharp |
 | 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ |
 | 25 | Reverse Nodes in k-Group | Simulation | 3 | Hard |   | C++ |
 | 30 | Substring with Concatenation of All Words | Sliding Window | 7 | Hard |   | C++ |
@@ -62,6 +63,9 @@ So use it as free as you can.
 | LCR126 | Fibonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ |
 
 `Simulation` means the problem can be solved using `Brute Force` algorithm (Do what you are asked to do)
+
+*. Worst case of hash function
+
 
 ## List of Unsolved Problems
 
