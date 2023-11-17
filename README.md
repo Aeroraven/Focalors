@@ -11,7 +11,7 @@ So use it as free as you can.
 ## List of Solved Problems
 
 | ID | Problem | Solution Adopted | Perceived Difficulty | Annotated Difficulty | Time Complxity | Lang | Status | 
-| -- | -- | -- | -- | -- | -- | -- |
+| -- | -- | -- | -- | -- | -- | -- | -- |
 | 4 | Median of Two Sorted Arrays | Binary Search | 7 | Hard | O(logn) | C++ |
 | 5 | Longest Palindromic Substring | Manacher | 4 | Med | O(n) | C++ |
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | CSharp |
