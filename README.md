@@ -14,6 +14,7 @@ So use it as free as you can.
 | -- | -- | -- | -- | -- | -- | -- |
 | 4 | Median of Two Sorted Arrays | Binary Search | 7 | Hard | O(logn) | C++
 | 5 | Longest Palindromic Substring | Manacher | 4 | Med | O(n) | C++ |
+| 8 | String to Integer | Simulation | 1 | Med | O(n) | CSharp |
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ |
 | 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ |
 | 25 | Reverse Nodes in k-Group | Simulation | 3 | Hard |   | C++ |
