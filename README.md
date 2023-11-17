@@ -16,6 +16,7 @@ So use it as free as you can.
 | 5 | Longest Palindromic Substring | Manacher | 4 | Med | O(n) | C++ |
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | CSharp |
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ |
+| 11 | Container with Most Water | Dual Pointer | 7 | Med | O(n) | CSharp |
 | 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ |
 | 25 | Reverse Nodes in k-Group | Simulation | 3 | Hard |   | C++ |
 | 30 | Substring with Concatenation of All Words | Sliding Window | 7 | Hard |   | C++ |
