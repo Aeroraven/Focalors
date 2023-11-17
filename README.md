@@ -10,60 +10,61 @@ So use it as free as you can.
 
 ## List of Solved Problems
 
-| ID | Problem | Solution Adopted | Perceived Difficulty | Annotated Difficulty | Status |
-| -- | -- | -- | -- | -- | -- |
-| 4 | Median of Two Sorted Arrays | Binary Search | Hard (7) | Hard |
-| 10 | Regular Expression Matching | Dynamic Programming | Med (5) | Hard |
-| 23 | Merge k Sorted Lists | Simulation | Easy (2) | Hard |
-| 25 | Reverse Nodes in k-Group | Simulation | Easy (3) | Hard |
-| 30 | Substring with Concatenation of All Words | Sliding Window | Hard (7) | Hard |
-| 32 | Longest Valid Parentheses | Dynamic Programming + Stack | Easy (4) | Hard |
-| 37 | Sudoku Solver | Simulation | Easy (2) | Hard |
-| 41 | First Missing Positive | Simulation (Inplace) | Hard (8) | Hard |
-| 42 | Trapping Rain Water | Simulation | Easy (4) | Hard |
-| 44 | Wildcard Matching | Dynamic Programming |  | Hard | T |
-| 50 | Pow(x,n) | Fast Power Algorithm | Easy (3) | Med |
-| 51 | N-Queens | Simulation | Easy (1) | Hard |
-| 52 | N-Queens II | Simulation | Easy (1) | Hard |
-| 60 | Permutation Sequence | Combinatorics | Med (5) | Hard |
-| 65 | Valid Number | Simulation | Easy (2) | Hard |
-| 68 | Text Justification | Simulation | Easy (2) | Hard |
-| 70 | Climbing Stairs | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | Easy (0) | Easy |
-| 76 | Minimum Window Substring | Sliding Window | Med (6) | Hard |
-| 84 | Largest Rectangle in Histogram | Stack | Med (6) | Hard |
-| 85 | Maximal Rectangle | Prefix Sum | Med (5) | Hard |
-| 123 | Best Time to Buy and Sell Stock III | Dynamic Programming | Med (5) | Hard |
-| 124 | Binary Tree Maximum Path Sum | Dynamic Programming | Easy (3) | Hard |
-| 127 | Word Ladder | Breadth\-first Search |   | Hard | T |
-| 135 | Candy | Greedy Strategy \+ Sort | Easy (4)  | Hard |
-| 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | Med (5)  | Hard |
-| 174 | Dungeon Game | Dynamic Programming | Hard (7)  | Hard |
-| 184 | Best Time to Buy and Sell Stock IV | Dynamic Programming | Med (5) | Hard |
-| 214 | Shortest Palindrome | Rabin-Karp |  | Hard |
-| 218 | The Skyline Problem | Heap + Sort | Med (5) | Hard |
-| 233 | Number of Digit One | Combinatorics + Dynamic Programming | Med (6) | Hard |
-| 292 | Nim Game | Gaming Theory + Dynamic Programming | Easy (3) | Easy |
-| 295 | Find Median from Data Stream | Heap | Med (5) | Hard |
-| 312 | Burst Balloons | Dynamic Programming | Med (6) | Hard |
-| 315 | Count of Smaller Numbers After Self | Binary Index Tree | Easy (3) | Hard |
-| 327 | Count of Range Sum | Binary Index Tree + Hash + Binary Search Tree + Prefix Sum | Med (6) | Hard |
-| 403 | Frog Jump | Breadth-first Search | Easy (3) | Hard |
-| 410 | Split Array Largest Sum | Dynamic Programming |  | Hard | T |
-| 679 | 24 Game | Simulation | Easy (2) | Hard |
-| 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | Med (6) | Hard |
-| 829 | Consecutive Numbers Sum | Primary Math | Easy (2) | Hard |
-| 878 | Nth Magical Number | Math Theory + Binary Search | Hard (7) | Hard |
-| 1137 | N-th Tribonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | Easy (0) | Easy |
-| 1345 | Jump Game IV | Breadth-first Search | Easy (3) | Hard |
-| 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | Easy (4 ) | Hard |
-| LCR126 | Fibonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | Easy (0) | Easy |
+| ID | Problem | Solution Adopted | Perceived Difficulty | Annotated Difficulty | Time Complxity | Lang | Status | 
+| -- | -- | -- | -- | -- | -- | -- |
+| 4 | Median of Two Sorted Arrays | Binary Search | 7 | Hard | O(logn) | C++
+| 5 | Longest Palindromic Substring | Manacher | 4 | Med | O(n) | C++ |
+| 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ |
+| 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ |
+| 25 | Reverse Nodes in k-Group | Simulation | 3 | Hard |   | C++ |
+| 30 | Substring with Concatenation of All Words | Sliding Window | 7 | Hard |   | C++ |
+| 32 | Longest Valid Parentheses | Dynamic Programming + Stack | 4 | Hard |   | C++ |
+| 37 | Sudoku Solver | Simulation | 2 | Hard |   | C++ |
+| 41 | First Missing Positive | Simulation (Inplace) | 8 | Hard |   | C++ |
+| 42 | Trapping Rain Water | Simulation | 4 | Hard |   | C++ |
+| 44 | Wildcard Matching | Dynamic Programming |  | Hard |  | C++ | T | 
+| 50 | Pow(x,n) | Fast Power Algorithm | 3 | Med |   | C++ |
+| 51 | N-Queens | Simulation | 1 | Hard |   | C++ |
+| 52 | N-Queens II | Simulation | 1 | Hard |   | C++ |
+| 60 | Permutation Sequence | Combinatorics | 5 | Hard |   | C++ |
+| 65 | Valid Number | Simulation | 2 | Hard |   | C++ |
+| 68 | Text Justification | Simulation | 2 | Hard |   | C++ |
+| 70 | Climbing Stairs | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ |
+| 76 | Minimum Window Substring | Sliding Window | 6 | Hard |   | C++ |
+| 84 | Largest Rectangle in Histogram | Stack | 6 | Hard |   | C++ |
+| 85 | Maximal Rectangle | Prefix Sum | 5 | Hard |   | C++ |
+| 123 | Best Time to Buy and Sell Stock III | Dynamic Programming | 5 | Hard |   | C++ |
+| 124 | Binary Tree Maximum Path Sum | Dynamic Programming | 3 | Hard |   | C++ |
+| 127 | Word Ladder | Breadth\-first Search |   | Hard |  | C++ |  T |
+| 135 | Candy | Greedy Strategy \+ Sort | 4  | Hard |   | C++ |
+| 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | 5  | Hard |   | C++ |
+| 174 | Dungeon Game | Dynamic Programming | 7  | Hard |   | C++ |
+| 184 | Best Time to Buy and Sell Stock IV | Dynamic Programming | 5 | Hard |   | C++ |
+| 214 | Shortest Palindrome | Rabin-Karp |  | Hard |   | C++ |
+| 218 | The Skyline Problem | Heap + Sort | 5 | Hard |   | C++ |
+| 233 | Number of Digit One | Combinatorics + Dynamic Programming | 6 | Hard |   | C++ |
+| 292 | Nim Game | Gaming Theory + Dynamic Programming | 3 | Easy |   | C++ |
+| 295 | Find Median from Data Stream | Heap | 5 | Hard |   | C++ |
+| 312 | Burst Balloons | Dynamic Programming | 6 | Hard |   | C++ |
+| 315 | Count of Smaller Numbers After Self | Binary Index Tree | 3 | Hard |   | C++ |
+| 327 | Count of Range Sum | Binary Index Tree + Hash + Binary Search Tree + Prefix Sum | 6 | Hard |   | C++ |
+| 403 | Frog Jump | Breadth-first Search | 3 | Hard |   | C++ |
+| 410 | Split Array Largest Sum | Dynamic Programming |  | Hard |   | C++ |  T |
+| 679 | 24 Game | Simulation | 2 | Hard |   | C++ |
+| 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | Hard |   | C++ |
+| 829 | Consecutive Numbers Sum | Primary Math | 2 | Hard |   | C++ |
+| 878 | Nth Magical Number | Math Theory + Binary Search | 7 | Hard |   | C++ |
+| 1137 | N-th Tribonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ |
+| 1345 | Jump Game IV | Breadth-first Search | 3 | Hard |   | C++ |
+| 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | Hard |   | C++ |
+| LCR126 | Fibonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ |
 
 `Simulation` means the problem can be solved using `Brute Force` algorithm (Do what you are asked to do)
 
 ## List of Unsolved Problems
 
 | ID | Problem | Annotated Difficulty | Status |
-| -- | -- | -- | -- | -- | -- |
+| -- | -- | -- | -- |
 | 87 | Scramble String  | Hard |
 
 
