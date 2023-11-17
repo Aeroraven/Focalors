@@ -12,7 +12,7 @@ So use it as free as you can.
 
 | ID | Problem | Solution Adopted | Perceived Difficulty | Annotated Difficulty | Time Complxity | Lang | Status | 
 | -- | -- | -- | -- | -- | -- | -- |
-| 4 | Median of Two Sorted Arrays | Binary Search | 7 | Hard | O(logn) | C++
+| 4 | Median of Two Sorted Arrays | Binary Search | 7 | Hard | O(logn) | C++ |
 | 5 | Longest Palindromic Substring | Manacher | 4 | Med | O(n) | C++ |
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | CSharp |
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ |
@@ -61,6 +61,7 @@ So use it as free as you can.
 | 1345 | Jump Game IV | Breadth-first Search | 3 | Hard |   | C++ |
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | Hard |   | C++ |
 | LCR126 | Fibonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ |
+
 
 `Simulation` means the problem can be solved using `Brute Force` algorithm (Do what you are asked to do)
 
