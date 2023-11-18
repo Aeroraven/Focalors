@@ -10,6 +10,9 @@ So use it as free as you can.
 
 ## List of Solved Problems
 
+*. Time complexity is calculated using the worst case (i.e. all hash conflict)
+
+
 | ID | Problem | Solution Adopted | Perceived Difficulty | Annotated Difficulty | Time Complxity | Lang | Status | 
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | 4 | Median of Two Sorted Arrays | Binary Search | 7 | Hard | O(logn) | C++ |
@@ -18,6 +21,7 @@ So use it as free as you can.
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ |
 | 11 | Container with Most Water | Dual Pointer | 7 | Med | O(n) | CSharp |
 | 15 | 3 Sum | Hashing | 5 | Med | O(n^3) | CSharp |
+| 16 | 3 Sum Closest | Dual Pointer | 5 | Med | O(n^2) | CSharp |
 | 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ |
 | 25 | Reverse Nodes in k-Group | Simulation | 3 | Hard |   | C++ |
 | 30 | Substring with Concatenation of All Words | Sliding Window | 7 | Hard |   | C++ |
@@ -65,7 +69,6 @@ So use it as free as you can.
 
 `Simulation` means the problem can be solved using `Brute Force` algorithm (Do what you are asked to do)
 
-*. Worst case of hash function
 
 
 ## List of Unsolved Problems
@@ -79,6 +82,7 @@ So use it as free as you can.
 
 | ID | Problem | Solution Adopted | Time Complexity | Optimal Solution | Time Complexity |  
 | -- | -- | -- | -- | -- | -- |
+| 15 | 3 Sum | Hashing | O(n^3)* | Dual Pointer | O(n^2)
 | 70 | Climbing Stairs |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
 | 214 | Shortest Palindrome | Rabin-Karp | O(n^2)* | Manacher | O(n)
 | LCR126 | Fibonacci Number |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
