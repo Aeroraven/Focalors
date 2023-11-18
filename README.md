@@ -24,6 +24,7 @@ So use it as free as you can.
 | 16 | 3 Sum Closest | Dual Pointer | 5 | Med | O(n^2) | CSharp |
 | 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ |
 | 25 | Reverse Nodes in k-Group | Simulation | 3 | Hard |   | C++ |
+| 29 | Divide | Binary Calculation | 5 | Med | O(logn) | CSharp |
 | 30 | Substring with Concatenation of All Words | Sliding Window | 7 | Hard |   | C++ |
 | 32 | Longest Valid Parentheses | Dynamic Programming + Stack | 4 | Hard |   | C++ |
 | 37 | Sudoku Solver | Simulation | 2 | Hard |   | C++ |
