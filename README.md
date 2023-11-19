@@ -24,13 +24,22 @@ So use it as free as you can.
 | 15 | 3 Sum | Hashing | 5 | Med | O(n^3) | CSharp |
 | 16 | 3 Sum Closest | Dual Pointer | 5 | Med | O(n^2) | CSharp |
 | 17 | Letter Combinations of a Phone Number | Simulation | 1 | Med | O(n*4^n) | CSharp |
+| 18 | 4 Sum | Dual Pointer | 5 | Med | O(n^3) | CSharp |
+| 19 | Remove Nth Node From End of List | Dual Pointer | 3 | Med | O(n) | CSharp |
+| 22 | Generate Parentheses | Simulation | 1 | Med | / | CSharp |
 | 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ |
+| 24 | Swap Nodes in Pairs | Simulation | 2 | Med | O(n)  | CSharp |
 | 25 | Reverse Nodes in k-Group | Simulation | 3 | Hard |   | C++ |
 | 29 | Divide | Binary Calculation | 5 | Med | O(logn) | CSharp |
 | 30 | Substring with Concatenation of All Words | Sliding Window | 7 | Hard | | C++ |
 | 31 | Next Permutation | Sort | 5 | Med |  O(n^2)  | CSharp | T
 | 32 | Longest Valid Parentheses | Dynamic Programming + Stack | 4 | Hard |   | C++ |
-| 37 | Sudoku Solver | Simulation | 2 | Hard |   | C++ |
+| 33 | Search in Rotated Sorted Array | Binary Search | 3 | Med |  O(nlogn)  | CSharp | 
+| 34 | Find First and Last Position of Element in Sorted Array | Binary Search | 2 | Med |  O(nlogn)  | CSharp |
+| 36 | Valid Sudoku | Simulation | 1 | Med |   | CSharp|
+| 37 | Sudoku Solver | Simulation | 2 | Hard | / | C++ |
+| 39 | Combination Sum | Dynamic Programming + Depth First Search | 4 | Med | /  | CSharp |
+| 40 | Combination Sum II | Dynamic Programming + Depth First Search | 4 | Med | /  | CSharp |
 | 41 | First Missing Positive | Simulation (Inplace) | 8 | Hard |   | C++ |
 | 42 | Trapping Rain Water | Simulation | 4 | Hard |   | C++ |
 | 44 | Wildcard Matching | Dynamic Programming |  | Hard |  | C++ | T | 
