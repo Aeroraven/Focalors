@@ -20,6 +20,7 @@ So use it as free as you can.
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | CSharp |
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ |
 | 11 | Container with Most Water | Dual Pointer | 7 | Med | O(n) | CSharp |
+| 12 | Integer to Roman | Simulation | 1 | Med | O(logn) | CSharp |
 | 15 | 3 Sum | Hashing | 5 | Med | O(n^3) | CSharp |
 | 16 | 3 Sum Closest | Dual Pointer | 5 | Med | O(n^2) | CSharp |
 | 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ |
@@ -85,7 +86,7 @@ So use it as free as you can.
 | ID | Problem | Solution Adopted | Time Complexity | Optimal Solution | Time Complexity |  
 | -- | -- | -- | -- | -- | -- |
 | 15 | 3 Sum | Hashing | O(n^3)* | Dual Pointer | O(n^2)
-| 31 | Next Permutation | Selective Sort | O(n^2)* | Sort | O(n)
+| 31 | Next Permutation | Selection Sort | O(n^2) | Sort (Reverse) | O(n)
 | 70 | Climbing Stairs |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
 | 214 | Shortest Palindrome | Rabin-Karp | O(n^2)* | Manacher | O(n)
 | LCR126 | Fibonacci Number |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
