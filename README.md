@@ -12,6 +12,13 @@ So use it as free as you can.
 
 *. Time complexity is calculated using the worst case (i.e. all hash conflict)
 
+**Perceived Difficulty**
+
+| Rank | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Difficulty | EZ- | EZ | EZ | EZ+ | MD- | MD | MD+ | HD | HD+ | IN | IN+ |
+
+**Problem List**
 
 | ID | Problem | Solution Adopted | Perceived Difficulty | Annotated Difficulty | Time Complxity | Lang | Status | 
 | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -49,6 +56,7 @@ So use it as free as you can.
 | 55 | Jump Game | Simulation | 2 | Med | O(n)  | CSharp |
 | 56 | Merge Intervals | Sort | 2 | Med | O(nlogn)  | CSharp |
 | 60 | Permutation Sequence | Combinatorics | 5 | Hard |   | C++ |
+| 62 | Unique Paths | Dynamic Programming | 1 | Med | O(nm)  | CSharp |
 | 65 | Valid Number | Simulation | 2 | Hard |   | C++ |
 | 68 | Text Justification | Simulation | 2 | Hard |   | C++ |
 | 70 | Climbing Stairs | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ |
