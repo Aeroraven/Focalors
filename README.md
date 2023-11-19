@@ -25,7 +25,8 @@ So use it as free as you can.
 | 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ |
 | 25 | Reverse Nodes in k-Group | Simulation | 3 | Hard |   | C++ |
 | 29 | Divide | Binary Calculation | 5 | Med | O(logn) | CSharp |
-| 30 | Substring with Concatenation of All Words | Sliding Window | 7 | Hard |   | C++ |
+| 30 | Substring with Concatenation of All Words | Sliding Window | 7 | Hard |
+| 31 | Next Permutation | Sort | 5 | Med |  O(n^2)  | CSharp | T
 | 32 | Longest Valid Parentheses | Dynamic Programming + Stack | 4 | Hard |   | C++ |
 | 37 | Sudoku Solver | Simulation | 2 | Hard |   | C++ |
 | 41 | First Missing Positive | Simulation (Inplace) | 8 | Hard |   | C++ |
@@ -84,6 +85,7 @@ So use it as free as you can.
 | ID | Problem | Solution Adopted | Time Complexity | Optimal Solution | Time Complexity |  
 | -- | -- | -- | -- | -- | -- |
 | 15 | 3 Sum | Hashing | O(n^3)* | Dual Pointer | O(n^2)
+| 31 | Next Permutation | Selective Sort | O(n^2)* | Sort | O(n)
 | 70 | Climbing Stairs |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
 | 214 | Shortest Palindrome | Rabin-Karp | O(n^2)* | Manacher | O(n)
 | LCR126 | Fibonacci Number |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
