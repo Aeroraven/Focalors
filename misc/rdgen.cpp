@@ -32,10 +32,10 @@ int main() {
 			a.push_back(rand() % 2);
 		}
 		for (int k = 0; k < n; k++) {
-			int w = 0x7fffffff - rand() % 100;
+			int w = 0x7fffffff - rand() % 5;
 			w = rand() % 30;
 			if (rand() % 2 == 0) {
-				w = -w;
+				w = w;
 			}
 			cout << w;
 			if (k != n - 1) {
