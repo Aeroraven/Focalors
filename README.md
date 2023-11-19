@@ -23,10 +23,11 @@ So use it as free as you can.
 | 12 | Integer to Roman | Simulation | 1 | Med | O(logn) | CSharp |
 | 15 | 3 Sum | Hashing | 5 | Med | O(n^3) | CSharp |
 | 16 | 3 Sum Closest | Dual Pointer | 5 | Med | O(n^2) | CSharp |
+| 17 | Letter Combinations of a Phone Number | Simulation | 1 | Med | O(n*4^n) | CSharp |
 | 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ |
 | 25 | Reverse Nodes in k-Group | Simulation | 3 | Hard |   | C++ |
 | 29 | Divide | Binary Calculation | 5 | Med | O(logn) | CSharp |
-| 30 | Substring with Concatenation of All Words | Sliding Window | 7 | Hard |
+| 30 | Substring with Concatenation of All Words | Sliding Window | 7 | Hard | | C++ |
 | 31 | Next Permutation | Sort | 5 | Med |  O(n^2)  | CSharp | T
 | 32 | Longest Valid Parentheses | Dynamic Programming + Stack | 4 | Hard |   | C++ |
 | 37 | Sudoku Solver | Simulation | 2 | Hard |   | C++ |
