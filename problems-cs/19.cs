@@ -1,71 +1,72 @@
 
-
-using System.Collections.Generic;
 using System;
 using System.Text;
 
+
+
+public class ListNode
+{
+    public int val;
+    public ListNode? next;
+    public ListNode(int val = 0, ListNode? next = null)
+    {
+        this.val = val;
+        this.next = next;
+    }
+}
+
 public class Solution
 {
-    public IList<IList<int>> FourSum(int[] nums, int target)
+    public ListNode? RemoveNthFromEnd(ListNode head, int n)
     {
-        Array.Sort(nums);
-        List<IList<int>> answer = new List<IList<int>>();
-        if (nums.Length < 3)
+        int curStep = 0;
+        ListNode? slowCur = head;
+        ListNode? fastCur = head;
+        while (fastCur.next != null)
         {
-            return answer;
-        }
-        for (int i = 3; i < nums.Length; i++)
-        {
-            if (i < nums.Length - 1 && nums[i] == nums[i + 1])
+            curStep++;
+            fastCur = fastCur.next;
+            if (curStep > n)
             {
-                continue;
-            }
-            for (int j = i - 1; j >= 2; j--)
-            {
-                if (j < i - 1 && nums[j] == nums[j + 1])
-                {
-                    continue;
-                }
-                // Find (c,d) that satisfies:
-                // I. A[a]+A[b]+A[c]+A[d] = target
-                // II. c<d<a<b
-
-                int c = 0, d = j - 1;
-                while (c < d)
-                {
-                    while (c > 0 && nums[c - 1] == nums[c] && c < d)
-                    {
-                        c++;
-                    }
-                    while (d < j - 1 && nums[d] == nums[d + 1] && d > c)
-                    {
-                        d--;
-                    }
-                    if (c == d) break;
-                    if (((long)nums[i] + (long)nums[j] + (long)nums[c] + (long)nums[d]) == target)
-                    {
-                        int[] p = { nums[c], nums[d], nums[j], nums[i] };
-                        answer.Add(p);
-                        Console.WriteLine("Answer Added:" + nums[c] + "," + nums[d] + "," + nums[j] + "," + nums[i]);
-                    }
-                    if (nums[i] + nums[j] + nums[c] + nums[d] > target)
-                    {
-                        d--;
-                    }
-                    else
-                    {
-                        c++;
-                    }
-                }
+                slowCur = slowCur.next;
             }
         }
-        return answer;
+        // Remove node at slowCur's next
+        if (n == 1 && curStep == 0)
+        {
+            return null;
+        }
+        else if (curStep + 1 == n)
+        {
+            return head.next;
+        }
+        else if (n > curStep + 1)
+        {
+            return head;
+        }
+        else
+        {
+            fastCur = slowCur.next;
+            slowCur.next = fastCur.next;
+            return head;
+        }
     }
 
     public static int Main()
     {
         Solution s = new Solution();
-        s.FourSum([1000000000, 1000000000, 1000000000, -1000000000], -5);
+        ListNode a5 = new ListNode(5, null);
+        ListNode a4 = new ListNode(4, a5);
+        ListNode a3 = new ListNode(3, a4);
+        ListNode a2 = new ListNode(2, a3);
+        ListNode a1 = new ListNode(1, a2);
+        var p = s.RemoveNthFromEnd(a2, 4);
+
+        for (ListNode h = p; h != null; h = h.next)
+        {
+            Console.WriteLine(h.val + "");
+        }
+
         return 0;
     }
 }
