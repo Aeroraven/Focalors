@@ -46,6 +46,7 @@ So use it as free as you can.
 | 50 | Pow(x,n) | Fast Power Algorithm | 3 | Med |   | C++ |
 | 51 | N-Queens | Simulation | 1 | Hard |   | C++ |
 | 52 | N-Queens II | Simulation | 1 | Hard |   | C++ |
+| 56 | Merge Intervals | Sort | 2 | Med | O(nlogn)  | CSharp |
 | 60 | Permutation Sequence | Combinatorics | 5 | Hard |   | C++ |
 | 65 | Valid Number | Simulation | 2 | Hard |   | C++ |
 | 68 | Text Justification | Simulation | 2 | Hard |   | C++ |
