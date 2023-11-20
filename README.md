@@ -57,6 +57,7 @@ So use it as free as you can.
 | 52 | N-Queens II | Simulation | 1 | Hard |   | C++ |
 | 55 | Jump Game | Simulation | 2 | Med | O(n)  | CSharp |
 | 56 | Merge Intervals | Sort | 2 | Med | O(nlogn)  | CSharp |
+| 57 | Insert Intervals | Simulation + Binary Search (optional) | 4 | Med | O(n)  | CSharp |
 | 60 | Permutation Sequence | Combinatorics | 5 | Hard |   | C++ |
 | 62 | Unique Paths | Dynamic Programming | 1 | Med | O(nm)  | CSharp |
 | 65 | Valid Number | Simulation | 2 | Hard |   | C++ |
