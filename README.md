@@ -15,7 +15,7 @@ So use it as free as you can.
 **Perceived Difficulty**
 
 | Rank | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |
 | Difficulty | EZ- | EZ | EZ | EZ+ | MD- | MD | MD+ | HD | HD+ | IN | IN+ |
 
 **Problem List**
