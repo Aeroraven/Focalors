@@ -61,6 +61,7 @@ So use it as free as you can.
 | 60 | Permutation Sequence | Combinatorics | 5 | Hard |   | C++ |
 | 62 | Unique Paths | Dynamic Programming | 0 | Med | O(nm)  | CSharp |
 | 63 | Unique Paths II | Dynamic Programming | 0 | Med | O(nm)  | CSharp |
+| 64 | Minimum Path Sum | Dynamic Programming | 0 | Med | O(nm)  | CSharp |
 | 65 | Valid Number | Simulation | 2 | Hard |   | C++ |
 | 68 | Text Justification | Simulation | 2 | Hard |   | C++ |
 | 70 | Climbing Stairs | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ |
