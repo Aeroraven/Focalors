@@ -66,6 +66,7 @@ So use it as free as you can.
 | 68 | Text Justification | Simulation | 2 | Hard |   | C++ |
 | 70 | Climbing Stairs | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ |
 | 71 | Simplify Path | Stack | 1 | Med | O(n)  | CSharp |
+| 72 | Edit Distance | Dynamic Programming | 5-7 | Med | O(n^3)  | CSharp | T
 | 76 | Minimum Window Substring | Sliding Window | 6 | Hard |   | C++ |
 | 84 | Largest Rectangle in Histogram | Stack | 6 | Hard |   | C++ |
 | 85 | Maximal Rectangle | Prefix Sum | 5 | Hard |   | C++ |
