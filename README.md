@@ -12,11 +12,7 @@ So use it as free as you can.
 
 *. Time complexity is calculated using the worst case (i.e. all hash conflict)
 
-**Perceived Difficulty**
 
-| Rank | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |
-| Difficulty | EZ- | EZ | EZ | EZ+ | MD- | MD | MD+ | HD | HD+ | IN | IN+ |
 
 **Problem List**
 
@@ -49,6 +45,7 @@ So use it as free as you can.
 | 40 | Combination Sum II | Dynamic Programming + Depth First Search | 4 | Med | /  | CSharp |
 | 41 | First Missing Positive | Simulation (Inplace) | 8 | Hard |   | C++ |
 | 42 | Trapping Rain Water | Simulation | 4 | Hard |   | C++ |
+| 43 | Multiply String | Simulation | 2 | Med | O(n^2) | CSharp |
 | 44 | Wildcard Matching | Dynamic Programming |  | Hard |  | C++ | T | 
 | 45 | Jump Game II | Dynamic Programming / Greedy Search / Simulation | 4 | Med | O(n) | CSharp |
 | 46 | Permutations | Simulation | 0 | Med | O(n!)  | CSharp |
@@ -111,6 +108,7 @@ So use it as free as you can.
 | -- | -- | -- | -- | -- | -- |
 | 15 | 3 Sum | Hashing | O(n^3)* | Dual Pointer | O(n^2)
 | 31 | Next Permutation | Selection Sort | O(n^2) | Sort (Reverse) | O(n)
+| 43 | Multiply String | Simulation | O(n^2) | Fast Fourier Transform | O(nlogn)
 | 70 | Climbing Stairs |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
 | 214 | Shortest Palindrome | Rabin-Karp | O(n^2)* | Manacher | O(n)
 | LCR126 | Fibonacci Number |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
@@ -120,3 +118,18 @@ So use it as free as you can.
 
 ## Annotations
 - `T`: An accepted but time-consuming algorithm
+
+
+## Perceived Difficulty
+
+It's ridiculous to see the mismatched difficulty annotated in the problemset (e.g. Hard `NQueens`)
+
+
+| Rank | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |
+| Difficulty | EZ- | EZ | EZ | EZ+ | MD- | MD | MD+ | HD | HD+ | IN | IN+ |
+
+- `EZ`: The problem only requires slight thinking.
+- `MD`: The problem requires deeper logical thinking and moderate understanding of basic algorithms.
+- `HD`: The problems requires deeper independent and creative logical thinking or intuition (always without simple combination of algorithms).
+- `IN`: I don't think I can solve these problems.
