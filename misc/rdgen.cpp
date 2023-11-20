@@ -33,7 +33,7 @@ int main() {
 		}
 		for (int k = 0; k < n; k++) {
 			int w = 0x7fffffff - rand() % 5;
-			w = rand() % 30;
+			w = rand() % 2+1;
 			if (rand() % 2 == 0) {
 				w = w;
 			}

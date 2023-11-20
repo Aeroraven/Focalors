@@ -50,6 +50,7 @@ So use it as free as you can.
 | 41 | First Missing Positive | Simulation (Inplace) | 8 | Hard |   | C++ |
 | 42 | Trapping Rain Water | Simulation | 4 | Hard |   | C++ |
 | 44 | Wildcard Matching | Dynamic Programming |  | Hard |  | C++ | T | 
+| 45 | Jump Game II | Dynamic Programming / Greedy Search / Simulation | 4 | Med | /  | CSharp |
 | 46 | Permutations | Simulation | 0 | Med | O(n!)  | CSharp |
 | 47 | Permutations II | Simulation+Sort | 2 | Med | O(n!)  | CSharp |
 | 48 | Rotate Image | Simulation | 3 | Med | O(n^2)  | CSharp |
