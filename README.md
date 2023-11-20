@@ -51,6 +51,7 @@ So use it as free as you can.
 | 46 | Permutations | Simulation | 0 | Med | O(n!)  | CSharp |
 | 47 | Permutations II | Simulation+Sort | 2 | Med | O(n!)  | CSharp |
 | 48 | Rotate Image | Simulation | 3 | Med | O(n^2)  | CSharp |
+| 49 | Group Anagrams | Hashing | 4 | Med | O(n^2m)  | CSharp |
 | 50 | Pow(x,n) | Fast Power Algorithm | 3 | Med |   | C++ |
 | 51 | N-Queens | Simulation | 1 | Hard |   | C++ |
 | 52 | N-Queens II | Simulation | 1 | Hard |   | C++ |
