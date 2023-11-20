@@ -24,7 +24,7 @@ So use it as free as you can.
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ |
 | 11 | Container with Most Water | Dual Pointer | 7 | Med | O(n) | CSharp |
 | 12 | Integer to Roman | Simulation | 1 | Med | O(logn) | CSharp |
-| 15 | 3 Sum | Hashing | 5 | Med | O(n^3) | CSharp |
+| 15 | 3 Sum | Hash | 5 | Med | O(n^3) | CSharp |
 | 16 | 3 Sum Closest | Dual Pointer | 5 | Med | O(n^2) | CSharp |
 | 17 | Letter Combinations of a Phone Number | Simulation | 1 | Med | O(n*4^n) | CSharp |
 | 18 | 4 Sum | Dual Pointer | 5 | Med | O(n^3) | CSharp |
@@ -51,7 +51,7 @@ So use it as free as you can.
 | 46 | Permutations | Simulation | 0 | Med | O(n!)  | CSharp |
 | 47 | Permutations II | Simulation+Sort | 2 | Med | O(n!)  | CSharp |
 | 48 | Rotate Image | Simulation | 3 | Med | O(n^2)  | CSharp |
-| 49 | Group Anagrams | Hashing | 4 | Med | O(n^2m)  | CSharp |
+| 49 | Group Anagrams | Hash | 4 | Med | O(n^2m)  | CSharp |
 | 50 | Pow(x,n) | Fast Power Algorithm | 3 | Med |   | C++ |
 | 51 | N-Queens | Simulation | 1 | Hard |   | C++ |
 | 52 | N-Queens II | Simulation | 1 | Hard |   | C++ |
@@ -107,7 +107,7 @@ So use it as free as you can.
 
 | ID | Problem | Solution Adopted | Time Complexity | Optimal Solution | Time Complexity |  
 | -- | -- | -- | -- | -- | -- |
-| 15 | 3 Sum | Hashing | O(n^3)* | Dual Pointer | O(n^2)
+| 15 | 3 Sum | Hash | O(n^3)* | Dual Pointer | O(n^2)
 | 31 | Next Permutation | Selection Sort | O(n^2) | Sort (Reverse) | O(n)
 | 43 | Multiply String | Simulation | O(n^2) | Fast Fourier Transform | O(nlogn)
 | 70 | Climbing Stairs |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
