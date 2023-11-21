@@ -18,6 +18,7 @@ So use it as free as you can.
 
 | ID | Problem | Solution Adopted | Perceived Difficulty | Annotated Difficulty | Time Complxity | Lang | Status | 
 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 1 | Two Sum | Hash | 2 | Easy | O(nlogn) | C++ | L
 | 4 | Median of Two Sorted Arrays | Binary Search | 7 | Hard | O(logn) | C++ |
 | 5 | Longest Palindromic Substring | Manacher | 4 | Med | O(n) | C++ |
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | CSharp |
@@ -129,6 +130,7 @@ So use it as free as you can.
 
 ## Annotations
 - `T`: An accepted but time-consuming algorithm
+- `L`: This is a legacy (old) submission
 
 
 ## Perceived Difficulty
