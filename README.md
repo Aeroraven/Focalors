@@ -24,6 +24,8 @@ So use it as free as you can.
 | 4 | Median of Two Sorted Arrays | Binary Search | 7 | Hard | O(logn) | C++ |
 | 5 | Longest Palindromic Substring | Manacher | 4 | Med | O(n) | C++ |
 | 6 | Zigzag Conversion | Simulation | 2 | Med | O(n) | C++ | L
+| 7 | Reverse Integer | Simulation | 1 | Med | O(logn) | C++ | L
+| 9 | Palindrome Number | Simulation | 1 | Med | O(logn) | C++ | L
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | CSharp |
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ |
 | 11 | Container with Most Water | Dual Pointer | 7 | Med | O(n) | CSharp |
