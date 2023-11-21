@@ -20,6 +20,7 @@ So use it as free as you can.
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | 1 | Two Sum | Hash | 2 | Easy | O(nlogn) | C++ | L
 | 2 | Add Two Numbers | Simulation | 2 | Med | O(n) | C++ | L
+| 3 | Longest Substring Without Repeating Characters | Sliding Window | 3 | Med | O(n) | C++ | L
 | 4 | Median of Two Sorted Arrays | Binary Search | 7 | Hard | O(logn) | C++ |
 | 5 | Longest Palindromic Substring | Manacher | 4 | Med | O(n) | C++ |
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | CSharp |
