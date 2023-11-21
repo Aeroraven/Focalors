@@ -71,6 +71,7 @@ So use it as free as you can.
 | 84 | Largest Rectangle in Histogram | Stack | 6 | Hard |   | C++ |
 | 85 | Maximal Rectangle | Prefix Sum | 5 | Hard |   | C++ |
 | 87 | Scramble String | Dynamic Programming + Intuition | 7 | Hard | O(n^4)  | C++ |
+| 89 | Gray Code | Intuition + Simulation | 4 | Med | O(2^n)  | CSharp | 
 | 123 | Best Time to Buy and Sell Stock III | Dynamic Programming | 5 | Hard |   | C++ |
 | 124 | Binary Tree Maximum Path Sum | Dynamic Programming | 3 | Hard |   | C++ |
 | 127 | Word Ladder | Breadth\-first Search |   | Hard |  | C++ |  T |
