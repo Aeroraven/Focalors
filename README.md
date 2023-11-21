@@ -43,12 +43,16 @@ So use it as free as you can.
 | 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ |
 | 24 | Swap Nodes in Pairs | Simulation | 2 | Med | O(n)  | CSharp |
 | 25 | Reverse Nodes in k-Group | Simulation | 3 | Hard |   | C++ |
+| 26 | Remove Duplicates From Sorted Array | Dual Pointers | 2 | Easy | O(n) |  C++ | L
+| 27 | Remove Element | Dual Pointers | 2 | Easy | O(n) |  C++ | L
+| 28 | Find the Index of the First Occurrence in a String | / (Expected KMP) | 2 | Easy | O(n) | Python | L
 | 29 | Divide | Binary Calculation | 5 | Med | O(logn) | CSharp |
 | 30 | Substring with Concatenation of All Words | Sliding Window | 7 | Hard | | C++ |
 | 31 | Next Permutation | Sort | 5 | Med |  O(n^2)  | CSharp | T
 | 32 | Longest Valid Parentheses | Dynamic Programming + Stack | 4 | Hard |   | C++ |
 | 33 | Search in Rotated Sorted Array | Binary Search | 3 | Med |  O(nlogn)  | CSharp | 
 | 34 | Find First and Last Position of Element in Sorted Array | Binary Search | 2 | Med |  O(nlogn)  | CSharp |
+| 35 | Search Insert Position | Binary Search | 1 | Easy | O(logn) | C++ | L
 | 36 | Valid Sudoku | Simulation | 1 | Med |   | CSharp|
 | 37 | Sudoku Solver | Simulation | 2 | Hard | / | C++ |
 | 39 | Combination Sum | Dynamic Programming + Depth First Search | 4 | Med | /  | CSharp |
