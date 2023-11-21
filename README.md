@@ -55,6 +55,7 @@ So use it as free as you can.
 | 35 | Search Insert Position | Binary Search | 1 | Easy | O(logn) | C++ | L
 | 36 | Valid Sudoku | Simulation | 1 | Med |   | CSharp|
 | 37 | Sudoku Solver | Simulation | 2 | Hard | / | C++ |
+| 38 | Count And Say | Simulation | 1 | Med | O(n^2) | C++ | L
 | 39 | Combination Sum | Dynamic Programming + Depth First Search | 4 | Med | /  | CSharp |
 | 40 | Combination Sum II | Dynamic Programming + Depth First Search | 4 | Med | /  | CSharp |
 | 41 | First Missing Positive | Simulation (Inplace) | 8 | Hard |   | C++ |
@@ -69,9 +70,13 @@ So use it as free as you can.
 | 50 | Pow(x,n) | Fast Power Algorithm | 3 | Med |   | C++ |
 | 51 | N-Queens | Simulation | 1 | Hard |   | C++ |
 | 52 | N-Queens II | Simulation | 1 | Hard |   | C++ |
+| 53 | Maximum Subarray | Prefix Sum & Greedy Simulation | 2 | Med |  O(n) | C++ | LT
+| 54 | Spiral Matrix | Simulation | 2 | Med |  O(n^2) | C++ | L
 | 55 | Jump Game | Simulation | 2 | Med | O(n)  | CSharp |
 | 56 | Merge Intervals | Sort | 2 | Med | O(nlogn)  | CSharp |
 | 57 | Insert Intervals | Simulation + Binary Search (optional) | 4 | Med | O(n)  | CSharp |
+| 58 | Length of Last Word | Simulation | 0 | Easy |  O(n) | C++ | L
+| 59 | Spiral Matrix II | Simulation | 2 | Med |  O(n^2) | C++ | L
 | 60 | Permutation Sequence | Combinatorics | 5 | Hard |   | C++ |
 | 62 | Unique Paths | Dynamic Programming | 0 | Med | O(nm)  | CSharp |
 | 63 | Unique Paths II | Dynamic Programming | 0 | Med | O(nm)  | CSharp |
