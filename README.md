@@ -78,14 +78,20 @@ So use it as free as you can.
 | 58 | Length of Last Word | Simulation | 0 | Easy |  O(n) | C++ | L
 | 59 | Spiral Matrix II | Simulation | 2 | Med |  O(n^2) | C++ | L
 | 60 | Permutation Sequence | Combinatorics | 5 | Hard |   | C++ |
+| 61 | Rotate List | Simulation | 2 | Med |  O(n) | C++ | L
 | 62 | Unique Paths | Dynamic Programming | 0 | Med | O(nm)  | CSharp |
 | 63 | Unique Paths II | Dynamic Programming | 0 | Med | O(nm)  | CSharp |
 | 64 | Minimum Path Sum | Dynamic Programming | 0 | Med | O(nm)  | CSharp |
 | 65 | Valid Number | Simulation | 2 | Hard |   | C++ |
+| 66 | Plus One | Simulation | 1 | Easy |  O(n) | C++ | L
+| 67 | Add Binary | Simulation | 2 | Easy |  O(n) | C++ | L
 | 68 | Text Justification | Simulation | 2 | Hard |   | C++ |
+| 69 | Sqrt(X) | Binary Search | 2 | Easy |  O(logn) | C++ | LT
 | 70 | Climbing Stairs | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ |
 | 71 | Simplify Path | Stack | 1 | Med | O(n)  | CSharp |
 | 72 | Edit Distance | Dynamic Programming | 6 | Med | O(n^3)  | CSharp | T
+| 73 | Set Matrix Zeros | Simulation + Intuition | 2 | Med |  O(mn) | C++ | L
+| 74 | Search A 2D Matrix | Simulation | 2 | Med |  O(m+n) | C++ | LT
 | 75 | Sort Colors | Dual Pointers | 4 | Med | O(n)  | CSharp | 
 | 76 | Minimum Window Substring | Sliding Window | 6 | Hard |   | C++ |
 | 77 | Combinations | Simulation | 2 | Med | / | CSharp |
@@ -140,6 +146,7 @@ So use it as free as you can.
 | 31 | Next Permutation | Selection Sort | O(n^2) | Sort (Reverse) | O(n)
 | 43 | Multiply String | Simulation | O(n^2) | Fast Fourier Transform | O(nlogn)
 | 70 | Climbing Stairs |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
+| 74 | Search A 2D Matrix | Simulation | O(n+m) | Binary Search | O(logn+logm)
 | 214 | Shortest Palindrome | Rabin-Karp | O(n^2)* | Manacher | O(n)
 | LCR126 | Fibonacci Number |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
 
