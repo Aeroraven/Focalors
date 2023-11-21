@@ -67,6 +67,7 @@ So use it as free as you can.
 | 70 | Climbing Stairs | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ |
 | 71 | Simplify Path | Stack | 1 | Med | O(n)  | CSharp |
 | 72 | Edit Distance | Dynamic Programming | 6 | Med | O(n^3)  | CSharp | T
+| 75 | Sort Colors | Dual Pointers | 4 | Med | O(n)  | CSharp | 
 | 76 | Minimum Window Substring | Sliding Window | 6 | Hard |   | C++ |
 | 77 | Combinations | Simulation | 2 | Med | / | CSharp |
 | 84 | Largest Rectangle in Histogram | Stack | 6 | Hard |   | C++ |
