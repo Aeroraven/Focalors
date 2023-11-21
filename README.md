@@ -25,16 +25,20 @@ So use it as free as you can.
 | 5 | Longest Palindromic Substring | Manacher | 4 | Med | O(n) | C++ |
 | 6 | Zigzag Conversion | Simulation | 2 | Med | O(n) | C++ | L
 | 7 | Reverse Integer | Simulation | 1 | Med | O(logn) | C++ | L
-| 9 | Palindrome Number | Simulation | 1 | Med | O(logn) | C++ | L
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | CSharp |
+| 9 | Palindrome Number | Simulation | 1 | Easy | O(logn) | C++ | L
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ |
 | 11 | Container with Most Water | Dual Pointer | 7 | Med | O(n) | CSharp |
 | 12 | Integer to Roman | Simulation | 1 | Med | O(logn) | CSharp |
+| 13 | Roman to Integer | Simulation | 1 | Easy | O(logn) |  C++ | L
+| 14 | Longest Common Prefix | Simulation | 1 | Easy | O(nm) |  C++ | L
 | 15 | 3 Sum | Hash | 5 | Med | O(n^3) | CSharp |
 | 16 | 3 Sum Closest | Dual Pointer | 5 | Med | O(n^2) | CSharp |
 | 17 | Letter Combinations of a Phone Number | Simulation | 1 | Med | O(n*4^n) | CSharp |
 | 18 | 4 Sum | Dual Pointer | 5 | Med | O(n^3) | CSharp |
 | 19 | Remove Nth Node From End of List | Dual Pointer | 3 | Med | O(n) | CSharp |
+| 20 | Valid Parentheses | Stack | 1 | Easy | O(n) |  C++ | L
+| 21 | Merge Two Sorted Lists | Simulation | 1 | Easy | O(n) |  C++ | L
 | 22 | Generate Parentheses | Simulation | 1 | Med | / | CSharp |
 | 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ |
 | 24 | Swap Nodes in Pairs | Simulation | 2 | Med | O(n)  | CSharp |
