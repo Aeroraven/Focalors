@@ -23,6 +23,7 @@ So use it as free as you can.
 | 3 | Longest Substring Without Repeating Characters | Sliding Window | 3 | Med | O(n) | C++ | L
 | 4 | Median of Two Sorted Arrays | Binary Search | 7 | Hard | O(logn) | C++ |
 | 5 | Longest Palindromic Substring | Manacher | 4 | Med | O(n) | C++ |
+| 6 | Zigzag Conversion | Simulation | 2 | Med | O(n) | C++ | L
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | CSharp |
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ |
 | 11 | Container with Most Water | Dual Pointer | 7 | Med | O(n) | CSharp |
