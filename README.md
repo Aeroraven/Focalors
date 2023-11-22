@@ -96,6 +96,7 @@ So use it as free as you can.
 | 76 | Minimum Window Substring | Sliding Window | 6 | Hard |   | C++ |
 | 77 | Combinations | Simulation | 2 | Med | / | CSharp |
 | 78 | Subsets | Simulation | 1 | Med | O(2^n) | CSharp |
+| 79 | Word Search | Simulation | 1 | Med | O(n^2*m^2) | CSharp | T
 | 84 | Largest Rectangle in Histogram | Stack | 6 | Hard |   | C++ |
 | 85 | Maximal Rectangle | Prefix Sum | 5 | Hard |   | C++ |
 | 87 | Scramble String | Dynamic Programming + Intuition | 7 | Hard | O(n^4)  | C++ |
