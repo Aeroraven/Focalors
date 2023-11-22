@@ -103,6 +103,7 @@ So use it as free as you can.
 | 96 | Unique Binary Search Trees | Dynamic Programming | 2 | Med | O(n^2)  | CSharp | 
 | 123 | Best Time to Buy and Sell Stock III | Dynamic Programming | 5 | Hard |   | C++ |
 | 124 | Binary Tree Maximum Path Sum | Dynamic Programming | 3 | Hard |   | C++ |
+| 126 | Word Ladder II | Breadth\-first Search + Depth\-first Search | 6  | Hard | / | C++ |  
 | 127 | Word Ladder | Breadth\-first Search | 6  | Hard | O(n^2*m^2) | C++ |  
 | 135 | Candy | Greedy Strategy \+ Sort | 4  | Hard |   | C++ |
 | 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | 5  | Hard |   | C++ |
