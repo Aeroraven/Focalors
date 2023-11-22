@@ -116,6 +116,7 @@ So use it as free as you can.
 | 312 | Burst Balloons | Dynamic Programming | 6 | Hard |   | C++ |
 | 315 | Count of Smaller Numbers After Self | Binary Index Tree | 3 | Hard |   | C++ |
 | 327 | Count of Range Sum | Binary Index Tree + Hash + Binary Search Tree + Prefix Sum | 6 | Hard |   | C++ |
+| 329 | Longest Increasing Path | Topological Sort | 3-4 | Hard | O(mn)  | C++ |
 | 403 | Frog Jump | Breadth-first Search | 3 | Hard |   | C++ |
 | 410 | Split Array Largest Sum | Dynamic Programming |  | Hard |   | C++ |  T |
 | 679 | 24 Game | Simulation | 2 | Hard |   | C++ |
