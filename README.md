@@ -114,6 +114,7 @@ So use it as free as you can.
 | 184 | Best Time to Buy and Sell Stock IV | Dynamic Programming | 5 | Hard |   | C++ |
 | 214 | Shortest Palindrome | Rabin-Karp |  | Hard |   | C++ |
 | 218 | The Skyline Problem | Heap + Sort | 5 | Hard |   | C++ |
+| 231 | Power of Two | Simulation | 0 | Easy | O(logn)  | CSharp | 
 | 233 | Number of Digit One | Combinatorics + Dynamic Programming | 6 | Hard |   | C++ |
 | 292 | Nim Game | Gaming Theory + Dynamic Programming | 3 | Easy |   | C++ |
 | 295 | Find Median from Data Stream | Heap | 5 | Hard |   | C++ |
