@@ -102,6 +102,7 @@ So use it as free as you can.
 | 86 | Partition List | Simulation | 1 | Med | O(n) | CSharp |
 | 87 | Scramble String | Dynamic Programming + Intuition | 7 | Hard | O(n^4)  | C++ |
 | 89 | Gray Code | Intuition + Simulation | 4 | Med | O(2^n)  | CSharp | 
+| 91 | Decode Ways | Dynamic Programming | 1 | Med | O(n)  | CSharp | 
 | 96 | Unique Binary Search Trees | Dynamic Programming | 2 | Med | O(n^2)  | CSharp | 
 | 98 | Validate Binary Search Tree | Simulation | 1 | Med | O(n)  | CSharp | 
 | 104 | Maximum Depth of Binary Tree | Depth-first Search | 0 | Easy | O(n)  | CSharp | 
