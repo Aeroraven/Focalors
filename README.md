@@ -99,6 +99,7 @@ So use it as free as you can.
 | 79 | Word Search | Simulation | 1 | Med | O(n^2*m^2) | CSharp | T
 | 84 | Largest Rectangle in Histogram | Stack | 6 | Hard |   | C++ |
 | 85 | Maximal Rectangle | Prefix Sum | 5 | Hard |   | C++ |
+| 86 | Partition List | Simulation | 1 | Med | O(n) | CSharp |
 | 87 | Scramble String | Dynamic Programming + Intuition | 7 | Hard | O(n^4)  | C++ |
 | 89 | Gray Code | Intuition + Simulation | 4 | Med | O(2^n)  | CSharp | 
 | 96 | Unique Binary Search Trees | Dynamic Programming | 2 | Med | O(n^2)  | CSharp | 
