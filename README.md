@@ -109,6 +109,7 @@ So use it as free as you can.
 | 104 | Maximum Depth of Binary Tree | Depth-first Search | 0 | Easy | O(n)  | CSharp | 
 | 123 | Best Time to Buy and Sell Stock III | Dynamic Programming | 5 | Hard |   | C++ |
 | 124 | Binary Tree Maximum Path Sum | Dynamic Programming | 3 | Hard |   | C++ |
+| 125 | Valid Palindrome | Simulation | 0 | Easy | O(n)  | CSharp | 
 | 126 | Word Ladder II | Breadth\-first Search + Depth\-first Search | 6  | Hard | / | C++ |  
 | 127 | Word Ladder | Breadth\-first Search | 6  | Hard | O(n^2*m^2) | C++ |  
 | 135 | Candy | Greedy Strategy \+ Sort | 4  | Hard |   | C++ |
