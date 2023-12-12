@@ -122,6 +122,7 @@ So use it as free as you can.
 | 127 | Word Ladder | Breadth\-first Search | 6  | Hard | O(n^2*m^2) | C++ |  
 | 135 | Candy | Greedy Strategy \+ Sort | 4  | Hard |   | C++ |
 | 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | 5  | Hard |   | C++ |
+| 172 | Factorial Trailing Zeroes | Simulation | 0 | Med | O(logn) | CSharp | 
 | 174 | Dungeon Game | Dynamic Programming | 7  | Hard |   | C++ |
 | 184 | Best Time to Buy and Sell Stock IV | Dynamic Programming | 5 | Hard |   | C++ |
 | 214 | Shortest Palindrome | Rabin-Karp |  | Hard |   | C++ |
