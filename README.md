@@ -97,12 +97,18 @@ So use it as free as you can.
 | 77 | Combinations | Simulation | 2 | Med | / | CSharp |
 | 78 | Subsets | Simulation | 1 | Med | O(2^n) | CSharp |
 | 79 | Word Search | Simulation | 1 | Med | O(n^2*m^2) | CSharp | T
+| 80 | Remove Duplicates From Sorted Array II | Simulation (Dual Pointers) | 3 | Med |   | CSharp | L
+| 81 | Search In Rotated Sorted Array II | Simulataion |  | Med |   | CSharp | LT
+| 82 | Remove Duplicates From Sorted Array II | Simulation (Dual Pointers) | 2 | Med |   | C++ | L
+| 83 | Remove Duplicates From Sorted Array | Simulation (Dual Pointers) | 1 | Easy |   | C++ | L
 | 84 | Largest Rectangle in Histogram | Stack | 6 | Hard |   | C++ |
 | 85 | Maximal Rectangle | Prefix Sum | 5 | Hard |   | C++ |
 | 86 | Partition List | Simulation | 1 | Med | O(n) | CSharp |
 | 87 | Scramble String | Dynamic Programming + Intuition | 7 | Hard | O(n^4)  | C++ |
 | 89 | Gray Code | Intuition + Simulation | 4 | Med | O(2^n)  | CSharp | 
+| 90 | Subsets II | Simulation  | 2 | Med |   | C++ | L
 | 91 | Decode Ways | Dynamic Programming | 1 | Med | O(n)  | CSharp | 
+| 92 | Reverse Linked List | Simulation  | 2 | Med | O(n) | C++ | L
 | 93 | Restore IP Address | Simulation | 1 | Med | /  | CSharp | 
 | 96 | Unique Binary Search Trees | Dynamic Programming | 2 | Med | O(n^2)  | CSharp | 
 | 98 | Validate Binary Search Tree | Simulation | 1 | Med | O(n)  | CSharp | 
@@ -158,6 +164,7 @@ So use it as free as you can.
 | 43 | Multiply String | Simulation | O(n^2) | Fast Fourier Transform | O(nlogn)
 | 70 | Climbing Stairs |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
 | 74 | Search A 2D Matrix | Simulation | O(n+m) | Binary Search | O(logn+logm)
+| 81 | Search In Rotated Sorted Array II | Simulation | O(n) | Binary Search | O(logn)
 | 214 | Shortest Palindrome | Rabin-Karp | O(n^2)* | Manacher | O(n)
 | LCR126 | Fibonacci Number |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
 
