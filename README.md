@@ -105,11 +105,13 @@ So use it as free as you can.
 | 85 | Maximal Rectangle | Prefix Sum | 5 | Hard |   | C++ |
 | 86 | Partition List | Simulation | 1 | Med | O(n) | CSharp |
 | 87 | Scramble String | Dynamic Programming + Intuition | 7 | Hard | O(n^4)  | C++ |
+| 88 | Merge Sorted Array | Simulation (Dual Pointers) | 1 | Easy | O(n)  | CSharp | 
 | 89 | Gray Code | Intuition + Simulation | 4 | Med | O(2^n)  | CSharp | 
 | 90 | Subsets II | Simulation  | 2 | Med |   | C++ | L
 | 91 | Decode Ways | Dynamic Programming | 1 | Med | O(n)  | CSharp | 
 | 92 | Reverse Linked List | Simulation  | 2 | Med | O(n) | C++ | L
 | 93 | Restore IP Address | Simulation | 1 | Med | /  | CSharp | 
+| 94 | Binary Tree Mid Order Traversal | Simulation  | 1 | Easy |   | C++ | L
 | 96 | Unique Binary Search Trees | Dynamic Programming | 2 | Med | O(n^2)  | CSharp | 
 | 98 | Validate Binary Search Tree | Simulation | 1 | Med | O(n)  | CSharp | 
 | 104 | Maximum Depth of Binary Tree | Depth-first Search | 0 | Easy | O(n)  | CSharp | 
