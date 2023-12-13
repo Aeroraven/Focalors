@@ -115,6 +115,7 @@ So use it as free as you can.
 | 96 | Unique Binary Search Trees | Dynamic Programming | 2 | Med | O(n^2)  | CSharp | 
 | 98 | Validate Binary Search Tree | Simulation | 1 | Med | O(n)  | CSharp | 
 | 104 | Maximum Depth of Binary Tree | Depth-first Search | 0 | Easy | O(n)  | CSharp | 
+| 122 | Best Time to Buy and Sell Stock II | Dynamic Programming | 1 | Med |   | CSharp |
 | 123 | Best Time to Buy and Sell Stock III | Dynamic Programming | 5 | Hard |   | C++ |
 | 124 | Binary Tree Maximum Path Sum | Dynamic Programming | 3 | Hard |   | C++ |
 | 125 | Valid Palindrome | Simulation | 0 | Easy | O(n)  | CSharp | 
