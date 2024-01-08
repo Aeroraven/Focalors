@@ -132,7 +132,8 @@ So use it as free as you can.
 | 112 | Path Sum | Simulation | 0 | Easy | O(n)  |  C++ | 
 | 113 | Path Sum II | Simulation | 0 | Med |  /  |  C++ | 
 | 114 | Flatten Binary Tree To Linked List | Simulation |   | Med | O(n)  | CSharp | T
-| 116 | Populating Next Right Pointers in Each Node | BFS | 1 <?> | Med |  /  |  C++ | P
+| 115 | Distinct Subsequences | Dynamic Programming | 5 | Hard |  /  |  C++ | L
+| 116 | Populating Next Right Pointers in Each Node | BFS | 1 &lt;?> | Med |  /  |  C++ | P
 | 120 | Triangle | Dynamic Programming | 1 | Med | O(n^2)  | CSharp |
 | 122 | Best Time to Buy and Sell Stock II | Dynamic Programming | 1 | Med | O(n)  | CSharp |
 | 123 | Best Time to Buy and Sell Stock III | Dynamic Programming | 5 | Hard |   | C++ |
