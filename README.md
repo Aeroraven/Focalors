@@ -116,6 +116,7 @@ So use it as free as you can.
 | 96 | Unique Binary Search Trees | Dynamic Programming | 2 | Med | O(n^2)  | CSharp | 
 | 97 | Interleaving String | Dynamic Programming | 5 <6> | Med | O(n^2)  | C++ | 
 | 98 | Validate Binary Search Tree | Simulation | 1 | Med | O(n)  | CSharp | 
+| 99 | Recover Binary Search Tree | Midorder Traversal | 1 | Med | O(n)  | CSharp | 
 | 104 | Maximum Depth of Binary Tree | Depth-first Search | 0 | Easy | O(n)  | CSharp | 
 | 114 | Flatten Binary Tree To Linked List | Simulation |   | Med | O(n)  | CSharp | T
 | 120 | Triangle | Dynamic Programming | 1 | Med | O(n^2)  | CSharp |
