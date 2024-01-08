@@ -116,8 +116,14 @@ So use it as free as you can.
 | 96 | Unique Binary Search Trees | Dynamic Programming | 2 | Med | O(n^2)  | CSharp | 
 | 97 | Interleaving String | Dynamic Programming | 5 <6> | Med | O(n^2)  | C++ | 
 | 98 | Validate Binary Search Tree | Simulation | 1 | Med | O(n)  | CSharp | 
-| 99 | Recover Binary Search Tree | Midorder Traversal | 1 | Med | O(n)  | CSharp | 
+| 99 | Recover Binary Search Tree | Inorder Traversal | 5 <5> | Med | O(n)  | C++ | 
+| 100 | Same Tree | Simulation | 0 | Easy | O(n)  |  C++ | L
+| 101 | Symmetric Tree | Simulation | 1 | Easy | O(n)  |  C++ | 
+| 102 | Binary Tree Level Order Traversal | Simulation | 0 | Med | O(n)  |  C++ | L
+| 103 | Binary Tree Zig-zag Level Order Traversal | Simulation | 1 | Med | O(n)  |  C++ | 
 | 104 | Maximum Depth of Binary Tree | Depth-first Search | 0 | Easy | O(n)  | CSharp | 
+| 110 | Balanced Binary Tree | Simulation | 0 | Easy | O(n)  |  C++ | 
+| 111 | Minimum Depth of Binary Tree | Simulation | 0 | Easy | O(n)  |  C++ | 
 | 114 | Flatten Binary Tree To Linked List | Simulation |   | Med | O(n)  | CSharp | T
 | 120 | Triangle | Dynamic Programming | 1 | Med | O(n^2)  | CSharp |
 | 122 | Best Time to Buy and Sell Stock II | Dynamic Programming | 1 | Med | O(n)  | CSharp |
@@ -161,7 +167,7 @@ So use it as free as you can.
 
 | ID | Problem | Annotated Difficulty | Status |
 | -- | -- | -- | -- |
-| 97 | Interleaving String  | Med |
+|  | Nothing Now  |  |
 
 
 ## List of Problems Solved in Suboptimal Method
