@@ -20,24 +20,26 @@ public:
     int cur = -1;
     int n;
 
-    void dfs(TreeNode*& place,int lx, int rx) {
-        if (cur == n - 1)return;
-        int preOrdVal = (*pOrd)[cur+1];
+    void dfs(TreeNode*& place, int lx, int rx) {
+        if (cur == -1)return;
+        int preOrdVal = (*pOrd)[cur ];
         int inOrdIdx = midOrderMap[preOrdVal];
         if (inOrdIdx >= lx && inOrdIdx <= rx) {
             place = new TreeNode(preOrdVal);
-            cur++;
-            dfs(place->left, lx, inOrdIdx - 1);
+            cur--;
             dfs(place->right, inOrdIdx + 1, rx);
+            dfs(place->left, lx, inOrdIdx - 1);
+            
         }
     }
 
-    TreeNode* buildTree(std::vector<int>& preorder, std::vector<int>& inorder) {
+    TreeNode* buildTree(std::vector<int>& inorder, std::vector<int>& postorder) {
         for (int i = 0; i < inorder.size(); i++) {
             midOrderMap[inorder[i]] = i;
         }
         n = inorder.size();
-        pOrd = &preorder;
+        cur = n - 1;
+        pOrd = &postorder;
         if (inorder.size() == 0) {
             return nullptr;
         }
@@ -64,9 +66,9 @@ public:
 int main() {
 
     Solution s;
-    std::vector<int> pr = { -1 };
-    std::vector<int> md = { -1 };
-    auto x = s.buildTree(pr, md);
+    std::vector<int> pr = { 9,15,7,20,3 };
+    std::vector<int> md = { 9,3,15,20,7 };
+    auto x = s.buildTree(md,pr);
     s.dfsDebug(x);
     std::cout << "xxxx\n";
     s.dfsDebugMd(x);

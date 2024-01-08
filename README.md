@@ -122,9 +122,17 @@ So use it as free as you can.
 | 102 | Binary Tree Level Order Traversal | Simulation | 0 | Med | O(n)  |  C++ | L
 | 103 | Binary Tree Zig-zag Level Order Traversal | Simulation | 1 | Med | O(n)  |  C++ | 
 | 104 | Maximum Depth of Binary Tree | Depth-first Search | 0 | Easy | O(n)  | CSharp | 
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Simulation | 1 | Med | O(n)  |  C++ | 
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | Simulation | 1 | Med | O(n)  |  C++ | 
+| 107 | Binary Tree Level Order Traversal II | Simulation | 0 | Med | O(n)  |  C++ | 
+| 108 | Convert Sorted Array to Binary Search Tree | Divide & Conquer | 1 | Med | O(n)  |  C++ | 
+| 109 | Convert Sorted List to Binary Search Tree | Inorder Traversal | 4~5 | Med | O(n)  |  C++ | 
 | 110 | Balanced Binary Tree | Simulation | 0 | Easy | O(n)  |  C++ | 
 | 111 | Minimum Depth of Binary Tree | Simulation | 0 | Easy | O(n)  |  C++ | 
+| 112 | Path Sum | Simulation | 0 | Easy | O(n)  |  C++ | 
+| 113 | Path Sum II | Simulation | 0 | Med |  /  |  C++ | 
 | 114 | Flatten Binary Tree To Linked List | Simulation |   | Med | O(n)  | CSharp | T
+| 116 | Populating Next Right Pointers in Each Node | BFS | 1 <?> | Med |  /  |  C++ | P
 | 120 | Triangle | Dynamic Programming | 1 | Med | O(n^2)  | CSharp |
 | 122 | Best Time to Buy and Sell Stock II | Dynamic Programming | 1 | Med | O(n)  | CSharp |
 | 123 | Best Time to Buy and Sell Stock III | Dynamic Programming | 5 | Hard |   | C++ |
@@ -189,16 +197,16 @@ So use it as free as you can.
 ## Annotations
 - `T`: An accepted but time-consuming algorithm
 - `L`: This is a legacy (old) submission
-
+- `P`: Follow-up challenge incomplete
 
 ## Perceived Difficulty
 
 It's ridiculous to see the mismatched difficulty annotated in the problemset (e.g. Hard `NQueens`)
 
 
-| Rank | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |
-| Difficulty | EZ- | EZ | EZ | EZ+ | MD- | MD | MD+ | HD | HD+ | IN | IN+ |
+| Rank | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |
+| Difficulty | EZ- | EZ | EZ | EZ+ | MD- | MD | MD+ | HD | HD+ | IN- | IN | IN+ | IN++ |
 
 - `EZ`: The problem only requires slight thinking.
 - `MD`: The problem requires deeper logical thinking and moderate understanding of basic algorithms.
