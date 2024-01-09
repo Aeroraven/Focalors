@@ -160,6 +160,7 @@ So use it as free as you can.
 | 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | 5  | Hard |   | C++ |
 | 141 | Linked List Cycle | Dual Pointer | 1 <4> | Easy | O(n) | C++ |
 | 142 | Linked List Cycle II | Dual Pointer + Math | 1 <6> | Med | O(n) | C++ |
+| 143 | Reorder Linked List | Simulation | 1 &lt;?> | Med | O(n) | C++ | S
 | 172 | Factorial Trailing Zeroes | Simulation | 0 | Med | O(logn) | CSharp | 
 | 174 | Dungeon Game | Dynamic Programming | 7  | Hard |   | C++ |
 | 184 | Best Time to Buy and Sell Stock IV | Dynamic Programming | 5 | Hard |   | C++ |
@@ -199,7 +200,7 @@ So use it as free as you can.
 
 ## List of Problems Solved in Suboptimal Method
 
-| ID | Problem | Solution Adopted | Time Complexity | Optimal Solution | Time Complexity |  
+| ID | Problem | Solution Adopted | Time/Space Complexity | Optimal Solution | Time/Space Complexity |  
 | -- | -- | -- | -- | -- | -- |
 | 15 | 3 Sum | Hash | O(n^3)* | Dual Pointer | O(n^2)
 | 31 | Next Permutation | Selection Sort | O(n^2) | Sort (Reverse) | O(n)
@@ -207,6 +208,7 @@ So use it as free as you can.
 | 70 | Climbing Stairs |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
 | 74 | Search A 2D Matrix | Simulation | O(n+m) | Binary Search | O(logn+logm)
 | 81 | Search In Rotated Sorted Array II | Simulation | O(n) | Binary Search | O(logn)
+| 143 | Reorder List | Simulation | S(n) | Linked List Reverse | S(1)
 | 214 | Shortest Palindrome | Rabin-Karp | O(n^2)* | Manacher | O(n)
 | LCR126 | Fibonacci Number |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
 
@@ -215,6 +217,7 @@ So use it as free as you can.
 
 ## Annotations
 - `T`: An accepted but time-consuming algorithm
+- `S`: An accepted but space-consuming algorithm
 - `L`: This is a legacy (old) submission
 - `P`: Follow-up challenge incomplete
 
