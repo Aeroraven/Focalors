@@ -145,6 +145,7 @@ So use it as free as you can.
 | 125 | Valid Palindrome | Simulation | 0 | Easy | O(n)  | CSharp | 
 | 126 | Word Ladder II | Breadth\-first Search + Depth\-first Search | 6  | Hard | / | C++ |  
 | 127 | Word Ladder | Breadth\-first Search | 6  | Hard | O(n^2*m^2) | C++ |  
+| 128 | Longest Consecutive Sequence | Hashing + Union Find Algorithm | 4  | Med | O(n^2) | C++ |  
 | 129 | Sum Root to Leaf Numbers | DFS | 0  | Med | O(n) | C++ |  
 | 135 | Candy | Greedy Strategy \+ Sort | 4  | Hard |   | C++ |
 | 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | 5  | Hard |   | C++ |
