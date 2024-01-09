@@ -148,6 +148,7 @@ So use it as free as you can.
 | 128 | Longest Consecutive Sequence | Hashing + Union Find Algorithm | 4  | Med | O(n^2) | C++ |  
 | 129 | Sum Root to Leaf Numbers | DFS | 0  | Med | O(n) | C++ |  
 | 130 | Surrounded Regions | Simulation | 1  | Med | O(nm) | C++ |  
+| 133 | Clone Graph | DFS | 1  | Med | O(V^2E) | C++ |  
 | 135 | Candy | Greedy Strategy \+ Sort | 4  | Hard |   | C++ |
 | 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | 5  | Hard |   | C++ |
 | 172 | Factorial Trailing Zeroes | Simulation | 0 | Med | O(logn) | CSharp | 
