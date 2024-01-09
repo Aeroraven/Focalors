@@ -151,6 +151,7 @@ So use it as free as you can.
 | 131 | Palindrome Partitioning | Simulation | 2  | Med | / | Python | L
 | 132 | Palindrome Partitioning II | Simulation | 5  | Hard | / | C++ | L
 | 133 | Clone Graph | DFS | 1  | Med | O(V^2E) | C++ |  
+| 134 | Gas Station | Greedy Strategy | 3  | Med | O(n) | C++ |  
 | 135 | Candy | Greedy Strategy \+ Sort | 4  | Hard |   | C++ |
 | 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | 5  | Hard |   | C++ |
 | 172 | Factorial Trailing Zeroes | Simulation | 0 | Med | O(logn) | CSharp | 
