@@ -156,6 +156,7 @@ So use it as free as you can.
 | 136 | Single Number | Binary Calculation | 2  | Easy | O(n) | C++ | L
 | 137 | Single Number II | Ternary Calculation | 3  | Med | O(nlogn) | C++ |  
 | 138 | Copy List with Random Pointer | Simulation | 1  | Med | O(n) | C++ |  
+| 139 | Word Break | Dynamic Programming + String Hash | 3  | Med | O(n^3) | C++ |
 | 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | 5  | Hard |   | C++ |
 | 172 | Factorial Trailing Zeroes | Simulation | 0 | Med | O(logn) | CSharp | 
 | 174 | Dungeon Game | Dynamic Programming | 7  | Hard |   | C++ |
