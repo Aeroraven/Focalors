@@ -158,6 +158,7 @@ So use it as free as you can.
 | 138 | Copy List with Random Pointer | Simulation | 1  | Med | O(n) | C++ |  
 | 139 | Word Break | Dynamic Programming + String Hash | 3  | Med | O(n^3) | C++ |
 | 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | 5  | Hard |   | C++ |
+| 141 | Linked List Cycle | Dual Pointer | 1 <4> | Easy | O(n) | C++ |
 | 172 | Factorial Trailing Zeroes | Simulation | 0 | Med | O(logn) | CSharp | 
 | 174 | Dungeon Game | Dynamic Programming | 7  | Hard |   | C++ |
 | 184 | Best Time to Buy and Sell Stock IV | Dynamic Programming | 5 | Hard |   | C++ |
