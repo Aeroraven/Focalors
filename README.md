@@ -153,6 +153,7 @@ So use it as free as you can.
 | 133 | Clone Graph | DFS | 1  | Med | O(V^2E) | C++ |  
 | 134 | Gas Station | Greedy Strategy | 3  | Med | O(n) | C++ |  
 | 135 | Candy | Greedy Strategy \+ Sort | 4  | Hard |   | C++ |
+| 136 | Single Number | Binary Calculation | 2  | Easy | O(n) | C++ | L
 | 137 | Single Number II | Ternary Calculation | 3  | Med | O(nlogn) | C++ |  
 | 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | 5  | Hard |   | C++ |
 | 172 | Factorial Trailing Zeroes | Simulation | 0 | Med | O(logn) | CSharp | 
