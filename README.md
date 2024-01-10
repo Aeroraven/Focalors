@@ -168,6 +168,7 @@ So use it as free as you can.
 | 218 | The Skyline Problem | Heap + Sort | 5 | Hard |   | C++ |
 | 231 | Power of Two | Simulation | 0 | Easy | O(logn)  | CSharp | 
 | 233 | Number of Digit One | Combinatorics + Dynamic Programming | 6 | Hard |   | C++ |
+| 283 | Move Zeroes | Dual Pointers | 1 | Easy | O(n) | CSharp | 
 | 292 | Nim Game | Gaming Theory + Dynamic Programming | 3 | Easy |   | C++ |
 | 295 | Find Median from Data Stream | Heap | 5 | Hard |   | C++ |
 | 312 | Burst Balloons | Dynamic Programming | 6 | Hard |   | C++ |
