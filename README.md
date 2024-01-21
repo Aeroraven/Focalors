@@ -175,6 +175,7 @@ So use it as free as you can.
 | 315 | Count of Smaller Numbers After Self | Binary Index Tree | 3 | Hard |   | C++ |
 | 327 | Count of Range Sum | Binary Index Tree + Hash + Binary Search Tree + Prefix Sum | 6 | Hard |   | C++ |
 | 329 | Longest Increasing Path | Topological Sort | 3-4 | Hard | O(mn)  | C++ |
+| 367 | Valid Perfect Square | Binary Search | 0 | Easy |  O(logn) | C++ |
 | 403 | Frog Jump | Breadth-first Search | 3 | Hard |   | C++ |
 | 410 | Split Array Largest Sum | Dynamic Programming |  | Hard |   | C++ |  T |
 | 438 | Find All Anagrams In a String | Sliding Window | 2 | Med | O(n)  | CSharp |
