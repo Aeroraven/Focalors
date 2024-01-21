@@ -183,6 +183,7 @@ So use it as free as you can.
 | 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | Hard |   | C++ |
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | Hard |   | C++ |
 | 878 | Nth Magical Number | Math Theory + Binary Search | 7 | Hard |   | C++ |
+| 1025 | Divisor Game | Induction / Gaming Theory | 3 | Easy |   | C++ |
 | 1137 | N-th Tribonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ |
 | 1345 | Jump Game IV | Breadth-first Search | 3 | Hard |   | C++ |
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | Hard |   | C++ |
