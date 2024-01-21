@@ -179,6 +179,7 @@ So use it as free as you can.
 | 410 | Split Array Largest Sum | Dynamic Programming |  | Hard |   | C++ |  T |
 | 438 | Find All Anagrams In a String | Sliding Window | 2 | Med | O(n)  | CSharp |
 | 560 | Subarray Sum Equals K | Hashing + Prefix Sum | 2 | Med | O(n^2)  | CSharp |
+| 598 | Range Addition II | Simulation | 0 | Easy |   | C++ |
 | 679 | 24 Game | Simulation | 2 | Hard |   | C++ |
 | 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | Hard |   | C++ |
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | Hard |   | C++ |
