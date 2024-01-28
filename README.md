@@ -164,6 +164,7 @@ So use it as free as you can.
 | 172 | Factorial Trailing Zeroes | Simulation | 0 | Med | O(logn) | CSharp | 
 | 174 | Dungeon Game | Dynamic Programming | 7  | Hard |   | C++ |
 | 184 | Best Time to Buy and Sell Stock IV | Dynamic Programming | 5 | Hard |   | C++ |
+| 189 | Rotate Array | Simulation | 1 <3> | Med |  O(n) | C++ |
 | 214 | Shortest Palindrome | Rabin-Karp |  | Hard |   | C++ |
 | 218 | The Skyline Problem | Heap + Sort | 5 | Hard |   | C++ |
 | 231 | Power of Two | Simulation | 0 | Easy | O(logn)  | CSharp | 
