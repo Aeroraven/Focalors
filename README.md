@@ -184,6 +184,7 @@ So use it as free as you can.
 | 560 | Subarray Sum Equals K | Hashing + Prefix Sum | 2 | Med | O(n^2)  | CSharp |
 | 598 | Range Addition II | Simulation | 0 | Easy |   | C++ |
 | 679 | 24 Game | Simulation | 2 | Hard |   | C++ |
+| 739 | Daily Temperature | Stack | 0 | Med | O(n)  | C++ |
 | 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | Hard |   | C++ |
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | Hard |   | C++ |
 | 878 | Nth Magical Number | Math Theory + Binary Search | 7 | Hard |   | C++ |
