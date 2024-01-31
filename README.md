@@ -167,7 +167,8 @@ So use it as free as you can.
 | 189 | Rotate Array | Simulation | 1 <3> | Med |  O(n) | C++ |
 | 214 | Shortest Palindrome | Rabin-Karp |  | Hard |   | C++ |
 | 218 | The Skyline Problem | Heap + Sort | 5 | Hard |   | C++ |
-| 226 | Invert Binary Tree | Simulation | 0 | Easy |   | C++ |
+| 226 | Invert Binary Tree | Simulation | 0 | Easy |  O(n) | C++ |
+| 230 | K-th Smallest Element in a BST | Inorder Traversal | 1 | Med | O(n)  | C++ | 
 | 231 | Power of Two | Simulation | 0 | Easy | O(logn)  | CSharp | 
 | 233 | Number of Digit One | Combinatorics + Dynamic Programming | 6 | Hard |   | C++ |
 | 238 | Product of Array Except Self | Prefix Sum | 0 <1> | Med | O(n)  | C++ |
@@ -182,6 +183,7 @@ So use it as free as you can.
 | 403 | Frog Jump | Breadth-first Search | 3 | Hard |   | C++ |
 | 410 | Split Array Largest Sum | Dynamic Programming |  | Hard |   | C++ |  T |
 | 438 | Find All Anagrams In a String | Sliding Window | 2 | Med | O(n)  | CSharp |
+| 543 | Diameter of Binary Tree | Simulation | 0 | Easy | O(n)  | C++ |
 | 560 | Subarray Sum Equals K | Hashing + Prefix Sum | 2 | Med | O(n^2)  | CSharp |
 | 598 | Range Addition II | Simulation | 0 | Easy |   | C++ |
 | 679 | 24 Game | Simulation | 2 | Hard |   | C++ |
