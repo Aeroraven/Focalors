@@ -165,6 +165,7 @@ So use it as free as you can.
 | 174 | Dungeon Game | Dynamic Programming | 7  | Hard |   | C++ |
 | 184 | Best Time to Buy and Sell Stock IV | Dynamic Programming | 5 | Hard |   | C++ |
 | 189 | Rotate Array | Simulation | 1 <3> | Med |  O(n) | C++ |
+| 199 | Binary Tree Right Side View | Simulation | 1 | Med | O(n)  | C++ | 
 | 214 | Shortest Palindrome | Rabin-Karp |  | Hard |   | C++ |
 | 218 | The Skyline Problem | Heap + Sort | 5 | Hard |   | C++ |
 | 226 | Invert Binary Tree | Simulation | 0 | Easy |  O(n) | C++ |
