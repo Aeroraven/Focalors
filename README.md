@@ -183,6 +183,7 @@ So use it as free as you can.
 | 367 | Valid Perfect Square | Binary Search | 0 | Easy |  O(logn) | C++ |
 | 403 | Frog Jump | Breadth-first Search | 3 | Hard |   | C++ |
 | 410 | Split Array Largest Sum | Dynamic Programming |  | Hard |   | C++ |  T |
+| 437 | Path Sum III | Prefix Sum + Hash | 3 | Med | O(n^2)  | C++ | 
 | 438 | Find All Anagrams In a String | Sliding Window | 2 | Med | O(n)  | CSharp |
 | 543 | Diameter of Binary Tree | Simulation | 0 | Easy | O(n)  | C++ |
 | 560 | Subarray Sum Equals K | Hashing + Prefix Sum | 2 | Med | O(n^2)  | CSharp |
