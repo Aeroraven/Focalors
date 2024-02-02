@@ -161,6 +161,7 @@ So use it as free as you can.
 | 141 | Linked List Cycle | Dual Pointer | 1 <4> | Easy | O(n) | C++ |
 | 142 | Linked List Cycle II | Dual Pointer + Math | 1 <6> | Med | O(n) | C++ |
 | 143 | Reorder Linked List | Simulation | 1 &lt;?> | Med | O(n) | C++ | S
+| 160 | Intersection of Two Linked Lists | Simulation | 1 <1> | Easy | O(n)  | C++ | 
 | 172 | Factorial Trailing Zeroes | Simulation | 0 | Med | O(logn) | CSharp | 
 | 174 | Dungeon Game | Dynamic Programming | 7  | Hard |   | C++ |
 | 184 | Best Time to Buy and Sell Stock IV | Dynamic Programming | 5 | Hard |   | C++ |
