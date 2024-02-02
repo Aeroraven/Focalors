@@ -161,6 +161,8 @@ So use it as free as you can.
 | 141 | Linked List Cycle | Dual Pointer | 1 <4> | Easy | O(n) | C++ |
 | 142 | Linked List Cycle II | Dual Pointer + Math | 1 <6> | Med | O(n) | C++ |
 | 143 | Reorder Linked List | Simulation | 1 &lt;?> | Med | O(n) | C++ | S
+| 144 | Binary Tree Preorder Traversal | Simulation | 0 | Easy | O(n) | C++ | L
+| 145 | Binary Tree Postorder Traversal | Simulation | 0 | Easy | O(n) | C++ | L
 | 146 | LRU Cache | Hash + Double-Ended Queue | 3 | Med | O(n)  |  C++ | 
 | 147 | Insertion Sort List | Simulation | 1 | Med | O(n^2)  |  C++ | 
 | 148 | Sort List | Merge Sort | 3 | Med | O(nlogn)  |  C++ | 
