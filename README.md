@@ -166,7 +166,8 @@ So use it as free as you can.
 | 146 | LRU Cache | Hash + Double-Ended Queue | 3 | Med | O(n)  |  C++ | 
 | 147 | Insertion Sort List | Simulation | 1 | Med | O(n^2)  |  C++ | 
 | 148 | Sort List | Merge Sort | 3 | Med | O(nlogn)  |  C++ | 
-| 149 | Max Points on a Line | Simulation | 1 | Hard | O(n^3)  |  CSharp | 
+| 149 | Max Points on a Line | Simulation | 1 | Hard | O(n^3)  |  CSharp | L
+| 150 | Evaluate Reverse Polish Notation | Stack | 1 | Med | O(n)  |  C++ | L
 | 160 | Intersection of Two Linked Lists | Simulation | 1 <1> | Easy | O(n)  | C++ | 
 | 172 | Factorial Trailing Zeroes | Simulation | 0 | Med | O(logn) | CSharp | 
 | 174 | Dungeon Game | Dynamic Programming | 7  | Hard |   | C++ |
