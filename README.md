@@ -165,7 +165,7 @@ So use it as free as you can.
 | 172 | Factorial Trailing Zeroes | Simulation | 0 | Med | O(logn) | CSharp | 
 | 174 | Dungeon Game | Dynamic Programming | 7  | Hard |   | C++ |
 | 184 | Best Time to Buy and Sell Stock IV | Dynamic Programming | 5 | Hard |   | C++ |
-| 189 | Rotate Array | Simulation | 1 <3> | Med |  O(n) | C++ |
+| 189 | Rotate Array | Simulation | 1 &lt;3> | Med |  O(n) | C++ |
 | 199 | Binary Tree Right Side View | Simulation | 1 | Med | O(n)  | C++ | 
 | 206 | Reversed Linked List | Simulation | 0 | Easy | O(n)  | C++ | 
 | 214 | Shortest Palindrome | Rabin-Karp |  | Hard |   | C++ |
@@ -174,6 +174,7 @@ So use it as free as you can.
 | 230 | K-th Smallest Element in a BST | Inorder Traversal | 1 | Med | O(n)  | C++ | 
 | 231 | Power of Two | Simulation | 0 | Easy | O(logn)  | CSharp | 
 | 233 | Number of Digit One | Combinatorics + Dynamic Programming | 6 | Hard |   | C++ |
+| 234 | Palindrome Linked List | Simulation | 0 <1> | Easy | O(n)  | C++ |
 | 236 | Lowest Common Ancestor of a Binary Tree | Simulation | 1 | Med | O(n)  | C++ |
 | 238 | Product of Array Except Self | Prefix Sum | 0 <1> | Med | O(n)  | C++ |
 | 283 | Move Zeroes | Dual Pointers | 1 | Easy | O(n) | CSharp | 
@@ -201,7 +202,6 @@ So use it as free as you can.
 | 1345 | Jump Game IV | Breadth-first Search | 3 | Hard |   | C++ |
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | Hard |   | C++ |
 | LCR126 | Fibonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ |
-
 
 `Simulation` means the problem can be solved using `Brute Force` algorithm (Do what you are asked to do)
 
