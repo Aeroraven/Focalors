@@ -126,7 +126,7 @@ So use it as free as you can.
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Simulation | 1 | Med | O(n)  |  C++ | 
 | 107 | Binary Tree Level Order Traversal II | Simulation | 0 | Med | O(n)  |  C++ | 
 | 108 | Convert Sorted Array to Binary Search Tree | Divide & Conquer | 1 | Med | O(n)  |  C++ | 
-| 109 | Convert Sorted List to Binary Search Tree | Inorder Traversal | 4~5 | Med | O(n)  |  C++ | 
+| 109 | Convert Sorted List to Binary Search Tree | Inorder Traversal | 4 | Med | O(n)  |  C++ | 
 | 110 | Balanced Binary Tree | Simulation | 0 | Easy | O(n)  |  C++ | 
 | 111 | Minimum Depth of Binary Tree | Simulation | 0 | Easy | O(n)  |  C++ | 
 | 112 | Path Sum | Simulation | 0 | Easy | O(n)  |  C++ | 
@@ -162,6 +162,7 @@ So use it as free as you can.
 | 142 | Linked List Cycle II | Dual Pointer + Math | 1 <6> | Med | O(n) | C++ |
 | 143 | Reorder Linked List | Simulation | 1 &lt;?> | Med | O(n) | C++ | S
 | 146 | LRU Cache | Hash + Double-Ended Queue | 3 | Med | O(n)  |  C++ | 
+| 147 | Insertion Sort List | Simulation | 1 | Med | O(n^2)  |  C++ | 
 | 148 | Sort List | Merge Sort | 3 | Med | O(nlogn)  |  C++ | 
 | 160 | Intersection of Two Linked Lists | Simulation | 1 <1> | Easy | O(n)  | C++ | 
 | 172 | Factorial Trailing Zeroes | Simulation | 0 | Med | O(logn) | CSharp | 
