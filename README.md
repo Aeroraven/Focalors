@@ -197,6 +197,7 @@ So use it as free as you can.
 | 437 | Path Sum III | Prefix Sum + Hash | 3 | Med | O(n^2)  | C++ | 
 | 438 | Find All Anagrams In a String | Sliding Window | 2 | Med | O(n)  | CSharp |
 | 543 | Diameter of Binary Tree | Simulation | 0 | Easy | O(n)  | C++ |
+| 547 | Number of Provinces | Breadth-first Search | 2 | Med | O(n^2)  | C++ |
 | 560 | Subarray Sum Equals K | Hashing + Prefix Sum | 2 | Med | O(n^2)  | CSharp |
 | 598 | Range Addition II | Simulation | 0 | Easy |   | C++ |
 | 679 | 24 Game | Simulation | 2 | Hard |   | C++ |
