@@ -190,7 +190,7 @@ So use it as free as you can.
 | 312 | Burst Balloons | Dynamic Programming | 6 | Hard |   | C++ ||
 | 315 | Count of Smaller Numbers After Self | Binary Index Tree | 3 | Hard |   | C++ ||
 | 327 | Count of Range Sum | Binary Index Tree + Hash + Binary Search Tree + Prefix Sum | 6 | Hard |   | C++ ||
-| 329 | Longest Increasing Path | Topological Sort | 3-4 | Hard | O(mn)  | C++ ||
+| 329 | Longest Increasing Path | Topological Sort | 4 | Hard | O(mn)  | C++ ||
 | 367 | Valid Perfect Square | Binary Search | 0 | Easy |  O(logn) | C++ ||
 | 403 | Frog Jump | Breadth-first Search | 3 | Hard |   | C++ ||
 | 410 | Split Array Largest Sum | Dynamic Programming |  | Hard |   | C++ |  T |
@@ -211,6 +211,7 @@ So use it as free as you can.
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | 2 | Hard | O(n^2) | C++ ||
 | 1345 | Jump Game IV | Breadth-first Search | 3 | Hard |   | C++ ||
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | Hard |   | C++ ||
+| 1944 | Number of Visible People in a Queue | Monotonic Stack | 4 | Hard | | C++ ||
 | LCR126 | Fibonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ ||
 
 `Simulation` means the problem can be solved using `Brute Force` algorithm (Do what you are asked to do)
@@ -218,7 +219,7 @@ So use it as free as you can.
 `<x>` follow up difficulty
 
 
-## List of Unsolved Problems
+## List of Unsolved Problems with Attempts
 
 | ID | Problem | Annotated Difficulty | Status |
 | -- | -- | -- | -- |
