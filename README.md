@@ -210,6 +210,7 @@ So use it as free as you can.
 | 1137 | N-th Tribonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ ||
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | 2 | Hard | O(n^2) | C++ ||
 | 1345 | Jump Game IV | Breadth-first Search | 3 | Hard |   | C++ ||
+| 1402 | Reducing Dishes | Dynamic Programming | 3 | Hard | O(n^2) | C++ ||
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | Hard |   | C++ ||
 | 1944 | Number of Visible People in a Queue | Monotonic Stack | 4 | Hard | | C++ ||
 | LCR126 | Fibonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ ||
