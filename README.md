@@ -213,6 +213,7 @@ So use it as free as you can.
 | 1402 | Reducing Dishes | Dynamic Programming | 3 | Hard | O(n^2) | C++ ||
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | Hard |   | C++ ||
 | 1944 | Number of Visible People in a Queue | Monotonic Stack | 4 | Hard | | C++ ||
+| 1994 | The Number of Good Subsets | Bit Mask + Dynamic Programming | 5 | Hard | O(m*2^m+logn) | C++ ||
 | LCR126 | Fibonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ ||
 
 `Simulation` means the problem can be solved using `Brute Force` algorithm (Do what you are asked to do)
