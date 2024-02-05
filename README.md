@@ -175,7 +175,7 @@ So use it as free as you can.
 | 189 | Rotate Array | Simulation | 1 &lt;3> | Med |  O(n) | C++ ||
 | 199 | Binary Tree Right Side View | Simulation | 1 | Med | O(n)  | C++ ||
 | 206 | Reversed Linked List | Simulation | 0 | Easy | O(n)  | C++ ||
-| 214 | Shortest Palindrome | Rabin-Karp |  | Hard |   | C++ ||
+| 214 | Shortest Palindrome | Rabin-Karp | 4 | Hard |   | C++ ||
 | 218 | The Skyline Problem | Heap + Sort | 5 | Hard |   | C++ ||
 | 226 | Invert Binary Tree | Simulation | 0 | Easy |  O(n) | C++ ||
 | 230 | K-th Smallest Element in a BST | Inorder Traversal | 1 | Med | O(n)  | C++ ||
@@ -204,9 +204,10 @@ So use it as free as you can.
 | 739 | Daily Temperature | Stack | 0 | Med | O(n)  | C++ ||
 | 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | Hard |   | C++ ||
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | Hard |   | C++ ||
-| 847 | Shortest Path Visiting All Nodes | Breadth-first Search + Bit Mask | 5 | Hard | O(n^2*2^n) | C++ ||
+| 847 | Shortest Path Visiting All Nodes | Breadth-first Search + Bit Mask | 6 | Hard | O(n^2*2^n) | C++ ||
 | 878 | Nth Magical Number | Math Theory + Binary Search | 7 | Hard |   | C++ ||
 | 1025 | Divisor Game | Induction / Gaming Theory | 3 | Easy |   | C++ ||
+| 1106 | Parsing a Boolean Expression | Stack | 2 | Hard | O(n) | C++ ||
 | 1137 | N-th Tribonacci Number | <s>Meta-Programming (C++ Macro & Template)</s> + Dynamic Programming  | 0 | Easy |   | C++ ||
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | 2 | Hard | O(n^2) | C++ ||
 | 1345 | Jump Game IV | Breadth-first Search | 3 | Hard |   | C++ ||
