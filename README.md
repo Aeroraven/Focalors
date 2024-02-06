@@ -211,6 +211,7 @@ So use it as free as you can.
 | 560 | Subarray Sum Equals K | Hashing + Prefix Sum | 2 | Med | O(n^2)  | C# ||
 | 598 | Range Addition II | Simulation | 0 | Easy |   | C++ ||
 | 679 | 24 Game | Simulation | 2 | Hard |   | C++ ||
+| 685 | Redundant Connection II | Union-Find Algorithm | 3 | Hard | O(nlogn) | C++ ||
 | 739 | Daily Temperature | Stack | 0 | Med | O(n)  | C++ ||
 | 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | Hard |   | C++ ||
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | Hard |   | C++ ||
