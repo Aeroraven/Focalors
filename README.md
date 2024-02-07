@@ -206,6 +206,7 @@ So use it as free as you can.
 | 410 | Split Array Largest Sum | Dynamic Programming | N/A | Hard |   | C++ |  T |
 | 437 | Path Sum III | Prefix Sum + Hash | 3 | Med | O(n^2)  | C++ ||
 | 438 | Find All Anagrams In a String | Sliding Window | 2 | Med | O(n)  | C# ||
+| 502 | IPO | Greedy Strategy | 2 | Hard | O(nlogn) | C++ ||
 | 543 | Diameter of Binary Tree | Simulation | 0 | Easy | O(n)  | C++ ||
 | 547 | Number of Provinces | Breadth-first Search | 2 | Med | O(n^2)  | C++ ||
 | 560 | Subarray Sum Equals K | Hashing + Prefix Sum | 2 | Med | O(n^2)  | C# ||
@@ -221,6 +222,7 @@ So use it as free as you can.
 | 1106 | Parsing a Boolean Expression | Stack | 2 | Hard | O(n) | C++ ||
 | 1137 | N-th Tribonacci Number | Dynamic Programming  | 0 | Easy |   | C++ ||
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | 2 | Hard | O(n^2) | C++ ||
+| 1289 | Minimum Falling Path Sum II | Dynamic Programming | 1 | Hard | O(n^2) | C++ ||
 | 1345 | Jump Game IV | Breadth-first Search | 3 | Hard |   | C++ ||
 | 1402 | Reducing Dishes | Dynamic Programming | 3 | Hard | O(n^2) | C++ ||
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | Hard |   | C++ ||
@@ -278,3 +280,4 @@ It's ridiculous to see the mismatched difficulty annotated in the problemset (e.
 - `MD`: The problem requires deeper logical thinking and moderate understanding of basic algorithms.
 - `HD`: The problems requires deeper independent and creative logical thinking or intuition (always without simple combination of algorithms).
 - `IN`: I don't think I can solve these problems.
+
