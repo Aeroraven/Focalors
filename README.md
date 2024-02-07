@@ -28,23 +28,23 @@ So use it as free as you can.
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | C# ||
 | 9 | Palindrome Number | Simulation | 1 | Easy | O(logn) | C++ | L|
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ ||
-| 11 | Container with Most Water | Dual Pointer | 7 | Med | O(n) | C# ||
+| 11 | Container with Most Water | Two Pointer | 7 | Med | O(n) | C# ||
 | 12 | Integer to Roman | Simulation | 1 | Med | O(logn) | C# ||
 | 13 | Roman to Integer | Simulation | 1 | Easy | O(logn) |  C++ | L|
 | 14 | Longest Common Prefix | Simulation | 1 | Easy | O(nm) |  C++ | L|
 | 15 | 3 Sum | Hash | 5 | Med | O(n^3) | C# ||
-| 16 | 3 Sum Closest | Dual Pointer | 5 | Med | O(n^2) | C# ||
+| 16 | 3 Sum Closest | Two Pointer | 5 | Med | O(n^2) | C# ||
 | 17 | Letter Combinations of a Phone Number | Simulation | 1 | Med | O(n*4^n) | C# ||
-| 18 | 4 Sum | Dual Pointer | 5 | Med | O(n^3) | C# ||
-| 19 | Remove Nth Node From End of List | Dual Pointer | 3 | Med | O(n) | C# ||
+| 18 | 4 Sum | Two Pointer | 5 | Med | O(n^3) | C# ||
+| 19 | Remove Nth Node From End of List | Two Pointer | 3 | Med | O(n) | C# ||
 | 20 | Valid Parentheses | Stack | 1 | Easy | O(n) |  C++ | L|
 | 21 | Merge Two Sorted Lists | Simulation | 1 | Easy | O(n) |  C++ | L|
 | 22 | Generate Parentheses | Simulation | 1 | Med | / | C# ||
 | 23 | Merge k Sorted Lists | Simulation | 2 | Hard |   | C++ ||
 | 24 | Swap Nodes in Pairs | Simulation | 2 | Med | O(n)  | C# ||
 | 25 | Reverse Nodes in k-Group | Simulation | 3 | Hard |   | C++ ||
-| 26 | Remove Duplicates From Sorted Array | Dual Pointers | 2 | Easy | O(n) |  C++ | L|
-| 27 | Remove Element | Dual Pointers | 2 | Easy | O(n) |  C++ | L|
+| 26 | Remove Duplicates From Sorted Array | Two Pointers | 2 | Easy | O(n) |  C++ | L|
+| 27 | Remove Element | Two Pointers | 2 | Easy | O(n) |  C++ | L|
 | 28 | Find the Index of the First Occurrence in a String | / (Expected KMP) | 2 | Easy | O(n) | Python | L|
 | 29 | Divide | Binary Calculation | 5 | Med | O(logn) | C# ||
 | 30 | Substring with Concatenation of All Words | Sliding Window | 7 | Hard | | C++ ||
@@ -92,20 +92,20 @@ So use it as free as you can.
 | 72 | Edit Distance | Dynamic Programming | 6 | Med | O(n^3)  | C# | T|
 | 73 | Set Matrix Zeros | Simulation + Intuition | 2 | Med |  O(mn) | C++ | L|
 | 74 | Search A 2D Matrix | Simulation | 2 | Med |  O(m+n) | C++ | LT|
-| 75 | Sort Colors | Dual Pointers | 4 | Med | O(n)  | C# ||
+| 75 | Sort Colors | Two Pointers | 4 | Med | O(n)  | C# ||
 | 76 | Minimum Window Substring | Sliding Window | 6 | Hard |   | C++ ||
 | 77 | Combinations | Simulation | 2 | Med | / | C# ||
 | 78 | Subsets | Simulation | 1 | Med | O(2^n) | C# ||
 | 79 | Word Search | Simulation | 1 | Med | O(n^2*m^2) | C# | T|
-| 80 | Remove Duplicates From Sorted Array II | Simulation (Dual Pointers) | 3 | Med |   | C# | L|
+| 80 | Remove Duplicates From Sorted Array II | Simulation (Two Pointers) | 3 | Med |   | C# | L|
 | 81 | Search In Rotated Sorted Array II | Simulataion | N/A | Med |   | C# | LT|
-| 82 | Remove Duplicates From Sorted Array II | Simulation (Dual Pointers) | 2 | Med |   | C++ | L|
-| 83 | Remove Duplicates From Sorted Array | Simulation (Dual Pointers) | 1 | Easy |   | C++ | L|
+| 82 | Remove Duplicates From Sorted Array II | Simulation (Two Pointers) | 2 | Med |   | C++ | L|
+| 83 | Remove Duplicates From Sorted Array | Simulation (Two Pointers) | 1 | Easy |   | C++ | L|
 | 84 | Largest Rectangle in Histogram | Stack | 6 | Hard |   | C++ ||
 | 85 | Maximal Rectangle | Prefix Sum | 5 | Hard |   | C++ ||
 | 86 | Partition List | Simulation | 1 | Med | O(n) | C# ||
 | 87 | Scramble String | Dynamic Programming + Intuition | 7 | Hard | O(n^4)  | C++ ||
-| 88 | Merge Sorted Array | Simulation (Dual Pointers) | 1 | Easy | O(n)  | C# ||
+| 88 | Merge Sorted Array | Simulation (Two Pointers) | 1 | Easy | O(n)  | C# ||
 | 89 | Gray Code | Intuition + Simulation | 4 | Med | O(2^n)  | C# ||
 | 90 | Subsets II | Simulation  | 2 | Med |   | C++ | L|
 | 91 | Decode Ways | Dynamic Programming | 1 | Med | O(n)  | C# ||
@@ -163,9 +163,9 @@ So use it as free as you can.
 | 139 | Word Break | Dynamic Programming + String Hash | 3  | Med | O(n^3) | C++ ||
 | 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | 5  | Hard |   | C++ ||
 | 141 | Linked List Cycle | Simulation | 1                    | Easy | / | / ||
-| 141F | Linked List Cycle (Follow-up) | Dual Pointer | 4 | Easy | O(n) | C++ ||
+| 141F | Linked List Cycle (Follow-up) | Two Pointer | 4 | Easy | O(n) | C++ ||
 | 142 | Linked List Cycle II | Simulation                                                 | 1 | Med | / | / ||
-| 142F | Linked List Cycle II (Follow-up) | Dual Pointer + Math | 6 | Med | O(n) | C++ ||
+| 142F | Linked List Cycle II (Follow-up) | Two Pointer + Math | 6 | Med | O(n) | C++ ||
 | 143 | Reorder Linked List | Simulation | 1 | Med | O(n) | C++ | S|
 | 144 | Binary Tree Preorder Traversal | Simulation | 0 | Easy | O(n) | C++ | L|
 | 145 | Binary Tree Postorder Traversal | Simulation | 0 | Easy | O(n) | C++ | L|
@@ -194,7 +194,7 @@ So use it as free as you can.
 | 236 | Lowest Common Ancestor of a Binary Tree | Simulation | 1 | Med | O(n)  | C++ ||
 | 238 | Product of Array Except Self | Prefix Sum | 0 | Med | /  | /      ||
 | 238F | Product of Array Except Self (Follow-up) | Prefix Sum | 1 | Med | O(n) | C++ ||
-| 283 | Move Zeroes | Dual Pointers | 1 | Easy | O(n) | C# ||
+| 283 | Move Zeroes | Two Pointers | 1 | Easy | O(n) | C# ||
 | 292 | Nim Game | Gaming Theory + Dynamic Programming | 3 | Easy |   | C++ ||
 | 295 | Find Median from Data Stream | Heap | 5 | Hard |   | C++ ||
 | 312 | Burst Balloons | Dynamic Programming | 6 | Hard |   | C++ ||
@@ -227,6 +227,7 @@ So use it as free as you can.
 | 1326 | Minimum Number of Taps to Open to Water a Garden | Greedy Strategy (Sort) | 4 | Hard | O(n) | C++ ||
 | 1345 | Jump Game IV | Breadth-first Search | 3 | Hard |   | C++ ||
 | 1402 | Reducing Dishes | Dynamic Programming | 3 | Hard | O(n^2) | C++ ||
+| 1537 | Get the Maximum Score | Two Pointers | 3 | Hard | O(n+m) | C++ ||
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | Hard |   | C++ ||
 | 1739 | Building Boxes | Binary Search | 6 | Hard | O(logn) | C++ ||
 | 1944 | Number of Visible People in a Queue | Monotonic Stack | 4 | Hard | | C++ ||
@@ -248,16 +249,16 @@ So use it as free as you can.
 
 ## List of Problems Solved in Suboptimal Method
 
-| ID | Problem | Solution Adopted | Time/Space Complexity | Optimal Solution | Time/Space Complexity |  
+| ID | Problem | Solution Adopted | Time/Space Complexity | Optimal Solution | Time/Space Complexity |
 | -- | -- | -- | -- | -- | -- |
-| 15 | 3 Sum | Hash | O(n^3)* | Dual Pointer | O(n^2)
-| 31 | Next Permutation | Selection Sort | O(n^2) | Sort (Reverse) | O(n)
-| 43 | Multiply String | Simulation | O(n^2) | Fast Fourier Transform | O(nlogn)
+| 15 | 3 Sum | Hash | O(n^3)* | Two Pointers | O(n^2)|
+| 31 | Next Permutation | Selection Sort | O(n^2) | Sort (Reverse) | O(n)|
+| 43 | Multiply String | Simulation | O(n^2) | Fast Fourier Transform | O(nlogn)|
 | 70 | Climbing Stairs |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
-| 74 | Search A 2D Matrix | Simulation | O(n+m) | Binary Search | O(logn+logm)
-| 81 | Search In Rotated Sorted Array II | Simulation | O(n) | Binary Search | O(logn)
-| 143 | Reorder List | Simulation | S(n) | Linked List Reverse | S(1)
-| 214 | Shortest Palindrome | Rabin-Karp | O(n^2)* | Manacher | O(n)
+| 74 | Search A 2D Matrix | Simulation | O(n+m) | Binary Search | O(logn+logm)|
+| 81 | Search In Rotated Sorted Array II | Simulation | O(n) | Binary Search | O(logn)|
+| 143 | Reorder List | Simulation | S(n) | Linked List Reverse | S(1)|
+| 214 | Shortest Palindrome | Rabin-Karp | O(n^2)* | Manacher | O(n)|
 | LCR126 | Fibonacci Number |  Dynamic Programming | O(n) | Dynamic Programming + Matrix Fast Power Algorithm | O(logn) |
 
 *. Worst case of hash function
