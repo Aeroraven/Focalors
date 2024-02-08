@@ -231,6 +231,7 @@ So use it as free as you can.
 | 1326 | Minimum Number of Taps to Open to Water a Garden | Greedy Strategy (Sort) | 4 | Hard | O(n) | C++ ||
 | 1345 | Jump Game IV | Breadth-first Search | 3 | Hard |   | C++ ||
 | 1402 | Reducing Dishes | Dynamic Programming | 3 | Hard | O(n^2) | C++ ||
+| 1411 | Number of Ways to Paint Nx3 Grid | Dynamic Programming | 3 | Hard | O(n) | C++ ||
 | 1537 | Get the Maximum Score | Two Pointers | 3 | Hard | O(n+m) | C++ ||
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | Hard |   | C++ ||
 | 1739 | Building Boxes | Binary Search | 6 | Hard | O(logn) | C++ ||
