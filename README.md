@@ -216,6 +216,7 @@ So use it as free as you can.
 | 685 | Redundant Connection II | Union-Find Algorithm | 3 | Hard | O(nlogn) | C++ ||
 | 739 | Daily Temperature | Stack | 0 | Med | O(n)  | C++ ||
 | 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | Hard |   | C++ ||
+| 827 | Making a Large Island | Breadth-first Search | 2 | Hard | O(n^2) | C++ ||
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | Hard |   | C++ ||
 | 847 | Shortest Path Visiting All Nodes | Breadth-first Search + Bit Mask | 6 | Hard | O(n^2*2^n) | C++ ||
 | 878 | Nth Magical Number | Math Theory + Binary Search | 7 | Hard |   | C++ ||
@@ -236,8 +237,6 @@ So use it as free as you can.
 | LCR126 | Fibonacci Number | Dynamic Programming                                        | 0 | Easy |   | C++ ||
 
 `Simulation` means the problem can be solved using `Brute Force` algorithm (Do what you are asked to do)
-
-`<x>` follow up difficulty
 
 
 ## List of Unsolved Problems with Attempts
