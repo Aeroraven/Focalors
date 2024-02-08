@@ -221,6 +221,7 @@ So use it as free as you can.
 | 827 | Making a Large Island | Breadth-first Search | 2 | Hard | O(n^2) | C++ ||
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | Hard |   | C++ ||
 | 847 | Shortest Path Visiting All Nodes | Breadth-first Search + Bit Mask | 6 | Hard | O(n^2*2^n) | C++ ||
+| 871 | Minimum Number of Refueling Stops | Greedy Strategy (Heap) | 2 | Hard | O(nlogn) | C++ ||
 | 878 | Nth Magical Number | Math Theory + Binary Search | 7 | Hard |   | C++ ||
 | 1025 | Divisor Game | Induction / Gaming Theory | 3 | Easy |   | C++ ||
 | 1106 | Parsing a Boolean Expression | Stack | 2 | Hard | O(n) | C++ ||
