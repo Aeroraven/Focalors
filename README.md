@@ -202,6 +202,7 @@ So use it as free as you can.
 | 327 | Count of Range Sum | Binary Index Tree + Hash + Binary Search Tree + Prefix Sum | 6 | Hard |   | C++ ||
 | 329 | Longest Increasing Path | Topological Sort | 4 | Hard | O(mn)  | C++ ||
 | 367 | Valid Perfect Square | Binary Search | 0 | Easy |  O(logn) | C++ ||
+| 391 | Perfect Rectangle | Simulation + Intuition | 5 | Hard | O(nlogn) | C++ ||
 | 403 | Frog Jump | Breadth-first Search | 3 | Hard |   | C++ ||
 | 410 | Split Array Largest Sum | Dynamic Programming | N/A | Hard |   | C++ |  T |
 | 437 | Path Sum III | Prefix Sum + Hash | 3 | Med | O(n^2)  | C++ ||
