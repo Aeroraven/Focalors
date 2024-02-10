@@ -241,6 +241,7 @@ So use it as free as you can.
 | 1994 | The Number of Good Subsets | Bit Mask + Dynamic Programming | 5 | Hard | O(m*2^m+logn) | C++ ||
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | Hard | O(n) | C++ ||
 | LCR126 | Fibonacci Number | Dynamic Programming                                        | 0 | Easy |   | C++ ||
+| LCR187 | Ice Breaking Game | Dynamic Programming (Joseph Ring) | 3 | Easy | O(n) | C++ ||
 
 `Simulation` means the problem can be solved using `Brute Force` algorithm (Do what you are asked to do)
 
