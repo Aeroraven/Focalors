@@ -221,7 +221,8 @@ So use it as free as you can.
 | 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | Hard |   | C++ ||
 | 827 | Making a Large Island | Breadth-first Search | 2 | Hard | O(n^2) | C++ ||
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | Hard |   | C++ ||
-| 850 | Rectangle Area II | Computational Geometry (Sweeping Line) + Segment Tree + Discretization (Hashing) | 8 | Hard | O(nlogn) | C++ ||
+| 850 | Rectangle Area II (Acceptable Solution) | Simulation | 3 | Hard | O(n^3) | / ||
+| 850F | Rectangle Area II (Optimal Solution) | Computational Geometry (Sweeping Line) + Segment Tree + Discretization (Hashing) | 8 | Hard | O(nlogn) | C++ ||
 | 847 | Shortest Path Visiting All Nodes | Breadth-first Search + Bit Mask | 6 | Hard | O(n^2*2^n) | C++ ||
 | 871 | Minimum Number of Refueling Stops | Greedy Strategy (Heap) | 2 | Hard | O(nlogn) | C++ ||
 | 878 | Nth Magical Number | Math Theory + Binary Search | 7 | Hard |   | C++ ||
