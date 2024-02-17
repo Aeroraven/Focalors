@@ -215,6 +215,7 @@ So use it as free as you can.
 | 632 | Smallest Range Covering Elements From K Lists | Greedy Strategy (Heap) | 3 | Hard | O(nlogn) | C++ ||
 | 679 | 24 Game | Simulation | 2 | Hard |   | C++ ||
 | 685 | Redundant Connection II | Union-Find Algorithm | 3 | Hard | O(nlogn) | C++ ||
+| 699 | Falling Squares | Segment Tree + Discretization | 5 | Hard | O(nlogn) | C++ ||
 | 739 | Daily Temperature | Stack | 0 | Med | O(n)  | C++ ||
 | 765 | Couples Holding Hands | Union-find Algorithm | 5 | Hard | O(n^2) | C++ ||
 | 768 | Max Chunks to Make Sorted II | Greedy Strategy (Monotonic Stack) | 3 | Hard | O(n) | C++ ||
@@ -222,7 +223,7 @@ So use it as free as you can.
 | 827 | Making a Large Island | Breadth-first Search | 2 | Hard | O(n^2) | C++ ||
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | Hard |   | C++ ||
 | 850 | Rectangle Area II (Acceptable Solution) | Simulation | 3 | Hard | O(n^3) | / ||
-| 850F | Rectangle Area II (Optimal Solution) | Computational Geometry (Sweeping Line) + Segment Tree + Discretization (Hashing) | 8 | Hard | O(nlogn) | C++ ||
+| 850F | Rectangle Area II (Optimal Solution) | Computational Geometry (Sweeping Line) + Segment Tree + Discretization (Hashing) | 7 | Hard | O(nlogn) | C++ ||
 | 847 | Shortest Path Visiting All Nodes | Breadth-first Search + Bit Mask | 6 | Hard | O(n^2*2^n) | C++ ||
 | 871 | Minimum Number of Refueling Stops | Greedy Strategy (Heap) | 2 | Hard | O(nlogn) | C++ ||
 | 878 | Nth Magical Number | Math Theory + Binary Search | 7 | Hard |   | C++ ||
@@ -241,6 +242,7 @@ So use it as free as you can.
 | 1884 | Egg Drop With 2 Eggs and N Floors | Dynamic Programming + Induction + Binary Search | 6 | Med | O(logn) | C++ ||
 | 1944 | Number of Visible People in a Queue | Monotonic Stack | 4 | Hard | | C++ ||
 | 1994 | The Number of Good Subsets | Bit Mask + Dynamic Programming | 5 | Hard | O(m*2^m+logn) | C++ ||
+| 2147 | Number of Ways to Divide a Long Corriror | Simulation | 1 | Hard | O(n) | C++ ||
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | Hard | O(n) | C++ ||
 | LCR126 | Fibonacci Number | Dynamic Programming                                        | 0 | Easy |   | C++ ||
 | LCR187 | Ice Breaking Game | Dynamic Programming (Joseph Ring) | 3 | Easy | O(n) | C++ ||
