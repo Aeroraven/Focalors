@@ -207,6 +207,7 @@ So use it as free as you can.
 | 410 | Split Array Largest Sum | Dynamic Programming | N/A | Hard |   | C++ |  T |
 | 437 | Path Sum III | Prefix Sum + Hash | 3 | Med | O(n^2)  | C++ ||
 | 438 | Find All Anagrams In a String | Sliding Window | 2 | Med | O(n)  | C# ||
+| 493 | Reverse Pairs | Merge Sort | 5 | Hard | O(nlogn) | C++ ||
 | 502 | IPO | Greedy Strategy | 2 | Hard | O(nlogn) | C++ ||
 | 543 | Diameter of Binary Tree | Simulation | 0 | Easy | O(n)  | C++ ||
 | 547 | Number of Provinces | Breadth-first Search | 2 | Med | O(n^2)  | C++ ||
@@ -243,6 +244,7 @@ So use it as free as you can.
 | 1944 | Number of Visible People in a Queue | Monotonic Stack | 4 | Hard | | C++ ||
 | 1994 | The Number of Good Subsets | Bit Mask + Dynamic Programming | 5 | Hard | O(m*2^m+logn) | C++ ||
 | 2147 | Number of Ways to Divide a Long Corriror | Simulation | 1 | Hard | O(n) | C++ ||
+| 2407 | Longest Increasing Subsequence | Segment Tree + Dynamic Programming | 3 | Hard | O(nlogn) | C++ ||
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | Hard | O(n) | C++ ||
 | LCR126 | Fibonacci Number | Dynamic Programming                                        | 0 | Easy |   | C++ ||
 | LCR187 | Ice Breaking Game | Dynamic Programming (Joseph Ring) | 3 | Easy | O(n) | C++ ||
