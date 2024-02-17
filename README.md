@@ -246,7 +246,8 @@ So use it as free as you can.
 | 2147 | Number of Ways to Divide a Long Corriror | Simulation | 1 | Hard | O(n) | C++ ||
 | 2407 | Longest Increasing Subsequence | Segment Tree + Dynamic Programming | 3 | Hard | O(nlogn) | C++ ||
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | Hard | O(n) | C++ ||
-| LCR126 | Fibonacci Number | Dynamic Programming                                        | 0 | Easy |   | C++ ||
+| 2569 | Handling Sum Queries After Update | Segment Tree | 5 | Hard | O(nlogn) | C++ ||
+| LCR126 | Fibonacci Number | Dynamic Programming                                        | 0 | Easy | O(n) | C++ ||
 | LCR187 | Ice Breaking Game | Dynamic Programming (Joseph Ring) | 3 | Easy | O(n) | C++ ||
 
 `Simulation` means the problem can be solved using `Brute Force` algorithm (Do what you are asked to do)
