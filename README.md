@@ -194,7 +194,7 @@ So use it as free as you can.
 | 236 | Lowest Common Ancestor of a Binary Tree | Simulation | 1 | Med | O(n)  | C++ ||
 | 238 | Product of Array Except Self | Prefix Sum | 0 | Med | /  | /      ||
 | 238F | Product of Array Except Self (Follow-up) | Prefix Sum | 1 | Med | O(n) | C++ ||
-| 273 | Integer To English Words | Simulation | 2 | Hard | O(n) | C++ ||
+| 273 | Integer To English Words | Simulation | 1 | Hard | O(n) | C++ ||
 | 283 | Move Zeroes | Two Pointers | 1 | Easy | O(n) | C# ||
 | 292 | Nim Game | Gaming Theory + Dynamic Programming | 3 | Easy |   | C++ ||
 | 295 | Find Median from Data Stream | Heap | 5 | Hard |   | C++ ||
