@@ -28,15 +28,15 @@ So use it as free as you can.
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | C# ||
 | 9 | Palindrome Number | Simulation | 1 | Easy | O(logn) | C++ | L|
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ ||
-| 11 | Container with Most Water | Two Pointer | 7 | Med | O(n) | C# ||
+| 11 | Container with Most Water | Two Pointers | 7 | Med | O(n) | C# ||
 | 12 | Integer to Roman | Simulation | 1 | Med | O(logn) | C# ||
 | 13 | Roman to Integer | Simulation | 1 | Easy | O(logn) |  C++ | L|
 | 14 | Longest Common Prefix | Simulation | 1 | Easy | O(nm) |  C++ | L|
 | 15 | 3 Sum | Hash | 5 | Med | O(n^3) | C# ||
-| 16 | 3 Sum Closest | Two Pointer | 5 | Med | O(n^2) | C# ||
+| 16 | 3 Sum Closest | Two Pointers | 5 | Med | O(n^2) | C# ||
 | 17 | Letter Combinations of a Phone Number | Simulation | 1 | Med | O(n*4^n) | C# ||
-| 18 | 4 Sum | Two Pointer | 5 | Med | O(n^3) | C# ||
-| 19 | Remove Nth Node From End of List | Two Pointer | 3 | Med | O(n) | C# ||
+| 18 | 4 Sum | Two Pointers | 5 | Med | O(n^3) | C# ||
+| 19 | Remove Nth Node From End of List | Two Pointers | 3 | Med | O(n) | C# ||
 | 20 | Valid Parentheses | Stack | 1 | Easy | O(n) |  C++ | L|
 | 21 | Merge Two Sorted Lists | Simulation | 1 | Easy | O(n) |  C++ | L|
 | 22 | Generate Parentheses | Simulation | 1 | Med | / | C# ||
@@ -159,13 +159,13 @@ So use it as free as you can.
 | 135 | Candy | Greedy Strategy \+ Sort | 4  | Hard |   | C++ ||
 | 136 | Single Number | Binary Calculation | 2  | Easy | O(n) | C++ | L|
 | 137 | Single Number II | Ternary Calculation | 3  | Med | O(nlogn) | C++ ||
-| 138 | Copy List with Random Pointer | Simulation | 1  | Med | O(n) | C++ ||
+| 138 | Copy List with Random Pointers | Simulation | 1  | Med | O(n) | C++ ||
 | 139 | Word Break | Dynamic Programming + String Hash | 3  | Med | O(n^3) | C++ ||
 | 140 | Word Break II | Dynamic Programming + Depth-First Search + String Hash | 5  | Hard |   | C++ ||
 | 141 | Linked List Cycle | Simulation | 1                    | Easy | / | / ||
-| 141F | Linked List Cycle (Follow-up) | Two Pointer | 4 | Easy | O(n) | C++ ||
+| 141F | Linked List Cycle (Follow-up) | Two Pointers | 4 | Easy | O(n) | C++ ||
 | 142 | Linked List Cycle II | Simulation                                                 | 1 | Med | / | / ||
-| 142F | Linked List Cycle II (Follow-up) | Two Pointer + Math | 6 | Med | O(n) | C++ ||
+| 142F | Linked List Cycle II (Follow-up) | Two Pointers + Math | 6 | Med | O(n) | C++ ||
 | 143 | Reorder Linked List | Simulation | 1 | Med | O(n) | C++ | S|
 | 144 | Binary Tree Preorder Traversal | Simulation | 0 | Easy | O(n) | C++ | L|
 | 145 | Binary Tree Postorder Traversal | Simulation | 0 | Easy | O(n) | C++ | L|
@@ -195,6 +195,7 @@ So use it as free as you can.
 | 238 | Product of Array Except Self | Prefix Sum | 0 | Med | /  | /      ||
 | 238F | Product of Array Except Self (Follow-up) | Prefix Sum | 1 | Med | O(n) | C++ ||
 | 273 | Integer To English Words | Simulation | 1 | Hard | O(n) | C++ ||
+| 282 | Expression Add Operators | Simulation | 2 | Hard | / | C++ ||
 | 283 | Move Zeroes | Two Pointers | 1 | Easy | O(n) | C# ||
 | 292 | Nim Game | Gaming Theory + Dynamic Programming | 3 | Easy |   | C++ ||
 | 295 | Find Median from Data Stream | Heap | 5 | Hard |   | C++ ||
@@ -292,7 +293,7 @@ It's ridiculous to see the mismatched difficulty annotated in the problemset (e.
 
 | Rank | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |
-| Difficulty | EZ- | EZ | EZ | EZ+ | MD- | MD | MD+ | HD | HD+ | IN- | IN | IN+ | IN++ |
+| Difficulty | EZ-- | EZ- | EZ | EZ+ | MD- | MD | MD+ | HD | HD+ | IN- | IN | IN+ | IN++ |
 
 - `EZ`: The problem only requires slight thinking.
 - `MD`: The problem requires deeper logical thinking and moderate understanding of basic algorithms.
