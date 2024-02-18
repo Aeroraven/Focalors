@@ -115,7 +115,7 @@ So use it as free as you can.
 | 95 | Unique Binary Search Trees II | Simulation | 4 | Med | /  | C++ ||
 | 96 | Unique Binary Search Trees | Dynamic Programming | 2 | Med | O(n^2)  | C# ||
 | 97 | Interleaving String | Dynamic Programming | 5 | Med | /  | / ||
-| 97F | Interleaving String (Follow-up) | Dynamic Programming （Scrolling Array) | 6 | Med | O(n^2) | C++ ||
+| 97F | Interleaving String (Follow-up) | Dynamic Programming (Scrolling Array) | 6 | Med | O(n^2) | C++ ||
 | 98 | Validate Binary Search Tree | Simulation | 1 | Med | O(n)  | C# ||
 | 99 | Recover Binary Search Tree | Inorder Traversal | 5 | Med | O(n)  | C++ ||
 | 99F | Recover Binary Search Tree (Follow-up) | Inorder Traversal + Simulation | 5 | Med | O(n) | C++ ||
@@ -247,6 +247,7 @@ So use it as free as you can.
 | 2407 | Longest Increasing Subsequence | Segment Tree + Dynamic Programming | 3 | Hard | O(nlogn) | C++ ||
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | Hard | O(n) | C++ ||
 | 2569 | Handling Sum Queries After Update | Segment Tree | 5 | Hard | O(nlogn) | C++ ||
+| 2940 | Find Building Where Alice and Bob Can Meet | Binary Search + Monotonic Stack + Sort | 5 | Hard | O(nlogn) | C++ ||
 | LCR126 | Fibonacci Number | Dynamic Programming                                        | 0 | Easy | O(n) | C++ ||
 | LCR187 | Ice Breaking Game | Dynamic Programming (Joseph Ring) | 3 | Easy | O(n) | C++ ||
 
