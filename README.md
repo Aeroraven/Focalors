@@ -18,20 +18,20 @@ So use it as free as you can.
 
 | ID | Problem | Solution Adopted | Perceived Difficulty | Annotated Difficulty | Time Complxity | Lang | Status |
 | -- | -- | -- | -- | -- | -- | -- | -- |
-| 1 | Two Sum | Hash | 2 | Easy | O(nlogn) | C++ | L|
-| 2 | Add Two Numbers | Simulation | 2 | Med | O(n) | C++ | L|
-| 3 | Longest Substring Without Repeating Characters | Sliding Window | 3 | Med | O(n) | C++ | L|
+| 1 | Two Sum | Hash | 1 | Easy | O(nlogn) | C++ | L|
+| 2 | Add Two Numbers | Simulation | 1 | Med | O(n) | C++ | L|
+| 3 | Longest Substring Without Repeating Characters | Sliding Window | 2 | Med | O(n) | C++ | L|
 | 4 | Median of Two Sorted Arrays | Binary Search | 7 | Hard | O(logn) | C++ ||
 | 5 | Longest Palindromic Substring | Manacher | 4 | Med | O(n) | C++ ||
 | 6 | Zigzag Conversion | Simulation | 2 | Med | O(n) | C++ | L|
-| 7 | Reverse Integer | Simulation | 1 | Med | O(logn) | C++ | L|
+| 7 | Reverse Integer | Simulation | 0 | Med | O(logn) | C++ | L|
 | 8 | String to Integer | Simulation | 1 | Med | O(n) | C# ||
-| 9 | Palindrome Number | Simulation | 1 | Easy | O(logn) | C++ | L|
+| 9 | Palindrome Number | Simulation | 0 | Easy | O(logn) | C++ | L|
 | 10 | Regular Expression Matching | Dynamic Programming | 5 | Hard | | C++ ||
 | 11 | Container with Most Water | Two Pointers | 7 | Med | O(n) | C# ||
 | 12 | Integer to Roman | Simulation | 1 | Med | O(logn) | C# ||
 | 13 | Roman to Integer | Simulation | 1 | Easy | O(logn) |  C++ | L|
-| 14 | Longest Common Prefix | Simulation | 1 | Easy | O(nm) |  C++ | L|
+| 14 | Longest Common Prefix | Simulation | 0 | Easy | O(nm) |  C++ | L|
 | 15 | 3 Sum | Hash | 5 | Med | O(n^3) | C# ||
 | 16 | 3 Sum Closest | Two Pointers | 5 | Med | O(n^2) | C# ||
 | 17 | Letter Combinations of a Phone Number | Simulation | 1 | Med | O(n*4^n) | C# ||
@@ -69,7 +69,7 @@ So use it as free as you can.
 | 49 | Group Anagrams | Hash | 4 | Med | O(n^2m)  | C# ||
 | 50 | Pow(x,n) | Fast Power Algorithm | 3 | Med |   | C++ ||
 | 51 | N-Queens | Simulation | 1 | Hard |   | C++ ||
-| 52 | N-Queens II | Simulation | 1 | Hard |   | C++ ||
+| 52 | N-Queens II | Simulation | 0 | Hard |   | C++ ||
 | 53 | Maximum Subarray | Prefix Sum & Greedy Simulation | 2 | Med |  O(n) | C++ | LT|
 | 54 | Spiral Matrix | Simulation | 2 | Med |  O(n^2) | C++ | L|
 | 55 | Jump Game | Simulation | 2 | Med | O(n)  | C# ||
@@ -84,9 +84,9 @@ So use it as free as you can.
 | 64 | Minimum Path Sum | Dynamic Programming | 0 | Med | O(nm)  | C# ||
 | 65 | Valid Number | Simulation | 2 | Hard |   | C++ ||
 | 66 | Plus One | Simulation | 1 | Easy |  O(n) | C++ | L|
-| 67 | Add Binary | Simulation | 2 | Easy |  O(n) | C++ | L|
+| 67 | Add Binary | Simulation | 1 | Easy |  O(n) | C++ | L|
 | 68 | Text Justification | Simulation | 2 | Hard |   | C++ ||
-| 69 | Sqrt(X) | Binary Search | 2 | Easy |  O(logn) | C++ | LT|
+| 69 | Sqrt(X) | Binary Search | 1 | Easy |  O(logn) | C++ | LT|
 | 70 | Climbing Stairs | Dynamic Programming  | 0 | Easy |   | C++ ||
 | 71 | Simplify Path | Stack | 1 | Med | O(n)  | C# ||
 | 72 | Edit Distance | Dynamic Programming | 6 | Med | O(n^3)  | C# | T|
