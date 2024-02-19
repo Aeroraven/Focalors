@@ -199,6 +199,7 @@ So use it as free as you can.
 | 283 | Move Zeroes | Two Pointers | 1 | Easy | O(n) | C# ||
 | 292 | Nim Game | Gaming Theory + Dynamic Programming | 3 | Easy |   | C++ ||
 | 295 | Find Median from Data Stream | Heap | 5 | Hard |   | C++ ||
+| 297 | Serialize and Deserialize Binary Tree | Breadth-first Search | 2 | Hard | O(n) | C++ ||
 | 312 | Burst Balloons | Dynamic Programming | 6 | Hard |   | C++ ||
 | 315 | Count of Smaller Numbers After Self | Binary Index Tree | 3 | Hard |   | C++ ||
 | 327 | Count of Range Sum | Binary Index Tree + Hash + Binary Search Tree + Prefix Sum | 6 | Hard |   | C++ ||
@@ -293,8 +294,9 @@ It's ridiculous to see the mismatched difficulty annotated in the problemset (e.
 
 | Rank | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |
-| Difficulty | EZ-- | EZ- | EZ | EZ+ | MD- | MD | MD+ | HD | HD+ | IN- | IN | IN+ | IN++ |
+| Difficulty | TU | EZ- | EZ | EZ+ | MD- | MD | MD+ | HD- | HD | HD+ | IN- | IN | IN+ |
 
+- `TU`: The problem is the best choice for learning programming.
 - `EZ`: The problem only requires slight thinking.
 - `MD`: The problem requires deeper logical thinking and moderate understanding of basic algorithms.
 - `HD`: The problems requires deeper independent and creative logical thinking or intuition (always without simple combination of algorithms).
