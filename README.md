@@ -204,6 +204,7 @@ So use it as free as you can.
 | 315 | Count of Smaller Numbers After Self | Binary Index Tree | 3 | Hard |   | C++ ||
 | 327 | Count of Range Sum | Binary Index Tree + Hash + Binary Search Tree + Prefix Sum | 6 | Hard |   | C++ ||
 | 329 | Longest Increasing Path | Topological Sort | 4 | Hard | O(mn)  | C++ ||
+| 332 | Reconstruct Itinerary | Euler Circuit (Hierholzer Algorithm) + Greedy Strategy(Sort) + Hash | 8 | Hard | O(n^2) | C++ ||
 | 367 | Valid Perfect Square | Binary Search | 0 | Easy |  O(logn) | C++ ||
 | 391 | Perfect Rectangle | Simulation + Intuition | 5 | Hard | O(nlogn) | C++ ||
 | 403 | Frog Jump | Breadth-first Search | 3 | Hard |   | C++ ||
