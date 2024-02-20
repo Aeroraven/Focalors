@@ -252,7 +252,7 @@ So use it as free as you can.
 | 1884 | Egg Drop With 2 Eggs and N Floors | Dynamic Programming + Induction + Binary Search | 6 | Med | O(logn) | C++ ||
 | 1944 | Number of Visible People in a Queue | Monotonic Stack | 4 | Hard | | C++ ||
 | 1994 | The Number of Good Subsets | Bit Mask + Dynamic Programming | 5 | Hard | O(m*2^m+logn) | C++ ||
-| 2097 | Valid Arrangement of Pairs | Eulerian Circuit (Hierholzer Algorithm) + Constant Reduction (TLE Avoidance) + Discretization (Hash) | 9 | Hard | O(n^2) |  ||
+| 2097 | Valid Arrangement of Pairs | Eulerian Circuit (Hierholzer Algorithm) + Constant Reduction (TLE Avoidance) + Discretization (Hash) | 9 | Hard | O(n^2) | C++ ||
 | 2147 | Number of Ways to Divide a Long Corriror | Simulation | 1 | Hard | O(n) | C++ ||
 | 2407 | Longest Increasing Subsequence | Segment Tree + Dynamic Programming | 3 | Hard | O(nlogn) | C++ ||
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | Hard | O(n) | C++ ||
