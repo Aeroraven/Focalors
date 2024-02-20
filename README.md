@@ -224,6 +224,7 @@ So use it as free as you can.
 | 685 | Redundant Connection II | Union-Find Algorithm | 3 | Hard | O(nlogn) | C++ ||
 | 699 | Falling Squares | Segment Tree + Discretization | 5 | Hard | O(nlogn) | C++ ||
 | 739 | Daily Temperature | Stack | 0 | Med | O(n)  | C++ ||
+| 753 | Cracking the Safe | Eulerian Circuit (Hierholzer Algorithm) | 9 | Hard | O(k^2n) | C++ ||
 | 765 | Couples Holding Hands | Union-find Algorithm | 5 | Hard | O(n^2) | C++ ||
 | 768 | Max Chunks to Make Sorted II | Greedy Strategy (Monotonic Stack) | 3 | Hard | O(n) | C++ ||
 | 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | Hard |   | C++ ||
