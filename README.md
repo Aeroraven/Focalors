@@ -236,12 +236,14 @@ So use it as free as you can.
 | 1025 | Divisor Game | Induction / Gaming Theory | 3 | Easy |   | C++ ||
 | 1106 | Parsing a Boolean Expression | Stack | 2 | Hard | O(n) | C++ ||
 | 1137 | N-th Tribonacci Number | Dynamic Programming  | 0 | Easy |   | C++ ||
+| 1223 | Dice Roll Simulation | Dynamic Programming | 2 | Hard | O(nm) | C++ ||
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | 2 | Hard | O(n^2) | C++ ||
 | 1289 | Minimum Falling Path Sum II | Dynamic Programming | 1 | Hard | O(n^2) | C++ ||
 | 1326 | Minimum Number of Taps to Open to Water a Garden | Greedy Strategy (Sort) | 4 | Hard | O(n) | C++ ||
 | 1345 | Jump Game IV | Breadth-first Search | 3 | Hard |   | C++ ||
 | 1402 | Reducing Dishes | Dynamic Programming | 3 | Hard | O(n^2) | C++ ||
 | 1411 | Number of Ways to Paint Nx3 Grid | Dynamic Programming | 3 | Hard | O(n) | C++ ||
+| 1425 | Constrained Subsequence Sum | Dynamic Programming + Sliding Window | 3 | Hard | O(n) | C++ ||
 | 1537 | Get the Maximum Score | Two Pointers | 3 | Hard | O(n+m) | C++ ||
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | Hard |   | C++ ||
 | 1739 | Building Boxes | Binary Search | 6 | Hard | O(logn) | C++ ||
