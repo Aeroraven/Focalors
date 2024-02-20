@@ -200,11 +200,12 @@ So use it as free as you can.
 | 292 | Nim Game | Gaming Theory + Dynamic Programming | 3 | Easy |   | C++ ||
 | 295 | Find Median from Data Stream | Heap | 5 | Hard |   | C++ ||
 | 297 | Serialize and Deserialize Binary Tree | Breadth-first Search | 2 | Hard | O(n) | C++ ||
+| 301 | Remove Invalid Parentheses | Depth-first Search | 6 | Hard | / | C++ ||
 | 312 | Burst Balloons | Dynamic Programming | 6 | Hard |   | C++ ||
 | 315 | Count of Smaller Numbers After Self | Binary Index Tree | 3 | Hard |   | C++ ||
 | 327 | Count of Range Sum | Binary Index Tree + Hash + Binary Search Tree + Prefix Sum | 6 | Hard |   | C++ ||
 | 329 | Longest Increasing Path | Topological Sort | 4 | Hard | O(mn)  | C++ ||
-| 332 | Reconstruct Itinerary | Euler Circuit (Hierholzer Algorithm) + Greedy Strategy(Sort) + Hash | 8 | Hard | O(n^2) | C++ ||
+| 332 | Reconstruct Itinerary | Eulerian Circuit (Hierholzer Algorithm) + Greedy Strategy(Sort) + Hash | 8 | Hard | O(n^2) | C++ ||
 | 367 | Valid Perfect Square | Binary Search | 0 | Easy |  O(logn) | C++ ||
 | 391 | Perfect Rectangle | Simulation + Intuition | 5 | Hard | O(nlogn) | C++ ||
 | 403 | Frog Jump | Breadth-first Search | 3 | Hard |   | C++ ||
@@ -297,9 +298,19 @@ It's ridiculous to see the mismatched difficulty annotated in the problemset (e.
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |
 | Difficulty | TU | EZ- | EZ | EZ+ | MD- | MD | MD+ | HD- | HD | HD+ | IN- | IN | IN+ |
 
-- `TU`: The problem is the best choice for learning programming.
-- `EZ`: The problem only requires slight thinking.
-- `MD`: The problem requires deeper logical thinking and moderate understanding of basic algorithms.
-- `HD`: The problems requires deeper independent and creative logical thinking or intuition (always without simple combination of algorithms).
+- `TU`: 
+  - The problem is the best choice for learning programming.
+
+- `EZ`: One of following statements: 
+  - The problem only requires slight thinking and primary understanding of basic algorithms.
+  - The problem requires a solution with slightly longer codes.
+
+- `MD`:  One of following statements: 
+  - The problem requires deeper logical thinking and moderate understanding of basic algorithms.
+  - The problem requires a solution with longer codes.
+
+- `HD`: One of following statements: 
+  - The problems requires deeper independent and creative logical thinking or intuition (always without simple combination of algorithms) and good understanding of basic algorithms.
+  - The problem requires deeper logical thinking and moderate understanding of advanced algorithms.
 - `IN`: I don't think I can solve these problems.
 
