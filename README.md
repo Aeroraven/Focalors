@@ -256,7 +256,7 @@ So use it as free as you can.
 | 1944 | Number of Visible People in a Queue | Monotonic Stack | 4 | Hard | | C++ ||
 | 1994 | The Number of Good Subsets | Bit Mask + Dynamic Programming | 5 | Hard | O(m*2^m+logn) | C++ ||
 | 2097 | Valid Arrangement of Pairs | Eulerian Circuit (Hierholzer Algorithm) + Constant Reduction (TLE Avoidance) + Hash | 9 | Hard | O(n^2) | C++ ||
-| 2147 | Number of Ways to Divide a Long Corriror | Simulation | 1 | Hard | O(n) | C++ ||
+| 2147 | Number of Ways to Divide a Long Corridor | Simulation | 1 | Hard | O(n) | C++ ||
 | 2407 | Longest Increasing Subsequence | Segment Tree + Dynamic Programming | 3 | Hard | O(nlogn) | C++ ||
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | Hard | O(n) | C++ ||
 | 2569 | Handling Sum Queries After Update | Segment Tree | 5 | Hard | O(nlogn) | C++ ||
