@@ -221,6 +221,7 @@ So use it as free as you can.
 | 598 | Range Addition II | Simulation | 0 | Easy |   | C++ ||
 | 632 | Smallest Range Covering Elements From K Lists | Greedy Strategy (Heap) | 3 | Hard | O(nlogn) | C++ ||
 | 639 | Decode Ways II | Dynamic Programming | 2 | Hard | O(n) | C++ ||
+| 664 | Strange Printer | Dynamic Programming | 8 | Hard | O(n^3) | C++ ||
 | 679 | 24 Game | Simulation | 2 | Hard |   | C++ ||
 | 685 | Redundant Connection II | Union-Find Algorithm | 3 | Hard | O(nlogn) | C++ ||
 | 699 | Falling Squares | Segment Tree + Discretization | 5 | Hard | O(nlogn) | C++ ||
