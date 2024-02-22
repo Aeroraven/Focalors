@@ -251,6 +251,7 @@ So use it as free as you can.
 | 1392 | Longest Happy Prefix | Suffix Array (KMP) | 1 | Hard | O(n) | C++ ||
 | 1402 | Reducing Dishes | Dynamic Programming | 3 | Hard | O(n^2) | C++ ||
 | 1411 | Number of Ways to Paint Nx3 Grid | Dynamic Programming | 3 | Hard | O(n) | C++ ||
+| 1416 | Restore the Array | Dynamic Programming | 2 | Hard | O(nlogk) | C++ ||
 | 1425 | Constrained Subsequence Sum | Dynamic Programming + Sliding Window | 3 | Hard | O(n) | C++ ||
 | 1537 | Get the Maximum Score | Two Pointers | 3 | Hard | O(n+m) | C++ ||
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | Hard |   | C++ ||
