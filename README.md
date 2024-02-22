@@ -241,6 +241,7 @@ So use it as free as you can.
 | 871 | Minimum Number of Refueling Stops | Greedy Strategy (Heap) | 2 | Hard | O(nlogn) | C++ ||
 | 878 | Nth Magical Number | Math Theory + Binary Search | 7 | Hard |   | C++ ||
 | 1025 | Divisor Game | Induction / Gaming Theory | 3 | Easy |   | C++ ||
+| 1095 | Find in Mountain Array | Binary Search | 4 | Easy | O(logn) | C++ ||
 | 1106 | Parsing a Boolean Expression | Stack | 2 | Hard | O(n) | C++ ||
 | 1137 | N-th Tribonacci Number | Dynamic Programming  | 0 | Easy |   | C++ ||
 | 1223 | Dice Roll Simulation | Dynamic Programming | 2 | Hard | O(nm) | C++ ||
