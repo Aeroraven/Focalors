@@ -220,6 +220,7 @@ So use it as free as you can.
 | 552 | Student Attendance Record II | Dynamic Programming | 2 | Hard | O(n) | C++ ||
 | 560 | Subarray Sum Equals K | Hashing + Prefix Sum | 2 | Med | O(n^2)  | C# ||
 | 598 | Range Addition II | Simulation | 0 | Easy |   | C++ ||
+| 600 | Non-negative Integers without Consecutive Ones | Dynamic Programming | 3 | Hard | O(logn) | C++ ||
 | 632 | Smallest Range Covering Elements From K Lists | Greedy Strategy (Heap) | 3 | Hard | O(nlogn) | C++ ||
 | 639 | Decode Ways II | Dynamic Programming | 2 | Hard | O(n) | C++ ||
 | 664 | Strange Printer | Dynamic Programming | 8 | Hard | O(n^3) | C++ ||
