@@ -248,6 +248,7 @@ So use it as free as you can.
 | 1289 | Minimum Falling Path Sum II | Dynamic Programming | 1 | Hard | O(n^2) | C++ ||
 | 1326 | Minimum Number of Taps to Open to Water a Garden | Greedy Strategy (Sort) | 4 | Hard | O(n) | C++ ||
 | 1345 | Jump Game IV | Breadth-first Search | 3 | Hard |   | C++ ||
+| 1392 | Longest Happy Prefix | Suffix Array (KMP) | 1 | Hard | O(n) | C++ ||
 | 1402 | Reducing Dishes | Dynamic Programming | 3 | Hard | O(n^2) | C++ ||
 | 1411 | Number of Ways to Paint Nx3 Grid | Dynamic Programming | 3 | Hard | O(n) | C++ ||
 | 1425 | Constrained Subsequence Sum | Dynamic Programming + Sliding Window | 3 | Hard | O(n) | C++ ||
