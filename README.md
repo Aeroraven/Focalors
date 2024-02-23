@@ -243,7 +243,7 @@ So use it as free as you can.
 | 1025 | Divisor Game | Induction / Gaming Theory | 3 | <span style='color:green'>EASY</span> |   | C++ ||
 | 1095 | Find in Mountain Array | Binary Search | 4 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
 | 1106 | Parsing a Boolean Expression | Stack | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
-| 1137 | N-th Tribonacci Number | Dynamic Programming  | 0 | <span style='color:green'>EASY</span> |   | C++ ||
+| 1137 | N-th Tribonacci Number | Dynamic Programming  | 0 | <span style='color:green'>EASY</span> | O(n) | C++ ||
 | 1223 | Dice Roll Simulation | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(nm) | C++ ||
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 1289 | Minimum Falling Path Sum II | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
@@ -256,6 +256,7 @@ So use it as free as you can.
 | 1425 | Constrained Subsequence Sum | Dynamic Programming + Sliding Window | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1499 | Max Value of Equation | Greedy Strategy (Sliding Window) | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1537 | Get the Maximum Score | Two Pointers | 3 | <span style='color:red'>HARD</span> | O(n+m) | C++ ||
+| 1547 | Minimum Cost to Cut a Stick | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(m^3) | C++ ||
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | <span style='color:red'>HARD</span> |   | C++ ||
 | 1739 | Building Boxes | Binary Search | 6 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
 | 1884 | Egg Drop With 2 Eggs and N Floors | Dynamic Programming + Induction + Binary Search | 6 | <span style='color:orange'>MEDIUM</span> | O(logn) | C++ ||
