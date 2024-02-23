@@ -249,6 +249,7 @@ So use it as free as you can.
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 1289 | Minimum Falling Path Sum II | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 1326 | Minimum Number of Taps to Open to Water a Garden | Greedy Strategy (Sort) | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 1335 | Minimum Difficulty of a Job Schedule | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(dn^2) | C++ ||
 | 1345 | Jump Game IV | Breadth-first Search | 3 | <span style='color:red'>HARD</span> |   | C++ ||
 | 1392 | Longest Happy Prefix | Suffix Array (KMP) | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1402 | Reducing Dishes | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
