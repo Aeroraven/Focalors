@@ -241,6 +241,7 @@ So use it as free as you can.
 | 864 | Shortest Path to Get All Keys | Bit Mask + Breadth-first Search | 4 | <span style='color:red'>HARD</span> | O(nm2^k) | C++ ||
 | 871 | Minimum Number of Refueling Stops | Greedy Strategy (Heap) | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 878 | Nth Magical Number | Math Theory + Binary Search | 7 | <span style='color:red'>HARD</span> |   | C++ ||
+| 891 | Sum of Subsequence Width | Primary Math + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1025 | Divisor Game | Induction / Gaming Theory | 3 | <span style='color:green'>EASY</span> |   | C++ ||
 | 1095 | Find in Mountain Array | Binary Search | 4 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
 | 1106 | Parsing a Boolean Expression | Stack | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
