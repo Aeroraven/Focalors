@@ -238,6 +238,7 @@ So use it as free as you can.
 | 850 | Rectangle Area II (Acceptable Solution) | Simulation | 3 | <span style='color:red'>HARD</span> | O(n^3) | / ||
 | 850F | Rectangle Area II (Optimal Solution) | Computational Geometry (Sweeping Line) + Segment Tree + Discretization (Hashing) | 7 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 862 | Shortest Subarray with Sum at Least K | Dynamic Programming (Monotonic Queue + Binary Search) + Prefix Sum | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 864 | Shortest Path to Get All Keys | Bit Mask + Breadth-first Search | 4 | <span style='color:red'>HARD</span> | O(nm2^k) | C++ ||
 | 871 | Minimum Number of Refueling Stops | Greedy Strategy (Heap) | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 878 | Nth Magical Number | Math Theory + Binary Search | 7 | <span style='color:red'>HARD</span> |   | C++ ||
 | 1025 | Divisor Game | Induction / Gaming Theory | 3 | <span style='color:green'>EASY</span> |   | C++ ||
