@@ -231,6 +231,7 @@ So use it as free as you can.
 | 753 | Cracking the Safe | Eulerian Circuit (Hierholzer Algorithm) | 9 | <span style='color:red'>HARD</span> | O(k^2n) | C++ ||
 | 765 | Couples Holding Hands | Union-find Algorithm | 5 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 768 | Max Chunks to Make Sorted II | Greedy Strategy (Monotonic Stack) | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
+| 773 | Sliding Puzzle | Breadth-first Search | 3 | <span style='color:red'>HARD</span> | / | C++ ||
 | 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | <span style='color:red'>HARD</span> |   | C++ ||
 | 827 | Making a Large Island | Breadth-first Search | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | <span style='color:red'>HARD</span> |   | C++ ||
