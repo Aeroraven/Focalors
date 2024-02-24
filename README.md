@@ -243,6 +243,7 @@ So use it as free as you can.
 | 864 | Shortest Path to Get All Keys | Bit Mask + Breadth-first Search | 4 | <span style='color:red'>HARD</span> | O(nm2^k) | C++ ||
 | 871 | Minimum Number of Refueling Stops | Greedy Strategy (Heap) | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 878 | Nth Magical Number | Math Theory + Binary Search | 7 | <span style='color:red'>HARD</span> |   | C++ ||
+| 887 | Super Egg Drop | Induction + Dynamic Programming + Binary Search | 7 | <span style='color:red'>HARD</span> | / | C++ ||
 | 891 | Sum of Subsequence Width | Primary Math + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1025 | Divisor Game | Induction / Gaming Theory | 3 | <span style='color:green'>EASY</span> |   | C++ ||
 | 1095 | Find in Mountain Array | Binary Search | 4 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
@@ -319,19 +320,12 @@ It's ridiculous to see the mismatched difficulty annotated in the problemset (e.
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |
 | Difficulty | TU | EZ- | EZ | EZ+ | MD- | MD | MD+ | HD- | HD | HD+ | IN- | IN | IN+ |
 
-- `TU`: 
-  - The problem is the best choice for learning programming.
-
-- `EZ`: One of following statements: 
-  - The problem only requires slight thinking and primary understanding of basic algorithms.
-  - The problem requires a solution with slightly longer codes.
-
-- `MD`:  One of following statements: 
-  - The problem requires deeper logical thinking and moderate understanding of basic algorithms.
-  - The problem requires a solution with longer codes.
-
-- `HD`: One of following statements: 
-  - The problems requires deeper independent and creative logical thinking or intuition (always without simple combination of algorithms) and good understanding of basic algorithms.
-  - The problem requires deeper logical thinking and moderate understanding of advanced algorithms.
-- `IN`: I don't think I can solve these problems.
+- `TU`:  Tutorial
+  
+- `EZ`:  Easy
+  
+- `MD`:  Medium
+  
+- `HD`:  Hard
+- `IN`:  Inferno
 
