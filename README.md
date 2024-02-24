@@ -213,6 +213,7 @@ So use it as free as you can.
 | 410 | Split Array Largest Sum | Dynamic Programming | N/A | <span style='color:red'>HARD</span> |   | C++ |  T |
 | 437 | Path Sum III | Prefix Sum + Hash | 3 | <span style='color:orange'>MEDIUM</span> | O(n^2)  | C++ ||
 | 438 | Find All Anagrams In a String | Sliding Window | 2 | <span style='color:orange'>MEDIUM</span> | O(n)  | C# ||
+| 446 | Arithmetic Slices II - Subsequence | Dynamic Programming + Hash | 5 | <span style='color:red'>HARD</span> | O(n^3) | C++ ||
 | 493 | Reverse Pairs | Merge Sort | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 502 | IPO | Greedy Strategy | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 543 | Diameter of Binary Tree | Simulation | 0 | <span style='color:green'>EASY</span> | O(n)  | C++ ||
@@ -313,7 +314,7 @@ So use it as free as you can.
 
 ## Perceived Difficulty
 
-It's ridiculous to see the mismatched difficulty annotated in the problemset (e.g. <span style='color:red'>HARD</span> `NQueens`)
+It's **ridiculous** to see the mismatched difficulty annotated in the problem set (e.g. <span style='color:red'>HARD</span> `NQueens`)
 
 
 | Rank | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
