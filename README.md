@@ -241,6 +241,7 @@ So use it as free as you can.
 | 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | <span style='color:red'>HARD</span> |   | C++ ||
 | 801 | Minimum Swaps To Make Sequences Increasing | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 827 | Making a Large Island | Breadth-first Search | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
+| 828 | Counting Unique Characters of All Substrings | Simulation | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | <span style='color:red'>HARD</span> |   | C++ ||
 | 847 | Shortest Path Visiting All Nodes | Breadth-first Search + Bit Mask | 6 | <span style='color:red'>HARD</span> | O(n^2*2^n) | C++ ||
 | 850 | Rectangle Area II (Acceptable Solution) | Simulation | 3 | <span style='color:red'>HARD</span> | O(n^3) | / ||
