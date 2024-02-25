@@ -215,6 +215,7 @@ So use it as free as you can.
 | 438 | Find All Anagrams In a String | Sliding Window | 2 | <span style='color:orange'>MEDIUM</span> | O(n)  | C# ||
 | 446 | Arithmetic Slices II - Subsequence | Dynamic Programming + Hash | 5 | <span style='color:red'>HARD</span> | O(n^3) | C++ ||
 | 458 | Poor Pig | Math | **9 ★** | <span style='color:red'>HARD</span> | Depend on `std` implementation | C++ ||
+| 472 | Concatenated Words | Trie + Depth-first Search | 6 | <span style='color:red'>HARD</span> | / | C++ ||
 | 493 | Reverse Pairs | Merge Sort | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 502 | IPO | Greedy Strategy | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 514 | Freedom Trail | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(mn^2) | C++ ||
