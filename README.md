@@ -213,6 +213,7 @@ So use it as free as you can.
 | 410 | Split Array Largest Sum | Dynamic Programming | N/A | <span style='color:red'>HARD</span> |   | C++ |  T |
 | 437 | Path Sum III | Prefix Sum + Hash | 3 | <span style='color:orange'>MEDIUM</span> | O(n^2)  | C++ ||
 | 438 | Find All Anagrams In a String | Sliding Window | 2 | <span style='color:orange'>MEDIUM</span> | O(n)  | C# ||
+| 440 | K-th Smallest in Lexicographical Order | Simulation | 5 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
 | 446 | Arithmetic Slices II - Subsequence | Dynamic Programming + Hash | 5 | <span style='color:red'>HARD</span> | O(n^3) | C++ ||
 | 458 | Poor Pig | Math | **9 ★** | <span style='color:red'>HARD</span> | Depend on `std` implementation | C++ ||
 | 472 | Concatenated Words | Trie + Depth-first Search | 6 | <span style='color:red'>HARD</span> | / | C++ ||
@@ -238,6 +239,7 @@ So use it as free as you can.
 | 773 | Sliding Puzzle | Breadth-first Search | 3 | <span style='color:red'>HARD</span> | / | C++ ||
 | 778 | Swim in Rising Water | Greedy Strategy(Heap) + Breadth-first Search | 3 | <span style='color:red'>HARD</span> | O(n^2logn) | C++ ||
 | 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | <span style='color:red'>HARD</span> |   | C++ ||
+| 801 | Minimum Swaps To Make Sequences Increasing | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 827 | Making a Large Island | Breadth-first Search | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | <span style='color:red'>HARD</span> |   | C++ ||
 | 847 | Shortest Path Visiting All Nodes | Breadth-first Search + Bit Mask | 6 | <span style='color:red'>HARD</span> | O(n^2*2^n) | C++ ||
