@@ -278,6 +278,7 @@ So use it as free as you can.
 | 1547 | Minimum Cost to Cut a Stick | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(m^3) | C++ ||
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | <span style='color:red'>HARD</span> |   | C++ ||
 | 1671 | Minimum Number of Removals to Make Mountain Array | Dynamic Programming (LIS) + Binary Search | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 1723 | Find Minimum Time to Finish All Jobs | Bit Mask + Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(k*3^n) | C++ ||
 | 1739 | Building Boxes | Binary Search | 6 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
 | 1884 | Egg Drop With 2 Eggs and N Floors | Dynamic Programming + Induction + Binary Search | 6 | <span style='color:orange'>MEDIUM</span> | O(logn) | C++ ||
 | 1944 | Number of Visible People in a Queue | Monotonic Stack | 4 | <span style='color:red'>HARD</span> | | C++ ||
