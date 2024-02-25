@@ -240,6 +240,7 @@ So use it as free as you can.
 | 778 | Swim in Rising Water | Greedy Strategy(Heap) + Breadth-first Search | 3 | <span style='color:red'>HARD</span> | O(n^2logn) | C++ ||
 | 793 | Preimage Size of Factorial Zeroes Function | Primary Math + Binary Search | 6 | <span style='color:red'>HARD</span> |   | C++ ||
 | 801 | Minimum Swaps To Make Sequences Increasing | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
+| 805 | Split Array With Same Average | Divide And Conquer + Hash + Depth-first Search | 5 | <span style='color:red'>HARD</span> | O(n*2^n) | C++ ||
 | 827 | Making a Large Island | Breadth-first Search | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 828 | Counting Unique Characters of All Substrings | Simulation | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | <span style='color:red'>HARD</span> |   | C++ ||
