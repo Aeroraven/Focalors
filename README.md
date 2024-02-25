@@ -244,6 +244,7 @@ So use it as free as you can.
 | 827 | Making a Large Island | Breadth-first Search | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 828 | Counting Unique Characters of All Substrings | Simulation | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | <span style='color:red'>HARD</span> |   | C++ ||
+| 834 | Sum of Distances In Tree | Dynamic Programming + Depth-first Search | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 847 | Shortest Path Visiting All Nodes | Breadth-first Search + Bit Mask | 6 | <span style='color:red'>HARD</span> | O(n^2*2^n) | C++ ||
 | 850 | Rectangle Area II (Acceptable Solution) | Simulation | 3 | <span style='color:red'>HARD</span> | O(n^3) | / ||
 | 850F | Rectangle Area II (Optimal Solution) | Computational Geometry (Sweeping Line) + Segment Tree + Discretization (Hashing) | **7 ★** | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
