@@ -252,6 +252,8 @@ So use it as free as you can.
 | 878 | Nth Magical Number | Math Theory + Binary Search | **7 ★** | <span style='color:red'>HARD</span> |   | C++ ||
 | 887 | Super Egg Drop | Induction + Dynamic Programming + Binary Search | **8 ★** | <span style='color:red'>HARD</span> | / | C++ ||
 | 891 | Sum of Subsequence Width | Primary Math + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 902 | Numbers At Most N Given Digit Set | Simulation | 2 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
+| 1012 | Numbers With Repeated Digits | Dynamic Programming | 5 | <span style='color:red'>HARD</span> | / | C++ ||
 | 1025 | Divisor Game | Induction / Gaming Theory | 3 | <span style='color:green'>EASY</span> |   | C++ ||
 | 1095 | Find in Mountain Array | Binary Search | 4 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
 | 1106 | Parsing a Boolean Expression | Stack | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
@@ -268,6 +270,7 @@ So use it as free as you can.
 | 1411 | Number of Ways to Paint Nx3 Grid | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1416 | Restore the Array | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(nlogk) | C++ ||
 | 1425 | Constrained Subsequence Sum | Dynamic Programming + Sliding Window | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
+| 1463 | Cherry Pickup II | Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(nm^2) | C++ ||
 | 1499 | Max Value of Equation | Greedy Strategy (Sliding Window) | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1537 | Get the Maximum Score | Two Pointers | 3 | <span style='color:red'>HARD</span> | O(n+m) | C++ ||
 | 1547 | Minimum Cost to Cut a Stick | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(m^3) | C++ ||
