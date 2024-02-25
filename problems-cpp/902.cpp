@@ -34,7 +34,6 @@ public:
                 ans += base.back();
             }
         }
-        
         for (int i = dx.size() - 1; i >= 0; i--) {
             int curDigit = dx[i];
             ans += lower[curDigit] * base[i];
