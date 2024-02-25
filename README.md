@@ -217,6 +217,7 @@ So use it as free as you can.
 | 458 | Poor Pig | Math | **9 ★** | <span style='color:red'>HARD</span> | Depend on `std` implementation | C++ ||
 | 493 | Reverse Pairs | Merge Sort | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 502 | IPO | Greedy Strategy | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 514 | Freedom Trail | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(mn^2) | C++ ||
 | 543 | Diameter of Binary Tree | Simulation | 0 | <span style='color:green'>EASY</span> | O(n)  | C++ ||
 | 547 | Number of Provinces | Breadth-first Search | 2 | <span style='color:orange'>MEDIUM</span> | O(n^2)  | C++ ||
 | 552 | Student Attendance Record II | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
