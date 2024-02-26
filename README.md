@@ -270,7 +270,8 @@ So use it as free as you can.
 | 1326 | Minimum Number of Taps to Open to Water a Garden | Greedy Strategy (Sort) | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1335 | Minimum Difficulty of a Job Schedule | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(dn^2) | C++ ||
 | 1345 | Jump Game IV | Breadth-first Search | 3 | <span style='color:red'>HARD</span> |   | C++ ||
-| 1349 | Maximum Students Taking Exam | Bit Mask + Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(nm2^(2m)) | C++ ||
+| 1349   | Maximum Students Taking Exam                               | Bit Mask + Dynamic Programming                               | 3                    | <span style='color:red'>HARD</span>      | O(nm2^(2m))                    | C++    ||
+| 1359   | Count All Valid Pickup and Delivery Options                | Combinatorics                                                | 0                    | <span style='color:red'>HARD</span>      | O(n)                           | C++    ||
 | 1392 | Longest Happy Prefix | Suffix Array (KMP) | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1402 | Reducing Dishes | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 1411 | Number of Ways to Paint Nx3 Grid | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
