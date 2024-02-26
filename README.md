@@ -261,10 +261,11 @@ So use it as free as you can.
 | 1106 | Parsing a Boolean Expression | Stack | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1137 | N-th Tribonacci Number | Dynamic Programming  | 0 | <span style='color:green'>EASY</span> | O(n) | C++ ||
 | 1210 | Minimum Moves to Reach Target with Rotations | Breadth-first Search | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
-| 1220 | Count Vowels Permutation | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
+| 1220 | Count Vowels Permutation | Dynamic Programming | 0 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1223 | Dice Roll Simulation | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(nm) | C++ ||
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 1289 | Minimum Falling Path Sum II | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
+| 1320 | Minimum Distance to Type a Word Using Two Fingers | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(nk^2) | C++ ||
 | 1326 | Minimum Number of Taps to Open to Water a Garden | Greedy Strategy (Sort) | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1335 | Minimum Difficulty of a Job Schedule | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(dn^2) | C++ ||
 | 1345 | Jump Game IV | Breadth-first Search | 3 | <span style='color:red'>HARD</span> |   | C++ ||
