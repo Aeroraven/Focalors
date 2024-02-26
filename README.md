@@ -273,6 +273,7 @@ So use it as free as you can.
 | 1411 | Number of Ways to Paint Nx3 Grid | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1416 | Restore the Array | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(nlogk) | C++ ||
 | 1425 | Constrained Subsequence Sum | Dynamic Programming + Sliding Window | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
+| 1434 | Number of Ways to Wear Different Hats to Each Other | Bit Mask + Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(nm*2^n) | C++ ||
 | 1463 | Cherry Pickup II | Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(nm^2) | C++ ||
 | 1499 | Max Value of Equation | Greedy Strategy (Sliding Window) | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1537 | Get the Maximum Score | Two Pointers | 3 | <span style='color:red'>HARD</span> | O(n+m) | C++ ||
