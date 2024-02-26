@@ -16,12 +16,12 @@ endif()
 
 foreach( SRC_FILE_NAME ${SOURCE_STAGES} )
     get_filename_component( SRC_FILE_NAME_SHORT ${SRC_FILE_NAME} NAME_WE )
-    add_executable( ${SRC_FILE_NAME_SHORT} ${SRC_FILE_NAME})
+    add_executable( ${SRC_FILE_NAME_SHORT} ${SRC_FILE_NAME} )
 endforeach( SRC_FILE_NAME ${SOURCE_STAGES} )
 
 foreach( SRC_FILE_NAME_TMPL ${SOURCE_STAGES_TMPL} )
     get_filename_component( SRC_FILE_NAME_SHORT_TMPL ${SRC_FILE_NAME_TMPL} NAME_WE )
-    add_executable( ${SRC_FILE_NAME_SHORT_TMPL} ${SRC_FILE_NAME_TMPL} )
+    add_executable( ${SRC_FILE_NAME_SHORT_TMPL} ${SRC_FILE_NAME_TMPL}  )
 endforeach( SRC_FILE_NAME_TMPL ${SOURCE_STAGES_TMPL} )
 
 add_executable(rdgen "misc/rdgen.cpp")
