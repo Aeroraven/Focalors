@@ -256,6 +256,7 @@ So use it as free as you can.
 | 887 | Super Egg Drop | Induction + Dynamic Programming + Binary Search | **8 ★** | <span style='color:red'>HARD</span> | / | C++ ||
 | 891 | Sum of Subsequence Width | Primary Math + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 902 | Numbers At Most N Given Digit Set | Simulation | 2 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
+| 956 | Tallest Billboard | Dynamic Programming + Hash | N/A | <span style='color:red'>HARD</span> | O(ns^2) | C++ |T|
 | 996 | Number of Squareful Arrays | Bit Mask + Dynamic Programming | N/A | <span style='color:red'>HARD</span> | O(sqrt(d) n^2*2^n) | C++ |T|
 | 1012 | Numbers With Repeated Digits | Dynamic Programming | 5 | <span style='color:red'>HARD</span> | / | C++ ||
 | 1025 | Divisor Game | Induction / Gaming Theory | 3 | <span style='color:green'>EASY</span> |   | C++ ||
