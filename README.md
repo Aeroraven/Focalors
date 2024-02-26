@@ -270,12 +270,13 @@ So use it as free as you can.
 | 1326 | Minimum Number of Taps to Open to Water a Garden | Greedy Strategy (Sort) | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1335 | Minimum Difficulty of a Job Schedule | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(dn^2) | C++ ||
 | 1345 | Jump Game IV | Breadth-first Search | 3 | <span style='color:red'>HARD</span> |   | C++ ||
-| 1349   | Maximum Students Taking Exam                               | Bit Mask + Dynamic Programming                               | 3                    | <span style='color:red'>HARD</span>      | O(nm2^(2m))                    | C++    ||
-| 1359   | Count All Valid Pickup and Delivery Options                | Combinatorics                                                | 0                    | <span style='color:red'>HARD</span>      | O(n)                           | C++    ||
+| 1349   | Maximum Students Taking Exam                                 | Bit Mask + Dynamic Programming                               | 3                    | <span style='color:red'>HARD</span>      | O(nm2^(2m))                    | C++    ||
+| 1359   | Count All Valid Pickup and Delivery Options                  | Combinatorics                                                | 0                    | <span style='color:red'>HARD</span>      | O(n)                           | C++    ||
 | 1392 | Longest Happy Prefix | Suffix Array (KMP) | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1402 | Reducing Dishes | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 1411 | Number of Ways to Paint Nx3 Grid | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1416 | Restore the Array | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(nlogk) | C++ ||
+| 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Dynamic Programming + Prefix Sum | 5 | <span style='color:red'>HARD</span> | O(n^2m^2) | C++ ||
 | 1425 | Constrained Subsequence Sum | Dynamic Programming + Sliding Window | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1434 | Number of Ways to Wear Different Hats to Each Other | Bit Mask + Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(nm*2^n) | C++ ||
 | 1463 | Cherry Pickup II | Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(nm^2) | C++ ||
