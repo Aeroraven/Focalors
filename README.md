@@ -226,6 +226,7 @@ So use it as free as you can.
 | 560 | Subarray Sum Equals K | Hashing + Prefix Sum | 2 | <span style='color:orange'>MEDIUM</span> | O(n^2)  | C# ||
 | 598 | Range Addition II | Simulation | 0 | <span style='color:green'>EASY</span> |   | C++ ||
 | 600 | Non-negative Integers without Consecutive Ones | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
+| 629 | K Inverse Pairs Array | Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(nk) | C++ ||
 | 632 | Smallest Range Covering Elements From K Lists | Greedy Strategy (Heap) | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 639 | Decode Ways II | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 664 | Strange Printer | Dynamic Programming | **8 ★** | <span style='color:red'>HARD</span> | O(n^3) | C++ ||
@@ -276,7 +277,7 @@ So use it as free as you can.
 | 1402 | Reducing Dishes | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 1411 | Number of Ways to Paint Nx3 Grid | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1416 | Restore the Array | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(nlogk) | C++ ||
-| 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Dynamic Programming + Prefix Sum | 5 | <span style='color:red'>HARD</span> | O(n^2m^2) | C++ ||
+| 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Dynamic Programming + Prefix Sum + Scrolling Array | 5 | <span style='color:red'>HARD</span> | O(n^2m^2) | C++ ||
 | 1425 | Constrained Subsequence Sum | Dynamic Programming + Sliding Window | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1434 | Number of Ways to Wear Different Hats to Each Other | Bit Mask + Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(nm*2^n) | C++ ||
 | 1463 | Cherry Pickup II | Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(nm^2) | C++ ||
