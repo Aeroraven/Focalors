@@ -289,7 +289,7 @@ So use it as free as you can.
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | <span style='color:red'>HARD</span> |   | C++ ||
 | 1665 | Minimum Initial Energy to Finish Tasks | Greedy Strategy (Sort) + Simulation | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1671 | Minimum Number of Removals to Make Mountain Array | Dynamic Programming (LIS) + Binary Search | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
-| 1681 | Minimum Incompatibility | Dynamic Programming + Bit Mask + Hash |  | <span style='color:red'>HARD</span> | O(n2^n) | C++ ||
+| 1681 | Minimum Incompatibility | Dynamic Programming + Bit Mask + Hash | 4 | <span style='color:red'>HARD</span> | O(n2^n) | C++ ||
 | 1723 | Find Minimum Time to Finish All Jobs | Bit Mask + Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(k*3^n) | C++ ||
 | 1739 | Building Boxes | Binary Search | 6 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
 | 1851 | Minimum Interval to Include Each Query | Greedy Strategy (Heap+Sort) + Two Pointers | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
@@ -302,6 +302,7 @@ So use it as free as you can.
 | 2147 | Number of Ways to Divide a Long Corridor | Simulation | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2156 | Find Substring With Given Hash Value | Primary Math + Sliding Window (Rolling Hash) | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2218 | Maximum Value of K Coins From Piles |  Dynamic Programming + Prefix Sum | 3 | <span style='color:red'>HARD</span> | O(nk)? | C++ ||
+| 2251 | Number of Flowers in Full Bloom | Two Pointers + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2318 | Number of Distinct Roll Sequences |  Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2407 | Longest Increasing Subsequence | Segment Tree + Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||

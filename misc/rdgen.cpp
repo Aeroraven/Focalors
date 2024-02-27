@@ -37,10 +37,14 @@ int main() {
 			if (rand() % 300 == 0) {
 				w = w;
 			}
-			cout << "[" << rand() % w+1 << "," << w + 1 << "]";
+			cout << "[" << rand() % w+15 << "," << w + 15 << "]";
 			if (k != n - 1) {
 				cout << ",";
 			}
+		}
+
+		for (int k = 0; k < n; k++) {
+			cout << rand() % 150 + 1 << ",";
 		}
 		cout << endl;
 		continue;
