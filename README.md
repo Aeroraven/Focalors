@@ -300,6 +300,7 @@ So use it as free as you can.
 | 1994 | The Number of Good Subsets | Bit Mask + Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(m*2^m+logn) | C++ ||
 | 2097 | Valid Arrangement of Pairs | Eulerian Circuit (Hierholzer Algorithm) + Constant Reduction (TLE Avoidance) + Hash | **8 ★** | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 2147 | Number of Ways to Divide a Long Corridor | Simulation | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
+| 2156 | Find Substring With Given Hash Value | Primary Math + Sliding Window (Rolling Hash) | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2218 | Maximum Value of K Coins From Piles |  Dynamic Programming + Prefix Sum | 3 | <span style='color:red'>HARD</span> | O(nk)? | C++ ||
 | 2318 | Number of Distinct Roll Sequences |  Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2407 | Longest Increasing Subsequence | Segment Tree + Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
