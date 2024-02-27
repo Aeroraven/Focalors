@@ -288,6 +288,7 @@ So use it as free as you can.
 | 1547 | Minimum Cost to Cut a Stick | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(m^3) | C++ ||
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | <span style='color:red'>HARD</span> |   | C++ ||
 | 1671 | Minimum Number of Removals to Make Mountain Array | Dynamic Programming (LIS) + Binary Search | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 1681 | Minimum Incompatibility | Dynamic Programming + Bit Mask + Hash |  | <span style='color:red'>HARD</span> | O(n2^n) | C++ ||
 | 1723 | Find Minimum Time to Finish All Jobs | Bit Mask + Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(k*3^n) | C++ ||
 | 1739 | Building Boxes | Binary Search | 6 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
 | 1851 | Minimum Interval to Include Each Query | Greedy Strategy (Heap+Sort) + Two Pointers | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
