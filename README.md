@@ -282,6 +282,7 @@ So use it as free as you can.
 | 1425 | Constrained Subsequence Sum | Dynamic Programming + Sliding Window | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1434 | Number of Ways to Wear Different Hats to Each Other | Bit Mask + Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(nm*2^n) | C++ ||
 | 1463 | Cherry Pickup II | Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(nm^2) | C++ ||
+| 1473 | Paint House III | Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(n^2m^2) | C++ ||
 | 1499 | Max Value of Equation | Greedy Strategy (Sliding Window) | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1537 | Get the Maximum Score | Two Pointers | 3 | <span style='color:red'>HARD</span> | O(n+m) | C++ ||
 | 1547 | Minimum Cost to Cut a Stick | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(m^3) | C++ ||
@@ -289,6 +290,7 @@ So use it as free as you can.
 | 1671 | Minimum Number of Removals to Make Mountain Array | Dynamic Programming (LIS) + Binary Search | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1723 | Find Minimum Time to Finish All Jobs | Bit Mask + Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(k*3^n) | C++ ||
 | 1739 | Building Boxes | Binary Search | 6 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
+| 1851 | Minimum Interval to Include Each Query | Greedy Strategy (Heap+Sort) + Two Pointers | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1866 | Number of Ways to Rearrange Sticks With K Sticks Visible | Dynamic Programming + Combinatorics | 7 | <span style='color:red'>HARD</span> | O(nk) | C++ ||
 | 1884 | Egg Drop With 2 Eggs and N Floors | Dynamic Programming + Induction + Binary Search | 6 | <span style='color:orange'>MEDIUM</span> | O(logn) | C++ ||
 | 1944 | Number of Visible People in a Queue | Monotonic Stack | 4 | <span style='color:red'>HARD</span> | | C++ ||
