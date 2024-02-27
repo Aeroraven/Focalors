@@ -295,6 +295,7 @@ So use it as free as you can.
 | 1851 | Minimum Interval to Include Each Query | Greedy Strategy (Heap+Sort) + Two Pointers | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1866 | Number of Ways to Rearrange Sticks With K Sticks Visible | Dynamic Programming + Combinatorics | 7 | <span style='color:red'>HARD</span> | O(nk) | C++ ||
 | 1884 | Egg Drop With 2 Eggs and N Floors | Dynamic Programming + Induction + Binary Search | 6 | <span style='color:orange'>MEDIUM</span> | O(logn) | C++ ||
+| 1931 | Painting a Grid With Three Different Colors | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n3^(2m)) | C++ ||
 | 1944 | Number of Visible People in a Queue | Monotonic Stack | 4 | <span style='color:red'>HARD</span> | | C++ ||
 | 1994 | The Number of Good Subsets | Bit Mask + Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(m*2^m+logn) | C++ ||
 | 2097 | Valid Arrangement of Pairs | Eulerian Circuit (Hierholzer Algorithm) + Constant Reduction (TLE Avoidance) + Hash | **8 ★** | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
