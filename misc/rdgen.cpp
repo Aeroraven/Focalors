@@ -33,11 +33,11 @@ int main() {
 		}
 		for (int k = 0; k < n; k++) {
 			int w = 0x7fffffff - rand() % 5;
-			w = 1000;
+			w = rand()%100+1;
 			if (rand() % 300 == 0) {
 				w = w;
 			}
-			cout << w;
+			cout << "[" << rand() % w+1 << "," << w + 1 << "]";
 			if (k != n - 1) {
 				cout << ",";
 			}
