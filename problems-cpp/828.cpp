@@ -26,6 +26,6 @@ public:
 
 int main() {
     Solution s;
-    cout << s.uniqueLetterString("ABC");
+    cout << s.uniqueLetterString("ABBCA");
     return 0;
 }
