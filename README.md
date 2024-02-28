@@ -243,7 +243,7 @@ So use it as free as you can.
 | 801 | Minimum Swaps To Make Sequences Increasing | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 805 | Split Array With Same Average | Divide And Conquer + Hash + Depth-first Search | 5 | <span style='color:red'>HARD</span> | O(n*2^n) | C++ ||
 | 827 | Making a Large Island | Breadth-first Search | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
-| 828 | Counting Unique Characters of All Substrings | Simulation | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
+| 828 | Counting Unique Characters of All Substrings | Simulation (Counting) | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 829 | Consecutive Numbers Sum | Primary Math | 2 | <span style='color:red'>HARD</span> |   | C++ ||
 | 834 | Sum of Distances In Tree | Dynamic Programming + Depth-first Search | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 847 | Shortest Path Visiting All Nodes | Breadth-first Search + Bit Mask | 6 | <span style='color:red'>HARD</span> | O(n^2*2^n) | C++ ||
@@ -257,6 +257,7 @@ So use it as free as you can.
 | 891 | Sum of Subsequence Width | Primary Math + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 902 | Numbers At Most N Given Digit Set | Simulation | 2 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
 | 956 | Tallest Billboard | Dynamic Programming + Hash | N/A | <span style='color:red'>HARD</span> | O(ns^2) | C++ |T|
+| 968 | Binary Tree Cameras | Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 996 | Number of Squareful Arrays | Bit Mask + Dynamic Programming | N/A | <span style='color:red'>HARD</span> | O(sqrt(d) n^2*2^n) | C++ |T|
 | 1012 | Numbers With Repeated Digits | Dynamic Programming | 5 | <span style='color:red'>HARD</span> | / | C++ ||
 | 1025 | Divisor Game | Induction / Gaming Theory | 3 | <span style='color:green'>EASY</span> |   | C++ ||
@@ -292,6 +293,7 @@ So use it as free as you can.
 | 1681 | Minimum Incompatibility | Dynamic Programming + Bit Mask + Hash | 4 | <span style='color:red'>HARD</span> | O(n2^n) | C++ ||
 | 1723 | Find Minimum Time to Finish All Jobs | Bit Mask + Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(k*3^n) | C++ ||
 | 1739 | Building Boxes | Binary Search | 6 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
+| 1751 | Maximum Number of Events That Can Be Attended II | Dynamic Programming + Discretization (Hash + Sort) | 3 | <span style='color:red'>HARD</span> | O(nlogn+nk) | C++ ||
 | 1851 | Minimum Interval to Include Each Query | Greedy Strategy (Heap+Sort) + Two Pointers | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1866 | Number of Ways to Rearrange Sticks With K Sticks Visible | Dynamic Programming + Combinatorics | 7 | <span style='color:red'>HARD</span> | O(nk) | C++ ||
 | 1884 | Egg Drop With 2 Eggs and N Floors | Dynamic Programming + Induction + Binary Search | 6 | <span style='color:orange'>MEDIUM</span> | O(logn) | C++ ||
@@ -302,9 +304,11 @@ So use it as free as you can.
 | 2147 | Number of Ways to Divide a Long Corridor | Simulation | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2156 | Find Substring With Given Hash Value | Primary Math + Sliding Window (Rolling Hash) | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2218 | Maximum Value of K Coins From Piles |  Dynamic Programming + Prefix Sum | 3 | <span style='color:red'>HARD</span> | O(nk)? | C++ ||
+| 2262 | Total Appeal of a String | Simulation (Counting) | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2251 | Number of Flowers in Full Bloom | Two Pointers + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2318 | Number of Distinct Roll Sequences |  Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
-| 2407 | Longest Increasing Subsequence | Segment Tree + Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 2407 | Longest Increasing Subsequence | Segment Tree + Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 2426   | Number of Pairs Satisfying Inequality | Binary Indexed Tree | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2569 | Handling Sum Queries After Update | Segment Tree | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2681 | Power of Heroes | Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
@@ -348,6 +352,8 @@ So use it as free as you can.
 ## Perceived Difficulty
 
 It's **ridiculous** to see the mismatched difficulty annotated in the problem set (e.g. <span style='color:red'>HARD</span> `NQueens`)
+
+Perceived difficulty is a **subjective** rating to a problem. The criteria might be subject to the **personal experience**.
 
 
 | Rank | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
