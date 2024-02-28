@@ -267,6 +267,7 @@ So use it as free as you can.
 | 1210 | Minimum Moves to Reach Target with Rotations | Breadth-first Search | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 1220 | Count Vowels Permutation | Dynamic Programming | 0 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1223 | Dice Roll Simulation | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(nm) | C++ ||
+| 1235 | Maximum Profit In Job Scheduling | Dynamic Programming + Discretization + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 1289 | Minimum Falling Path Sum II | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(nk^2) | C++ ||
