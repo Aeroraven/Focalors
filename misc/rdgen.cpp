@@ -33,11 +33,12 @@ int main() {
 		}
 		for (int k = 0; k < n; k++) {
 			int w = 0x7fffffff - rand() % 5;
-			w = rand()+1;
-			if (rand() % 300 == 0) {
-				w = w;
+			w = rand()%15+1;
+			if (rand() % 16 == 0) {
+				w = -w;
 			}
-			cout << "[" << rand() % w+15 << "," << w + 15 <<"," << rand() % w + 15 << "]";
+			cout << w;
+			//cout << "[" << rand() % w+15 << "," << w + 15 <<"," << rand() % w + 15 << "]";
 			if (k != n - 1) {
 				cout << ",";
 			}
