@@ -295,6 +295,7 @@ So use it as free as you can.
 | 1723 | Find Minimum Time to Finish All Jobs | Bit Mask + Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(k*3^n) | C++ ||
 | 1739 | Building Boxes | Binary Search | 6 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
 | 1751 | Maximum Number of Events That Can Be Attended II | Dynamic Programming + Discretization (Hash + Sort) | 3 | <span style='color:red'>HARD</span> | O(nlogn+nk) | C++ ||
+| 1840   | Maximum Building Height | Stack + Sort + Math (Geometry) | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1851 | Minimum Interval to Include Each Query | Greedy Strategy (Heap+Sort) + Two Pointers | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1866 | Number of Ways to Rearrange Sticks With K Sticks Visible | Dynamic Programming + Combinatorics | 7 | <span style='color:red'>HARD</span> | O(nk) | C++ ||
 | 1884 | Egg Drop With 2 Eggs and N Floors | Dynamic Programming + Induction + Binary Search | 6 | <span style='color:orange'>MEDIUM</span> | O(logn) | C++ ||
@@ -311,6 +312,7 @@ So use it as free as you can.
 | 2318 | Number of Distinct Roll Sequences |  Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2407 | Longest Increasing Subsequence | Segment Tree + Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2426   | Number of Pairs Satisfying Inequality | Binary Indexed Tree | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 2454 | Next Greater Element IV | Monotonic Stack | 5 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2569 | Handling Sum Queries After Update | Segment Tree | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2681 | Power of Heroes | Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||

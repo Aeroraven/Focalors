@@ -31,14 +31,17 @@ int main() {
 		for (int i = 0; i < n; i++) {
 			a.push_back(rand() % 2);
 		}
+		int c = 0;
 		for (int k = 0; k < n; k++) {
 			int w = 0x7fffffff - rand() % 5;
-			w = rand()%15+1;
+			w = rand()%12+1;
 			if (rand() % 16 == 0) {
-				w = -w;
+				w = w;
 			}
-			cout << w;
-			//cout << "[" << rand() % w+15 << "," << w + 15 <<"," << rand() % w + 15 << "]";
+			//cout << w;
+			
+			cout << "[" << c+w << "," << rand()%(w*2) + 1 << "]";
+			c += w;
 			if (k != n - 1) {
 				cout << ",";
 			}
@@ -55,7 +58,7 @@ int main() {
 			for (int i = 0; i < n; i++) {
 				int w = rand() % 16;
 				if (rand()%2 == 0) {
-					w = -w;
+					w = w;
 				}
 				cout << "" << w << "";
 				if (i != n - 1) {
