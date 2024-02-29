@@ -207,6 +207,7 @@ So use it as free as you can.
 | 329 | Longest Increasing Path | Topological Sort | 4 | <span style='color:red'>HARD</span> | O(mn)  | C++ ||
 | 332 | Reconstruct Itinerary | Eulerian Circuit (Hierholzer Algorithm) + Greedy Strategy(Sort) + Hash | **8 ★** | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 367 | Valid Perfect Square | Binary Search | 0 | <span style='color:green'>EASY</span> |  O(logn) | C++ ||
+| 375 | Guess Number Higher or Lower II                              | Dynamic Programming (Range)                                  | 3                    | <span style='color:orange'>MEDIUM</span> | O(n^3)                         | C++ ||
 | 391 | Perfect Rectangle | Simulation + Intuition | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 403 | Frog Jump | Breadth-first Search | 3 | <span style='color:red'>HARD</span> |   | C++ ||
 | 407 | Trapping Water II | Heap | 5 | <span style='color:red'>HARD</span> | O(nm*log(nm)) | C++ ||
@@ -315,7 +316,7 @@ So use it as free as you can.
 | 2454 | Next Greater Element IV | Monotonic Stack | 5 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2569 | Handling Sum Queries After Update | Segment Tree | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
-| 2681 | Power of Heroes | Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 2681 | Power of Heroes | Sort | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2736 | Maximum Sum Queries | Sort + Discretization + Segment Tree + Binary Search (BST) | 6 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2926 | Maximum Balanced Subsequence | Segment Tree + Dynamic Programming + Discretization | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2940 | Find Building Where Alice and Bob Can Meet | Binary Search + Monotonic Stack + Sort | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
