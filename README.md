@@ -316,6 +316,7 @@ So use it as free as you can.
 | 2258 | Escape the Spreading Fire | Breadth-first Search + Binary Search | 6 | <span style='color:red'>HARD</span> | O(nmlog(nm)) | C++ ||
 | 2262 | Total Appeal of a String | Simulation (Counting) | 4 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2318 | Number of Distinct Roll Sequences |  Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
+| 2369 | Check if There is a Valid Partition For The Array | Dynamic Programming | 0 | <span style='color:orange'>MEDIUM</span> | O(n) | C++ ||
 | 2407 | Longest Increasing Subsequence | Segment Tree + Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2426   | Number of Pairs Satisfying Inequality | Binary Indexed Tree | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2454 | Next Greater Element IV | Monotonic Stack | 5 | <span style='color:red'>HARD</span> | O(n) | C++ ||
