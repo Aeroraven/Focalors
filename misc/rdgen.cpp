@@ -34,13 +34,13 @@ int main() {
 		int c = 0;
 		for (int k = 0; k < n; k++) {
 			int w = 0x7fffffff - rand() % 5;
-			w = rand()%12+1;
+			w = rand()%8000+1;
 			if (rand() % 16 == 0) {
 				w = w;
 			}
 			//cout << w;
 			
-			cout << "[" << c+w << "," << rand()%(w*2) + 1 << "]";
+			cout << "[" << rand() % (w * 2) + 1 << "," << rand()%(w*2) + 1 << "]";
 			c += w;
 			if (k != n - 1) {
 				cout << ",";

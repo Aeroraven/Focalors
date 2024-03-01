@@ -326,6 +326,7 @@ So use it as free as you can.
 | 2736 | Maximum Sum Queries | Sort + Discretization + Segment Tree + Binary Search (BST) | 6 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2926 | Maximum Balanced Subsequence | Segment Tree + Dynamic Programming + Discretization | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2940 | Find Building Where Alice and Bob Can Meet | Binary Search + Monotonic Stack + Sort | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 3027 | Sort + Simulation | Binary Search + Monotonic Stack + Sort | 0 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | LCR126 | Fibonacci Number | Dynamic Programming                                        | 0 | <span style='color:green'>EASY</span> | O(n) | C++ ||
 | LCR187 | Ice Breaking Game | Dynamic Programming (Joseph Ring) | 3 | <span style='color:green'>EASY</span> | O(n) | C++ ||
 
