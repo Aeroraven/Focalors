@@ -301,6 +301,7 @@ So use it as free as you can.
 | 1723 | Find Minimum Time to Finish All Jobs | Bit Mask + Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(k*3^n) | C++ ||
 | 1739 | Building Boxes | Binary Search | 6 | <span style='color:red'>HARD</span> | O(logn) | C++ ||
 | 1751 | Maximum Number of Events That Can Be Attended II | Dynamic Programming + Discretization (Hash + Sort) | 3 | <span style='color:red'>HARD</span> | O(nlogn+nk) | C++ ||
+| 1770 | Maximum Score from Performing Multiplication Operations | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(m^2) | C++ ||
 | 1840   | Maximum Building Height | Stack + Sort + Math (Geometry) | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1851 | Minimum Interval to Include Each Query | Greedy Strategy (Heap+Sort) + Two Pointers | 4 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 1866 | Number of Ways to Rearrange Sticks With K Sticks Visible | Dynamic Programming + Combinatorics | 7 | <span style='color:red'>HARD</span> | O(nk) | C++ ||
