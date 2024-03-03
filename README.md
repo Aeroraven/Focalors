@@ -190,6 +190,8 @@ So use it as free as you can.
 | 226 | Invert Binary Tree | Simulation | 0 | <span style='color:green'>EASY</span> |  O(n) | C++ ||
 | 230 | K-th Smallest Element in a BST | Inorder Traversal | 1 | <span style='color:orange'>MEDIUM</span> | O(n)  | C++ ||
 | 231 | Power of Two | Simulation | 0 | <span style='color:green'>EASY</span> | O(logn)  | C# ||
+| 232 | Implement Queue using Stacks | Simulation | 0 | <span style='color:green'>EASY</span> | O(nm) | / ||
+| 232F | Implement Queue using Stacks (Follow-up) | Simulation | 0 | <span style='color:green'>EASY</span> | O(n) | C# ||
 | 233 | Number of Digit One | Combinatorics + Dynamic Programming | 6 | <span style='color:red'>HARD</span> |   | C++ ||
 | 234 | Palindrome Linked List | Simulation | 0 | <span style='color:green'>EASY</span> | / | /      ||
 | 234F | Palindrome Linked List (Follow-up) | Simulation | 1 | <span style='color:green'>EASY</span> | O(n) | C++ ||
