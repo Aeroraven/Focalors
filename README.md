@@ -185,6 +185,8 @@ So use it as free as you can.
 | 206 | Reversed Linked List | Simulation | 0 | <span style='color:green'>EASY</span> | O(n)  | C++ ||
 | 214 | Shortest Palindrome | Rabin-Karp | 4 | <span style='color:red'>HARD</span> |   | C++ ||
 | 218 | The Skyline Problem | Heap + Sort | 5 | <span style='color:red'>HARD</span> |   | C++ ||
+| 225 | Implement Stack Using Queues | Simulation | 0 | <span style='color:green'>EASY</span> | O(nm) | / ||
+| 225F | Implement Stack Using Queues (Follow-up) | Simulation | 0 | <span style='color:green'>EASY</span> | O(nm) | C# ||
 | 226 | Invert Binary Tree | Simulation | 0 | <span style='color:green'>EASY</span> |  O(n) | C++ ||
 | 230 | K-th Smallest Element in a BST | Inorder Traversal | 1 | <span style='color:orange'>MEDIUM</span> | O(n)  | C++ ||
 | 231 | Power of Two | Simulation | 0 | <span style='color:green'>EASY</span> | O(logn)  | C# ||
