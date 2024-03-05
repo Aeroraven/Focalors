@@ -312,6 +312,7 @@ So use it as free as you can.
 | 1884 | Egg Drop With 2 Eggs and N Floors | Dynamic Programming + Induction + Binary Search | 6 | <span style='color:orange'>MEDIUM</span> | O(logn) | C++ ||
 | 1931 | Painting a Grid With Three Different Colors | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n*3^(2m)) | C++ ||
 | 1944 | Number of Visible People in a Queue | Monotonic Stack | 4 | <span style='color:red'>HARD</span> | | C++ ||
+| 1976 | Number of Ways to Arrive at Destination | Dijkstra (Heap) + Topological Sort | 5 | <span style='color:orange'>MEDIUM</span> | O(n^2logn) | C++ ||
 | 1994 | The Number of Good Subsets | Bit Mask + Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(m*2^m+logn) | C++ ||
 | 2097 | Valid Arrangement of Pairs | Eulerian Circuit (Hierholzer Algorithm) + Constant Reduction (TLE Avoidance) + Hash | **8 ★** | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 2147 | Number of Ways to Divide a Long Corridor | Simulation | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
@@ -332,7 +333,7 @@ So use it as free as you can.
 | 2736 | Maximum Sum Queries | Sort + Discretization + Segment Tree + Binary Search (BST) | 6 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2926 | Maximum Balanced Subsequence | Segment Tree + Dynamic Programming + Discretization | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2940 | Find Building Where Alice and Bob Can Meet | Binary Search + Monotonic Stack + Sort | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
-| 3027 | Sort + Simulation | Binary Search + Monotonic Stack + Sort | 0 | <span style='color:red'>HARD</span> | O(n) | C++ ||
+| 3027 |                                                              | Simulation + Sort | 0 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | LCR126 | Fibonacci Number | Dynamic Programming                                        | 0 | <span style='color:green'>EASY</span> | O(n) | C++ ||
 | LCR187 | Ice Breaking Game | Dynamic Programming (Joseph Ring) | 3 | <span style='color:green'>EASY</span> | O(n) | C++ ||
 
@@ -376,9 +377,9 @@ It's **ridiculous** to see the mismatched difficulty annotated in the problem se
 Perceived difficulty is a **subjective** rating to a problem. The criteria might be subject to the **personal experience**.
 
 
-| Rank | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |
-| Difficulty | TU | EZ- | EZ | EZ+ | MD- | MD | MD+ | HD- | HD | HD+ | IN- | IN | IN+ |
+| Rank | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |  -- |
+| Difficulty | TU- | TU | EZ- | EZ | EZ+ | MD- | MD | MD+ | HD- | HD | HD+ | IN- | IN | IN+ |
 
 - `TU`:  Tutorial
   
