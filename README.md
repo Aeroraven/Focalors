@@ -333,6 +333,7 @@ So use it as free as you can.
 | 2681 | Power of Heroes | Sort | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2736 | Maximum Sum Queries | Sort + Discretization + Segment Tree + Binary Search (BST) | 6 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2368 | Find the Minimum Possible Sum of a Beautiful Array | Greedy Strategy (Math) | 1                    | <span style='color:orange'>MEDIUM</span> | O(1) | C# ||
+| 2386 | Find the K-Sum of an Array | Sort + Heap | 7 | <span style='color:red'>HARD</span> | O(nlogn+klogk) | C++ ||
 | 2926 | Maximum Balanced Subsequence | Segment Tree + Dynamic Programming + Discretization | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2940 | Find Building Where Alice and Bob Can Meet | Binary Search + Monotonic Stack + Sort | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 3027 | Find the Number of Ways to Place People II                   | Simulation + Sort | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
