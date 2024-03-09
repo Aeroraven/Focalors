@@ -203,6 +203,7 @@ So use it as free as you can.
 | 283 | Move Zeroes | Two Pointers | 1 | <span style='color:green'>EASY</span> | O(n) | C# ||
 | 292 | Nim Game | Gaming Theory + Dynamic Programming | 3 | <span style='color:green'>EASY</span> |   | C++ ||
 | 295 | Find Median from Data Stream | Heap | 5 | <span style='color:red'>HARD</span> |   | C++ ||
+| 299 | Bulls and Cows | Simulation | 1 | <span style='color:orange'>MEDIUM</span> | O(n) | C# ||
 | 297 | Serialize and Deserialize Binary Tree | Breadth-first Search | 2 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 301 | Remove Invalid Parentheses | Depth-first Search | 6 | <span style='color:red'>HARD</span> | / | C++ ||
 | 312 | Burst Balloons | Dynamic Programming | 6 | <span style='color:red'>HARD</span> |   | C++ ||
