@@ -318,6 +318,7 @@ So use it as free as you can.
 | 2097 | Valid Arrangement of Pairs | Eulerian Circuit (Hierholzer Algorithm) + Constant Reduction (TLE Avoidance) + Hash | **8 ★** | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 2147 | Number of Ways to Divide a Long Corridor | Simulation | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 2156 | Find Substring With Given Hash Value | Primary Math + Sliding Window (Rolling Hash) | 3 | <span style='color:red'>HARD</span> | O(n) | C++ ||
+| 2129 | Capitalize the Title | Simulation | 1 | <span style='color:green'>EASY</span> | O(n) | C# ||
 | 2218 | Maximum Value of K Coins From Piles |  Dynamic Programming + Prefix Sum | 3 | <span style='color:red'>HARD</span> | O(nk)? | C++ ||
 | 2251 | Number of Flowers in Full Bloom | Two Pointers + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2258 | Escape the Spreading Fire | Breadth-first Search + Binary Search | 6 | <span style='color:red'>HARD</span> | O(nmlog(nm)) | C++ ||
