@@ -182,7 +182,9 @@ So use it as free as you can.
 | 189 | Rotate Array | Simulation | 1 | <span style='color:orange'>MEDIUM</span> |  / | / ||
 | 189F | Rotate Array (Follow-up) | Simulation + Math | 3 | <span style='color:orange'>MEDIUM</span> | O(n) | C++ ||
 | 199 | Binary Tree Right Side View | Simulation | 1 | <span style='color:orange'>MEDIUM</span> | O(n)  | C++ ||
+| 200 | Number of Islands | Breadth-first Search | 0 | <span style='color:orange'>MEDIUM</span> | O(nm) | C# ||
 | 206 | Reversed Linked List | Simulation | 0 | <span style='color:green'>EASY</span> | O(n)  | C++ ||
+| 207 | Course Schedule | Topological Sort | 0 | <span style='color:orange'>MEDIUM</span> | O(n) | C# ||
 | 214 | Shortest Palindrome | Rabin-Karp | 4 | <span style='color:red'>HARD</span> |   | C++ ||
 | 218 | The Skyline Problem | Heap + Sort | 5 | <span style='color:red'>HARD</span> |   | C++ ||
 | 225 | Implement Stack Using Queues | Simulation | 0 | <span style='color:green'>EASY</span> | O(nm) | / ||
@@ -279,6 +281,7 @@ So use it as free as you can.
 | 1220 | Count Vowels Permutation | Dynamic Programming | 0 | <span style='color:red'>HARD</span> | O(n) | C++ ||
 | 1223 | Dice Roll Simulation | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(nm) | C++ ||
 | 1235 | Maximum Profit In Job Scheduling | Dynamic Programming + Discretization + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 1261 | Find Elements in a Contaminated Binary Tree                  | Breadth-first Search | 0 | <span style='color:orange'>MEDIUM</span> | O(n) | C# / TypeScript ||
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 1289 | Minimum Falling Path Sum II | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(n^2) | C++ ||
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(nk^2) | C++ ||
@@ -336,6 +339,7 @@ So use it as free as you can.
 | 2681 | Power of Heroes | Sort | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2736 | Maximum Sum Queries | Sort + Discretization + Segment Tree + Binary Search (BST) | 6 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2834 | Find the Minimum Possible Sum of a Beautiful Array | Greedy Strategy (Math) | 1                    | <span style='color:orange'>MEDIUM</span> | O(1) | C# ||
+| 2864 | Maximum Odd Binary Number | Greedy Strategy (Simulation) | -1                   | <span style='color:green'>EASY</span> | O(n) | TypeScript ||
 | 2926 | Maximum Balanced Subsequence | Segment Tree + Dynamic Programming + Discretization | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2940 | Find Building Where Alice and Bob Can Meet | Binary Search + Monotonic Stack + Sort | 5 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 3027 | Find the Number of Ways to Place People II                   | Simulation + Sort | 1 | <span style='color:red'>HARD</span> | O(n) | C++ ||
