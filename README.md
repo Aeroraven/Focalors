@@ -338,6 +338,7 @@ So use it as free as you can.
 | 2575 | Find the Divisibility Array of a String | Simulation | 0 | <span style='color:orange'>MEDIUM</span> | O(n) | TypeScript ||
 | 2681 | Power of Heroes | Sort | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
 | 2736 | Maximum Sum Queries | Sort + Discretization + Segment Tree + Binary Search (BST) | 6 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
+| 2789 | Find the Minimum Possible Sum of a Beautiful Array | Greedy Strategy (Simulation) | 1 | <span style='color:orange'>MEDIUM</span> | O(n) | C# ||
 | 2834 | Find the Minimum Possible Sum of a Beautiful Array | Greedy Strategy (Math) | 1                    | <span style='color:orange'>MEDIUM</span> | O(1) | C# ||
 | 2864 | Maximum Odd Binary Number | Greedy Strategy (Simulation) | -1                   | <span style='color:green'>EASY</span> | O(n) | TypeScript ||
 | 2926 | Maximum Balanced Subsequence | Segment Tree + Dynamic Programming + Discretization | 3 | <span style='color:red'>HARD</span> | O(nlogn) | C++ ||
