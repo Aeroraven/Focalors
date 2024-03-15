@@ -349,6 +349,7 @@ So use it as free as you can.
 | 2569 | Handling Sum Queries After Update | Segment Tree | 5 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 2575 | Find the Divisibility Array of a String | Simulation | 0 | <span style='color:orange'>MEDIUM</span> | O(n) | `TS` ||
 | 2681 | Power of Heroes | Sort | 3 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
+| 2684 | Maximum Number of Moves in a Grid | Dynamic Programming | 0 | <span style='color:orange'>MEDIUM</span> | O(mn) | `CS` ||
 | 2736 | Maximum Sum Queries | Sort + Discretization + Segment Tree + Binary Search (BST) | 6 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 2789 | Find the Minimum Possible Sum of a Beautiful Array | Greedy Strategy (Simulation) | 1 | <span style='color:orange'>MEDIUM</span> | O(n) | `CS` ||
 | 2834 | Find the Minimum Possible Sum of a Beautiful Array | Greedy Strategy (Math) | 1                    | <span style='color:orange'>MEDIUM</span> | O(1) | `CS` ||
@@ -394,7 +395,7 @@ So use it as free as you can.
 
 ## Perceived Difficulty
 
-It's **ridiculous** to see the mismatched difficulty annotated in the problem set (e.g. <span style='color:red'>HARD</span> `NQueens`)
+It's **RIDICULOUS** to see the mismatched difficulty annotated in the problem set (e.g. <span style='color:red'>HARD</span> `NQueens`)
 
 Perceived difficulty is a **subjective** rating to a problem. The criteria might be subject to the **personal experience**.
 
