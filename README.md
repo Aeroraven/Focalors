@@ -219,6 +219,7 @@ So use it as free as you can.
 | 299 | Bulls and Cows | Simulation | 1 | <span style='color:orange'>MEDIUM</span> | O(n) | `CS` ||
 | 297 | Serialize and Deserialize Binary Tree | Breadth-first Search | 2 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
 | 301 | Remove Invalid Parentheses | Depth-first Search | 6 | <span style='color:red'>HARD</span> | / | `CPP` ||
+| 303 | Range Sum Query Immutable | Prefix Sum | -1 | <span style='color:green'>EASY</span> | O(n) | `CS` ||
 | 310 | Minimum Height Tree | Dynamic Programming | 3 | <span style='color:orange'>MEDIUM</span> | O(n) | `CS` ||
 | 312 | Burst Balloons | Dynamic Programming | 6 | <span style='color:red'>HARD</span> |   | `CPP` ||
 | 315 | Count of Smaller Numbers After Self | Binary Index Tree | 3 | <span style='color:red'>HARD</span> |   | `CPP` ||

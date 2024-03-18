@@ -18,11 +18,9 @@ public:
         }
         for (int i = 1; i < m; i++) {
             for (int j = 1; j < n; j++) {
-                // Slice Vertical
                 for (int k = 1; k < j; k++) {
                     f(i, j) = std::max(f(i, j), f(i, k) + f(i, j - k));
                 }
-                // Slice Horizontal
                 for (int k = 1; k < i; k++) {
                     f(i, j) = std::max(f(i, j), f(k, j) + f(i - k, j));
                 }
