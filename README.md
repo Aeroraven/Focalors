@@ -223,6 +223,7 @@ So use it as free as you can.
 | 310 | Minimum Height Tree | Dynamic Programming | 3 | <span style='color:orange'>MEDIUM</span> | O(n) | `CS` ||
 | 312 | Burst Balloons | Dynamic Programming | 6 | <span style='color:red'>HARD</span> |   | `CPP` ||
 | 315 | Count of Smaller Numbers After Self | Binary Index Tree | 3 | <span style='color:red'>HARD</span> |   | `CPP` ||
+| 322 | Coin Change | Dynamic Programming | 1 | <span style='color:orange'>MEDIUM</span> | O(nm)  | `CS` ||
 | 327 | Count of Range Sum | Binary Index Tree + Hash + Binary Search Tree + Prefix Sum | 6 | <span style='color:red'>HARD</span> |   | `CPP` ||
 | 329 | Longest Increasing Path | Topological Sort | 4 | <span style='color:red'>HARD</span> | O(mn)  | `CPP` ||
 | 332 | Reconstruct Itinerary | Eulerian Circuit (Hierholzer Algorithm) + Greedy Strategy(Sort) + Hash | **8 ★** | <span style='color:red'>HARD</span> | O(n^2) | `CPP` ||
@@ -246,6 +247,7 @@ So use it as free as you can.
 | 494 | Target Sum | Dynamic Programming (Backpack) | 1 | <span style='color:orange'>MEDIUM</span> | O(ns) | `CS` |S|
 | 502 | IPO | Greedy Strategy | 2 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 514 | Freedom Trail | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(mn^2) | `CPP` ||
+| 518 | Coin Change II | Dynamic Programming | 1 | <span style='color:orange'>MEDIUM</span> | O(nm)  | `CS` ||
 | 543 | Diameter of Binary Tree | Simulation | 0 | <span style='color:green'>EASY</span> | O(n)  | `CPP` ||
 | 547 | Number of Provinces | Breadth-first Search | 2 | <span style='color:orange'>MEDIUM</span> | O(n^2)  | `CPP` ||
 | 552 | Student Attendance Record II | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
@@ -350,6 +352,7 @@ So use it as free as you can.
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
 | 2569 | Handling Sum Queries After Update | Segment Tree | 5 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 2575 | Find the Divisibility Array of a String | Simulation | 0 | <span style='color:orange'>MEDIUM</span> | O(n) | `TS` ||
+| 2642 | Design Graph With Shortest Path Calculator | Shortest Path | 2 | <span style='color:red'>HARD</span> | O(n^3logn) | `CPP` ||
 | 2681 | Power of Heroes | Sort | 3 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 2684 | Maximum Number of Moves in a Grid | Dynamic Programming | 0 | <span style='color:orange'>MEDIUM</span> | O(mn) | `CS` ||
 | 2736 | Maximum Sum Queries | Sort + Discretization + Segment Tree + Binary Search (BST) | 6 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
