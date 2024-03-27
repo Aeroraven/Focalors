@@ -335,6 +335,7 @@ So use it as free as you can.
 | 1969 | Minimum Non-Zero Product of the Array Elements | Fast Power Algorithm | 4 | <span style='color:orange'>MEDIUM</span> | O(nlogn) | `CS` ||
 | 1976 | Number of Ways to Arrive at Destination | Dijkstra (Heap) + Topological Sort | 5 | <span style='color:orange'>MEDIUM</span> | O(n^2logn) | `CPP` ||
 | 1994 | The Number of Good Subsets | Bit Mask + Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(m*2^m+logn) | `CPP` ||
+| 1997 | First Day Where You Have Been in All the Rooms | Dynamic Programming | 4 | <span style='color:orange'>MEDIUM</span> | O(n) | `CPP` ||
 | 2097 | Valid Arrangement of Pairs | Eulerian Circuit (Hierholzer Algorithm) + Constant Reduction (TLE Avoidance) + Hash | **8 ★** | <span style='color:red'>HARD</span> | O(n^2) | `CPP` ||
 | 2147 | Number of Ways to Divide a Long Corridor | Simulation | 1 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
 | 2156 | Find Substring With Given Hash Value | Primary Math + Sliding Window (Rolling Hash) | 3 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
