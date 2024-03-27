@@ -352,6 +352,7 @@ So use it as free as you can.
 | 2509 | Cycle Length Queries in a Tree | Binary Operation | 4 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
 | 2569 | Handling Sum Queries After Update | Segment Tree | 5 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 2575 | Find the Divisibility Array of a String | Simulation | 0 | <span style='color:orange'>MEDIUM</span> | O(n) | `TS` ||
+| 2580 | Count Ways to Group Overlapping Ranges | Simulation | 0 | <span style='color:orange'>MEDIUM</span> | O(nlogn) | `CPP` |
 | 2642 | Design Graph With Shortest Path Calculator | Shortest Path | 2 | <span style='color:red'>HARD</span> | O(n^3logn) | `CPP` ||
 | 2681 | Power of Heroes | Sort | 3 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 2684 | Maximum Number of Moves in a Grid | Dynamic Programming | 0 | <span style='color:orange'>MEDIUM</span> | O(mn) | `CS` ||
