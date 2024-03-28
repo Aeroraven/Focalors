@@ -335,7 +335,6 @@ So use it as free as you can.
 | 1969 | Minimum Non-Zero Product of the Array Elements | Fast Power Algorithm | 4 | <span style='color:orange'>MEDIUM</span> | O(nlogn) | `CS` ||
 | 1976 | Number of Ways to Arrive at Destination | Dijkstra (Heap) + Topological Sort | 5 | <span style='color:orange'>MEDIUM</span> | O(n^2logn) | `CPP` ||
 | 1994 | The Number of Good Subsets | Bit Mask + Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(m*2^m+logn) | `CPP` ||
-| 1997 | First Day Where You Have Been in All the Rooms | Dynamic Programming | 4 | <span style='color:orange'>MEDIUM</span> | O(n) | `CPP` ||
 | 2097 | Valid Arrangement of Pairs | Eulerian Circuit (Hierholzer Algorithm) + Constant Reduction (TLE Avoidance) + Hash | **8 ★** | <span style='color:red'>HARD</span> | O(n^2) | `CPP` ||
 | 2147 | Number of Ways to Divide a Long Corridor | Simulation | 1 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
 | 2156 | Find Substring With Given Hash Value | Primary Math + Sliding Window (Rolling Hash) | 3 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
@@ -366,6 +365,7 @@ So use it as free as you can.
 | 2789 | Find the Minimum Possible Sum of a Beautiful Array | Greedy Strategy (Simulation) | 1 | <span style='color:orange'>MEDIUM</span> | O(n) | `CS` ||
 | 2834 | Find the Minimum Possible Sum of a Beautiful Array | Greedy Strategy (Math) | 1                    | <span style='color:orange'>MEDIUM</span> | O(1) | `CS` ||
 | 2864 | Maximum Odd Binary Number | Greedy Strategy (Simulation) | -1                   | <span style='color:green'>EASY</span> | O(n) | `TS` ||
+| 2908 | Minimum Sum of Mountain Triplets I                           | Simulation | -2 | <span style='color:green'>EASY</span> | O(n^2) | `TS` ||
 | 2926 | Maximum Balanced Subsequence | Segment Tree + Dynamic Programming + Discretization | 3 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 2940 | Find Building Where Alice and Bob Can Meet | Binary Search + Monotonic Stack + Sort | 5 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 3027 | Find the Number of Ways to Place People II                   | Simulation + Sort | 1 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
@@ -412,9 +412,9 @@ It's **RIDICULOUS** to see the mismatched difficulty annotated in the problem se
 Perceived difficulty is a **subjective** rating to a problem. The criteria might be subject to the **personal experience**.
 
 
-| Rank | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |  -- |
-| Difficulty | TU- | TU | EZ- | EZ | EZ+ | MD- | MD | MD+ | HD- | HD | HD+ | IN- | IN | IN+ |
+| Rank | -2 | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |  -- |  -- |
+| Difficulty | TU- | TU- | TU | EZ- | EZ | EZ+ | MD- | MD | MD+ | HD- | HD | HD+ | IN- | IN | IN+ |
 
 - `TU`:  Tutorial
   
