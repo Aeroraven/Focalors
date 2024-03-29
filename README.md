@@ -366,8 +366,10 @@ So use it as free as you can.
 | 2834 | Find the Minimum Possible Sum of a Beautiful Array | Greedy Strategy (Math) | 1                    | <span style='color:orange'>MEDIUM</span> | O(1) | `CS` ||
 | 2864 | Maximum Odd Binary Number | Greedy Strategy (Simulation) | -1                   | <span style='color:green'>EASY</span> | O(n) | `TS` ||
 | 2908 | Minimum Sum of Mountain Triplets I                           | Simulation | -2 | <span style='color:green'>EASY</span> | O(n^2) | `TS` ||
+| 2909 | Minimum Sum of Mountain Triplets II                          | Monotonic Stack | 3 | <span style='color:orange'>MEDIUM</span> | O(n) | `CS` ||
 | 2926 | Maximum Balanced Subsequence | Segment Tree + Dynamic Programming + Discretization | 3 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 2940 | Find Building Where Alice and Bob Can Meet | Binary Search + Monotonic Stack + Sort | 5 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
+| 2952 | Minimum Number of Coins to be Added | Sort + Greedy Strategy | 4 | <span style='color:orange'>MEDIUM</span> | O(nlogn) | `CS` ||
 | 3027 | Find the Number of Ways to Place People II                   | Simulation + Sort | 1 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
 | LCR126 | Fibonacci Number | Dynamic Programming                                        | 0 | <span style='color:green'>EASY</span> | O(n) | `CPP` ||
 | LCR187 | Ice Breaking Game | Dynamic Programming (Joseph Ring) | 3 | <span style='color:green'>EASY</span> | O(n) | `CPP` ||
@@ -414,7 +416,7 @@ Perceived difficulty is a **subjective** rating to a problem. The criteria might
 
 | Rank | -2 | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |  -- |  -- |  -- |
-| Difficulty | TU- | TU- | TU | EZ- | EZ | EZ+ | MD- | MD | MD+ | HD- | HD | HD+ | IN- | IN | IN+ |
+| Difficulty | TU- | TU | TU+ | EZ- | EZ | EZ+ | MD- | MD | MD+ | HD- | HD | HD+ | IN- | IN | IN+ |
 
 - `TU`:  Tutorial
   
