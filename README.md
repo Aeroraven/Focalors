@@ -226,6 +226,8 @@ So use it as free as you can.
 | 322 | Coin Change | Dynamic Programming | 1 | <span style='color:orange'>MEDIUM</span> | O(nm)  | `CS` ||
 | 327 | Count of Range Sum | Binary Index Tree + Hash + Binary Search Tree + Prefix Sum | 6 | <span style='color:red'>HARD</span> |   | `CPP` ||
 | 329 | Longest Increasing Path | Topological Sort | 4 | <span style='color:red'>HARD</span> | O(mn)  | `CPP` ||
+| 330 | Patching Array | Greedy Strategy | 4 | <span style='color:red'>HARD</span> |   | `CS` |  T |
+| 375 | Verify Pre-order Serialization of a Binary Tree | Depth-first Search (DFS) | 1 | <span style='color:orange'>MEDIUM</span> | O(n) | `CS` |  |
 | 332 | Reconstruct Itinerary | Eulerian Circuit (Hierholzer Algorithm) + Greedy Strategy(Sort) + Hash | **8 ★** | <span style='color:red'>HARD</span> | O(n^2) | `CPP` ||
 | 367 | Valid Perfect Square | Binary Search | 0 | <span style='color:green'>EASY</span> |  O(logn) | `CPP` ||
 | 375 | Guess Number Higher or Lower II                              | Dynamic Programming (Range)                                  | 3                    | <span style='color:orange'>MEDIUM</span> | O(n^3)                         | `CPP` ||
