@@ -300,6 +300,7 @@ So use it as free as you can.
 | 1220 | Count Vowels Permutation | Dynamic Programming | 0 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
 | 1223 | Dice Roll Simulation | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(nm) | `CPP` ||
 | 1235 | Maximum Profit In Job Scheduling | Dynamic Programming + Discretization + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
+| 1250 | Check If It's a Good Array | Primary Math | 1 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 1261 | Find Elements in a Contaminated Binary Tree                  | Breadth-first Search | 0 | <span style='color:orange'>MEDIUM</span> | O(n) | `CS` / `TS` ||
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n^2) | `CPP` ||
 | 1289 | Minimum Falling Path Sum II | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(n^2) | `CPP` ||
