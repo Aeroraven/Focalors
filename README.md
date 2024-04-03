@@ -245,6 +245,7 @@ So use it as free as you can.
 | 467 | Unique Substrings in Wraparound String | Dynamic Programming | 1 | <span style='color:orange'>MEDIUM</span> | O(n) | `CS` ||
 | 472 | Concatenated Words | Trie + Depth-first Search | 6 | <span style='color:red'>HARD</span> | / | `CPP` ||
 | 474 | Ones And Zeros | Dynamic Programming (Backpack) | 2 | <span style='color:orange'>MEDIUM</span> | O(mnp+pq) | `CS` |ST|
+| 480 | Sliding Window Median | Heap + Redundancy | 6 | <span style='color:red'>HARD</span> | O(nlogn)? | `CPP` ||
 | 493 | Reverse Pairs | Merge Sort | 5 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 494 | Target Sum | Dynamic Programming (Backpack) | 1 | <span style='color:orange'>MEDIUM</span> | O(ns) | `CS` |S|
 | 502 | IPO | Greedy Strategy | 2 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
