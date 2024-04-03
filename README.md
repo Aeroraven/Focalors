@@ -286,6 +286,7 @@ So use it as free as you can.
 | 878 | Nth Magical Number | Math Theory + Binary Search | **7 ★** | <span style='color:red'>HARD</span> |   | `CPP` ||
 | 887 | Super Egg Drop | Induction + Dynamic Programming + Binary Search | **8 ★** | <span style='color:red'>HARD</span> | / | `CPP` ||
 | 891 | Sum of Subsequence Width | Primary Math + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
+| 895 | Max Frequency Stack | Heap | 1 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 902 | Numbers At Most N Given Digit Set | Simulation | 2 | <span style='color:red'>HARD</span> | O(logn) | `CPP` ||
 | 956 | Tallest Billboard | Dynamic Programming + Hash | N/A | <span style='color:red'>HARD</span> | O(ns^2) | `CPP` |T|
 | 968 | Binary Tree Cameras | Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
