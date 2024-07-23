@@ -322,6 +322,7 @@ So use it as free as you can.
 | 1463 | Cherry Pickup II | Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(nm^2) | `CPP` ||
 | 1473 | Paint House III | Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(n^2m^2) | `CPP` ||
 | 1499 | Max Value of Equation | Greedy Strategy (Sliding Window) | 2 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
+| 1515 | Best Position for a Service Center | Simulated Annealing | 6 | <span style='color:red'>HARD</span> |  | `CS` |L|
 | 1537 | Get the Maximum Score | Two Pointers | 3 | <span style='color:red'>HARD</span> | O(n+m) | `CPP` ||
 | 1547 | Minimum Cost to Cut a Stick | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(m^3) | `CPP` ||
 | 1610 | Maximum Number of Visible Points | Computational Geometry + Sort | 4 | <span style='color:red'>HARD</span> |   | `CPP` ||
