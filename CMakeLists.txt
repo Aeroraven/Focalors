@@ -25,3 +25,4 @@ foreach( SRC_FILE_NAME_TMPL ${SOURCE_STAGES_TMPL} )
 endforeach( SRC_FILE_NAME_TMPL ${SOURCE_STAGES_TMPL} )
 
 add_executable(rdgen "misc/rdgen.cpp")
+#add_executable(rdgen "misc/demo.cpp")

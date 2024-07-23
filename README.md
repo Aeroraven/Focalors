@@ -302,8 +302,10 @@ So use it as free as you can.
 | 1235 | Maximum Profit In Job Scheduling | Dynamic Programming + Discretization + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 1250 | Check If It's a Good Array | Primary Math | 1 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 1261 | Find Elements in a Contaminated Binary Tree                  | Breadth-first Search | 0 | <span style='color:orange'>MEDIUM</span> | O(n) | `CS` / `TS` ||
+| 1263 | Minimum Moves to Move a Box to Their Target Location | Breadth-first Search | 4 | <span style='color:red'>HARD</span> | O(n^4) | `CPP` ||
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | Dynamic Programming | 2 | <span style='color:red'>HARD</span> | O(n^2) | `CPP` ||
 | 1289 | Minimum Falling Path Sum II | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(n^2) | `CPP` ||
+| 1298 | Maximum Candies You Can Get from Boxes | Topological Sort | 3 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(nk^2) | `CPP` ||
 | 1326 | Minimum Number of Taps to Open to Water a Garden | Greedy Strategy (Sort) | 4 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 1335 | Minimum Difficulty of a Job Schedule | Dynamic Programming | 1 | <span style='color:red'>HARD</span> | O(dn^2) | `CPP` ||
