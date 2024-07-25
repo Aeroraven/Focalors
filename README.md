@@ -312,6 +312,7 @@ So use it as free as you can.
 | 1345 | Jump Game IV | Breadth-first Search | 3 | <span style='color:red'>HARD</span> |   | `CPP` ||
 | 1349   | Maximum Students Taking Exam                                 | Bit Mask + Dynamic Programming                               | 3                    | <span style='color:red'>HARD</span>      | O(nm2^(2m))                    | `CPP`    ||
 | 1359   | Count All Valid Pickup and Delivery Options                  | Combinatorics                                                | 0                    | <span style='color:red'>HARD</span>      | O(n)                           | `CPP`    ||
+| 1377 | Frog Position After T Seconds | Depth-first Search | 1 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
 | 1392 | Longest Happy Prefix | Suffix Array (KMP) | 1 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
 | 1402 | Reducing Dishes | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(n^2) | `CPP` ||
 | 1411 | Number of Ways to Paint Nx3 Grid | Dynamic Programming | 3 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
