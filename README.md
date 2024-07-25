@@ -319,6 +319,7 @@ So use it as free as you can.
 | 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Dynamic Programming + Prefix Sum + Scrolling Array | 5 | <span style='color:red'>HARD</span> | O(n^2m^2) | `CPP` ||
 | 1425 | Constrained Subsequence Sum | Dynamic Programming + Sliding Window | 3 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
 | 1434 | Number of Ways to Wear Different Hats to Each Other | Bit Mask + Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(nm*2^n) | `CPP` ||
+| 1444 | Number of Ways of Cutting a Pizza | Dynamic Programming + Prefix Sum | 4 | <span style='color:red'>HARD</span> | O(nmk(m+n)) | `CPP` ||
 | 1463 | Cherry Pickup II | Dynamic Programming | 5 | <span style='color:red'>HARD</span> | O(nm^2) | `CPP` ||
 | 1473 | Paint House III | Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(n^2m^2) | `CPP` ||
 | 1499 | Max Value of Equation | Greedy Strategy (Sliding Window) | 2 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
