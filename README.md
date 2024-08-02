@@ -288,9 +288,9 @@ So use it as free as you can.
 | 891 | Sum of Subsequence Width | Primary Math + Sort | 2 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 895 | Max Frequency Stack | Heap | 1 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 902 | Numbers At Most N Given Digit Set | Simulation | 2 | <span style='color:red'>HARD</span> | O(logn) | `CPP` ||
-| 975 | Odd Even Jump | Dynamic Programming + Binary Search Tree | 4 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 956 | Tallest Billboard | Dynamic Programming + Hash | N/A | <span style='color:red'>HARD</span> | O(ns^2) | `CPP` |T|
 | 968 | Binary Tree Cameras | Dynamic Programming | 4 | <span style='color:red'>HARD</span> | O(n) | `CPP` ||
+| 975 | Odd Even Jump | Dynamic Programming + Binary Search Tree | 4 | <span style='color:red'>HARD</span> | O(nlogn) | `CPP` ||
 | 996 | Number of Squareful Arrays | Bit Mask + Dynamic Programming | N/A | <span style='color:red'>HARD</span> | O(sqrt(d) n^2*2^n) | `CPP` |T|
 | 1012 | Numbers With Repeated Digits | Dynamic Programming | 5 | <span style='color:red'>HARD</span> | / | `CPP` ||
 | 1025 | Divisor Game | Induction / Gaming Theory | 3 | <span style='color:green'>EASY</span> |   | `CPP` ||
